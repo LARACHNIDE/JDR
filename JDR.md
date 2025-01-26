@@ -2,13 +2,34 @@
 
 ## Personnages principaux
 
-| ![Pinto](images\Pinto.png) | ![Thalir](images\Thalir.png) |
-|:--------------------------:|:---------------------------:|
-| Pinto (Astador)            | Thalir (Nainbus)            |
-| ![Quazor](images\Quazor.png) | ![Phobos](images\Phobos.png) |
-| Quazor (Bastoune)          | Phobos (Woof)               |
-| ![Arof](images\Arof.png)   |                             |
-| Arof (Arof)                |                             |
+<table>
+<tr>
+<td>
+<img src="images\Pinto.png" width="500">
+Pinto (Astador)
+</td>
+<td>
+<img src="images\Thalir.png" width="500">
+Thalir (Nainbus)
+</td>
+</tr>
+<tr>
+<td>
+<img src="images\Quazor.png" width="500">
+Quazor (Bastoune)
+</td>
+<td>
+<img src="images\Phobos.png" width="500">
+Phobos (Woof)
+</td>
+</tr>
+<tr>
+<td>
+<img src="images\Arof.png" width="500">
+Arof
+</td>
+</tr>
+</table>
 
 ## Contexte
 
