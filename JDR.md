@@ -242,7 +242,7 @@ Pinto fait le rapport de tout ce qu'on a traversé dans le village.
 Victor demande à Jean Villeroy d'aller chercher la patrouille qu'on a croisée sur le chemin du retour, et on choisit de
 refaire un point le lendemain.
 
-Pinto teste sa flûte, elle produit un sentiment de malaise profond chez Thalir, qui lui intime très fermement d'arrêter.
+Pinto teste sa flûte, elle produit un sentiment de malaise profond chez Thalir, qui lui intime très fermement d'arrêter. Pinto a la sensation de pouvoir "ressentir" les gens qui sont touchés par ce "sortilège".
 Le lendemain, la patrouille est finalement revenue (sans Serge putain ...).
 Lapontée choisit de mettre en place un plan pour atteindre la forteresse : Forcer une bataille avec l'armée qui encercle
 la forteresse pour que notre petite équipe parvienne à s'infiltrer dedans pendant la diversion créée par Lapontée.
@@ -313,11 +313,11 @@ Iber prisonnier
 
 Il nous demande de l'aide pour sortir. Il nous raconte qu'il s'est emprisonné tout seul pour se planquer. Les clés sont dans la pièce
 avec les cadavres. Il nous explique qu'après le Cataclysme, il a compris qu'il ne pouvait plus vraiment quitter la forteresse et a fini par
-se coincer là. Il nous montre sa main, sertie d'un anneau magique qui semble le protéger des pulsions sonores qu'on entend depuis le début.
+se coincer là. Il nous montre sa main, sertie d'un anneau magique qui semble le protéger des pulsions sonores qu'on entend depuis le début (cadeau de sa mère qui lui a donné comme un talisman).
 On finit par nous donner son nom : Iber. On fait un deal de le libérer et il nous aide à sortir de ce merdier.
 
 Il nous explique que le buisson, c'est ce qu'il y a derrière le Mur. La forêt devant la ville, c'est la Garde qui a été transformée
-en arbres. Il dit que c'est comme ça qu'ils se battent, "ça" dit-il en crachant sur le buisson brûlé. Il ne sait pas relier les zombis
+en arbres après avoir été amassée à la sortie. Il dit que c'est comme ça qu'ils se battent, "ça" dit-il en crachant sur le buisson brûlé. Il ne sait pas relier les zombis
 et la forêt. tout est arrivé en même temps mais il n'en sait pas plus. Le prêtre a probablement le même anneau que Iber car Pinto
 avait senti la même forme de magie que sur Iber. Il trouve ça bizarre que Nestor revienne seul des excursions en extérieur. Il
 ne lui fait donc pas confiance.
@@ -341,7 +341,7 @@ Au moment où on s'avance vers elle, la dryade s'éveille et le combat s'engage.
 <tr>
 <td>
 <img src="images\dryade.png" width="500">
-Dryade 1
+Dryade 1 dmr
 </td>
 <td>
 <img src="images\fight_vs_arbre.png" width="500">
@@ -352,10 +352,10 @@ Dryade 1
 Iber plante une unique flèche de tout le fight, et le combat est gagné sur un triple kill de Quazor.
 A sa mort, la fumée de la créature se concentre dans une pierre noire, qui semble pulser d'une lumière un
 peu violette. Les sensations qu'on ressentait auparavant sont encore sensibles, mais drastiquement plus
-faibles.
+faibles. Il s'agit très probablement du Noyau.
 
 Iber remarque, à l'endroit où le monstre était attaché, un parchemin rempli de notes : "L’expérience touche à sa fin. Il est grand temps que
-nous regagnions ce qui nous est dû, notre vengeance est proche". C'est probablement une sorte de preuve qu'on mérite de garder précieusement.
+nous regagnions ce qui nous est dû, notre vengeance est proche". C'est probablement une sorte de preuve qu'on devrait garder précieusement.
 
 On ressort de la forteresse, Pinto s'envole et réalise que la troupe de Lapontée s'est probablement fait prendre en tenailles, il n'y
 a plus aucun mouvement visible. On décide de s'approcher du lieu du massacre pour essayer de comprendre ce qui s'est passé. On croise de
@@ -374,7 +374,7 @@ de lui aussi tomber du toit et s'effondrer au sol. Agonisant, Nestor n'a pas le 
 même s'il a l'air de dire que ce qu'on y a trouvé doit être extrêmement important.
 
 Sur son cadavre, on trouve un anneau maculé de sang qui ressemble à celui d'Iber, ainsi qu'un sac de ce qui ressemble à des haricots
-ou des sortes de graines (indéterminées).
+ou des sortes de graines (indéterminées). Quazor le récupère.
 
 <table>
 <tr>
@@ -395,3 +395,44 @@ ou des sortes de graines (indéterminées).
 
 On sort de la ville, on se rend à la maison de Nestor pour la fouiller au cas où on y trouve des infos supplémentaires et s'y reposer.
 
+## Chapitre VII - La Faille, les preuves, les anneaux et pierres de communication, les zombis par milliers
+
+Thalir se concentre sur le Noyau. Il sent une sorte d'énergie maléfique qu'il se sent maintenant capable de rediriger, mais il ne sait pas comment l'expulser ou vraiment la conserver mais bon voilà c'est là quoi.
+
+Pinto se concentre sur la pierre ornée du blason de Sermeille. Il semble entendre des pas et des cloches. En tentant de siffloter "La Ballade de Gero", il semble que son sifflement soit absorbé par la pierre.
+
+Le père Rougier se met à parler à Quazor au travers de l'anneau récupéré sur le cadavre de Nestor. Il dit qu'il est "là" mais Quazor ne l'entend que dans sa tête. Rougier entend tout ce qu'il dit tant qu'il porte l'anneau. Lorsqu'il porte l'anneau, il se sent apaisé. Quand il l'enlève, le père Rougier ne peut plus communiquer.
+
+Pinto se rend compte qu'il a de plus en plus envie de jouer de la flûte devant la pierre bizarre avec le blason de Sermeille. On sort de la maison pour le laisser faire sans en subir les conséquences (30 ft de portée). Il arrive à projeter l'énergie de la flûte dans la pierre. Il a l'impression de ressentir quelque chose de très vague, de très lointain vers le Nord, de vivant.
+
+Iber accepte de nous accompagner voir le prêtre pour y voir plus clair.
+
+En arrivant près de l'église, on remarque que la porte est grande ouverte, et que le sol semble avoir été piétiné. Il y a eu du passage entre la ville et l'église, ils se rendent tous vers la ville en partant de l'église. Les empreintes sont profondes, récentes (max quelques heures). Sur le parvis de l'église, on remarque une longue forme noire allongée par terre.
+Le père Rougier est étendu à terre, un carreau planté dans l'oeil, mort.
+
+On se retourne vers Quazor, qui explique que c'est bien sa voix qu'il entend, qui ne s'est pas rendu compte qu'il était mort. On réalise qu'il n'a plus son anneau, et pourtant il continue à nous parler, il parvient même à nous voir, il nous demande de respecter son corps et de ne pas lui voler d'objets.
+Iber retire son anneau pour voir si ça a un impact mais non, Rougier continue à parler à Quazor. Il précise d'ailleurs qu'il ne veut pas être enterré dans le cimetière, il préfère rester là.
+
+On ne parvient pas à en apprendre beaucoup plus via le père Rougier, donc on rentre dans l'église, dans laquelle il n'y a plus aucun symbole de Gero.
+Austèrement décorée, il n'y a rien de particulier dedans qui éveille notre curiosité. On ressort de l'église dans le but de se diriger vers la Faille.
+
+En y arrivant, on trouve des tours de garde dans lesquelles il y a des arbres là où on s'attendrait à trouver des soldats. Un parterre de plantes quitte la Faille et remonte vers le Nord. Ce sont des plantes inconnues.
+Nous décidons d'en récupérer un échantillon lorsque, arrivés près d'elles, elles commencent à flétrir.
+
+Phobos s'approche en premier, en tendant le doigt, elles s'enroulent autour de son doigt, sa main, il tente de retirer sa main mais elles s’agrippent. Obligé de les couper à la hache pour s'en extirper. Il en garde quelques unes dans un livre qui fera office d'herbier en attendant.
+
+Thalir s'avance, les plantes flétrissent. c'est probablement le Noyau qui cause cet état.
+
+Pinto nous dit d'un coup qu'il entend une voix le parler (mais pas nous).
+Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine Eugène Celtain. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, Pinto arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de Celtain, de Lapontée. C'est le capitaine Caplan. Pinto explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
+
+On décide de ramener le mort vivant qui est dans les geôles de la garnison de la Faille comme preuve supplémentaire jusqu'à Sermeille. En ouvrant la porte de sa cellule, il s'approche de Thalir et se plante devant lui, immobile. Il fixe le Noyau que Thalir a sorti de sa poche, et le suit comme un bon toutou. On le menotter et le ligoter, par sécurité. Pinto propose de le surnommer "Bizon".
+
+On quitte la garnison, la ville, on retrouve le sentier qui nous amène jusque là où on avait établi le campement. On décide de poursuivre vers le port pour tenter de prendre un bateau au plus vite.
+Sur le chemin, Phobos en tête, je me fais de nouveau agripper par des plantes qui coupent la route et se propagent vers le Nord.
+Thalir prend alors la tête de la marche avec le Noyau, et on arrive jusqu'au port. Au niveau du port, on voit qu'il y a des arbres chelou comme ceux qu'on a croisés au niveau des postes de garde, un bateau est amarré avec aussi des arbres dessus. En s'approchant de trop près, Thalir commence à faire fondre un arbre, du sang en sort. On lui intime de reculer pour ne pas risquer de tuer l'humain dedans, si jamais on peut encore le faire un jour.
+Comme le bateau a lui aussi coulé, Iber nous indique l'emplacement d'une autre embarcation qui sert à faire une sorte de contrebande entre membres de la garde. On longe la berge, Iber en tête avec la torche en main. On finit par tomber sur un bosquet où se trouve un petit embarcadère et une grosse barque. Il y a aussi un gros trou avec des planches en bois qui font office d'entrepôt. On y trouve quelques bouteilles et on décide de passer la nuit là.
+
+On réalise aussi qu'on ne sait pas vraiment naviguer, donc au final on se dit que revenir à pied sera plus simple, d'autant que le père Rougier indique à Quazor qu'il pourrait nous indiquer un chemin à suivre au travers de la montagne
+
+On passe la nuit. Au réveil, 4 nouveaux zombis entourent Thalir, obnubilés par le Noyau qu'il porte. On hésite à les tuer mais le père Rougier nous menace de ne pas nous indiquer le bon chemin si on fait du mal à ses ouailles. Avant de prendre une décision les concernant, Thalir touche un des zombis et tente d'infuser l'énergie qu'il avait dans les mains. La chair de l'épaule se putréfie, le bras du zombi en tombe carrément. On fait tomber les zombis dans l'entrepôt creusé, et on affirme à Iber qu'on va vraiment passer par la montagne.
