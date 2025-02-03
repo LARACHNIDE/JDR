@@ -442,7 +442,7 @@ On passe la nuit. Au réveil, 4 nouveaux zombis entourent Thalir, obnubilés par
 On se met en route en suivant les indications du père Rougier (qui l'a mauvaise pour le zombi mais bon rabat-joie quoi). On pénètre dans la forêt, en se dirigeant vers la montagne qui nous fait face au Nord. Le sentier finit par être une route pavée. Une très grande arche de pierre nous fait face, recouverte de runes. Quazor réussit à déchiffrer les runes "maison" et "glace" (il est nul il se souvient pas de ses cours).
 Au moment de passer sous l'arche, on passe de l'autre côté (tin-tin-TIIIN). La route grimpe sur le flanc de la montagne, les premières neiges sont là, la végétation se raréfie.
 
-![la_montagne](images/la_montagne.png)
+![montagne](images/montagne.png)
 
 Arrivés en fin de la journée, on setup le camp pour passer la nuit.
 Le lendemain,  après une petite session de chasse de Thalir, on se remet en route et on finit par atteindre une cuvette enneigée, avec deux chemins qui s'offrent à nous. Le premier s'enfonce dans le plateau vers le Nord, le suivant contourne le plateau par la crête Est du plateau. On choisit de prendre par l'Est. Le chemin devient plus rocailleux, plus à pic, on longe vraiment l'arête du plateau, en passant même d'un versant à l'autre. Notre altitude atteint les 2000m, on ne peut pas encore distinguer Sermeille, mais par contre le Mur derrière nous se perd dans l'infini. En contrebas, après 2-3 heures de marche, on distingue une caravane qui semble anormalement grande en contrebas, dans le plateau. Il y a beaucoup d'agitation autour de cette caravane, mais on ne parvient pas à distinguer plus que des silhouettes. Comme nous sommes trop loins pour faire demi-tour, nous choisissons de continuer.
