@@ -436,3 +436,48 @@ Comme le bateau a lui aussi coulé, Iber nous indique l'emplacement d'une autre 
 On réalise aussi qu'on ne sait pas vraiment naviguer, donc au final on se dit que revenir à pied sera plus simple, d'autant que le père Rougier indique à Quazor qu'il pourrait nous indiquer un chemin à suivre au travers de la montagne
 
 On passe la nuit. Au réveil, 4 nouveaux zombis entourent Thalir, obnubilés par le Noyau qu'il porte. On hésite à les tuer mais le père Rougier nous menace de ne pas nous indiquer le bon chemin si on fait du mal à ses ouailles. Avant de prendre une décision les concernant, Thalir touche un des zombis et tente d'infuser l'énergie qu'il avait dans les mains. La chair de l'épaule se putréfie, le bras du zombi en tombe carrément. On fait tomber les zombis dans l'entrepôt creusé, et on affirme à Iber qu'on va vraiment passer par la montagne.
+
+## VIII - Les démons de la montagne
+
+On se met en route en suivant les indications du père Rougier (qui l'a mauvaise pour le zombi mais bon rabat-joie quoi). On pénètre dans la forêt, en se dirigeant vers la montagne qui nous fait face au Nord. Le sentier finit par être une route pavée. Une très grande arche de pierre nous fait face, recouverte de runes. Quazor réussit à déchiffrer les runes "maison" et "glace" (il est nul il se souvient pas de ses cours).
+Au moment de passer sous l'arche, on passe de l'autre côté (tin-tin-TIIIN). La route grimpe sur le flanc de la montagne, les premières neiges sont là, la végétation se raréfie.
+
+![La Montagne](images/La_Montagne.png)
+
+Arrivés en fin de la journée, on setup le camp pour passer la nuit.
+Le lendemain,  après une petite session de chasse de Thalir, on se remet en route et on finit par atteindre une cuvette enneigée, avec deux chemins qui s'offrent à nous. Le premier s'enfonce dans le plateau vers le Nord, le suivant contourne le plateau par la crête Est du plateau. On choisit de prendre par l'Est. Le chemin devient plus rocailleux, plus à pic, on longe vraiment l'arête du plateau, en passant même d'un versant à l'autre. Notre altitude atteint les 2000m, on ne peut pas encore distinguer Sermeille, mais par contre le Mur derrière nous se perd dans l'infini. En contrebas, après 2-3 heures de marche, on distingue une caravane qui semble anormalement grande en contrebas, dans le plateau. Il y a beaucoup d'agitation autour de cette caravane, mais on ne parvient pas à distinguer plus que des silhouettes. Comme nous sommes trop loins pour faire demi-tour, nous choisissons de continuer.
+
+Plus loin, le chemin semble s'enfoncer dans une caverne sombre. Il y a des éraflures au sol, à l'entrée de la grotte. Après avoir jeté une pierre dedans pour voir s'il y a un animal ou un truc qui se réveille. Rien ne se passe, on rentre donc dans la caverne. C'est un tunnel qui s'enfonce dans les profondeurs de la montagne, on marche pendant longtemps avant d'arriver à une intersection. Un chemin part sur notre gauche et descend légèrement, l'autre continue tout droit, il est un peu plus large. Quazor tente de sentir le vent, le courant d'air se trouve plutôt sur le chemin en face, mais il sent aussi une odeur particulière venant de la gauche, un peu désagréable.
+Comme c'est la fin de la journée, on se dit que ça ferait un bon endroit pour y passer la nuit. On s'y engouffre, l'odeur se fait sentir de plus en plus. C'est une odeur de viande avariée et de métal. Plus loin, on remarque la présence de petits os par terre, puis des bouts de massue, des bouts de bois. Alors que le chemin s'élargit, on arrive dans une grande caverne. Deux grognements se font entendre. Face à nous, deux ourse blancs se tiennent face à nous.
+
+![Nounours](images/nounours_battle.png)
+
+Y a un lapin géant qui se pointe sur le champ de bataille, les ours se font défoncer le gueule. GG WP.
+On loot une sorte de sceptre en bois dans la grotte, rien de bien important à nos yeux pour l'instant.
+On confectionne des vêtements en ours pour Iber, on ouvre une bouteille pour l'occasion. Après une soirée arrosée, on s'endort. A un moment pendant la nuit, quelqu'un a entendu des bruits de voix et des cris dans le lointain. C'était pendant la nuit mais rien de plus précis que pendant la nuit.
+
+<table>
+<tr>
+<td>
+<img src="images\Iber_ours.png" width="500">
+</td>
+<td>
+<img src="images\Iber_ours_v2.png" width="500">
+</td>
+</tr>
+<table>
+
+On repart, plus loin dans la grotte, elle s'élargit énormément, formant une gigantesque caverne. Tout au fond à gauche, une sorte de puits de lumière vient éclairer légèrement l'intérieur de la grotte. Le sentier longe le bord droit de la grotte, dans l'obscurité. En jetant un caillou dans le gouffre qui s'offre face à nous dans la caverne, on entend plusieurs rebonds successifs. Puis, quelques instants plus tard, des torches s'allument à mi-hauteur dans la caverne, on voit du mouvement, des cris.
+On continue à avancer prudemment le long du chemin, des torches descendent le long de la falaise, où une sorte de chemin est creusé et semble descendre en pente jusqu'à nous. On continue à progresser le long du sentier, les torches se rapprochent de nous. Arrivés à environ 30m, on distingue que ce sont des sortes de gobelins aux traits crayeux.
+Pinto annonce qu'on vient en paix. Face à nous, dans la troupe de gobelins, celui qui semble être le chef demande "C'est vous qui avez tué les démons ?". Pinto s'approche d'eux et leur narre nos aventures en chanson. Il leur donne aussi le sceptre en bois qu'on avait trouvé. On les entend chuchoter "ils ont le sceptre du roi". Ils cherchent à le prendre des mains de Pinto, qui leur demande de l'aide en échange. Au moment où le gobelin se saisit du sceptre, il est acclamé comme le nouveau roi par ses pairs.
+
+Alors qu'ils s'apprêtaient à partir, Pinto leur demande de l'aide pour nous assister dans la traversée de la montagne. Ils semblent prêts à nous aider, donc on les suit docilement. Arrivés à une intersection, il nous indique ce qui semble être la sortie. Mais avant ça, il nous emmène jusqu'à leur village. c'est un village troglodyte, avec des huttes en bois, des torches sont disposées partout. Un grand festin est organisé pour célébrer le nouveau roi. Ils amènent des grandes cages contenant des hiboux blessés et martyrisés qui appellent désespérément à l'aide. Pinto est désespéré.
+
+Pour tenter de les libérer, Pinto se rapproche du roi qui a le sceptre en main. Il prend la fourrure d'ours d'Iber et la tend au roi. Le roi l'attrape à deux mains, la tend vers le ciel pour se faire acclamer. Au même moment, Quazor se rapproche du roi, et tente de lui subtiliser le sceptre. Il y parvient, et Quazor crie "Je suis le roi !" à l'attention de tous les gobelins. L'ex-roi se tourne vers lui, tire son épée, et se jette sur Quazor.
+On lui pète la gueule, Quazor se proclame roi et les autres gobelins finissent par l'acclamer. Il ordonne de libérer la nourriture. Ils obéissent et libèrent une dizaine de petites chouettes.
+
+Quazor commence à entamer la discussion avec elles. Pistou nous explique qu'ils sont les assistants du marchand Lemaitre et que leur caravane a été attaquée la veille par les gobelins. Ils nous proposent de les accompagner jusqu'à la caravane pour s'assurer que tout va bien.
+
+Avant de partir, Pinto demande à un gobelin ce qu'il y a là-haut, là d'où vient la lumière qu'on voyait. Le gobelin, apeuré, dit que c'est le Seigneur de la Montagne qui habite là-bas. Il est si effrayé qu'il ne peut pas en dire plus.
+
+Asta : Poser des questions aux chouettes ?
