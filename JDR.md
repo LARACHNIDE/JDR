@@ -458,10 +458,10 @@ On confectionne des vêtements en ours pour **Iber**, on ouvre une bouteille pou
 <table>
 <tr>
 <td>
-<img src="images\**Iber**_ours.png" width="500">
+<img src="images\Iber_ours.png" width="500">
 </td>
 <td>
-<img src="images\**Iber**_ours_v2.png" width="500">
+<img src="images\Iber_ours_v2.png" width="500">
 </td>
 </tr>
 <table>
@@ -492,7 +492,7 @@ Une très grande chouette (1m90) sort de la caravane, il agite ses plumes et se 
 
 Il nous remercie d'avoir sauvé ses petites chouettes. On remarque alors des corps de gobelins carbonisés, encore fumants, qui jonchent le sol du plateau aux alentours de la caravane.
 
-**Pinto** dialogue un peu avec lui, il explique que c'est lui qui sait cramer les gobelins grâce à ce qu'il a appris au cours de ses voyages. On lui explique notre objectif envers Sermeille et que la route est encore longue. **Lemaitre** se penche alors vers un de ses assistants, qui part farfouiller dans la caravane et revient avec une bourse qu'il nous tend. Lorsqu'on lui demande de nous expliquer comment cela fonctionne, il se saisit d'une grosse pierre sur le sentier, et la place sur le sac, qui l'absorbe directement (le poids du sac reste inchangé).
+**Pinto** dialogue un peu avec lui, il explique que c'est lui qui sait cramer les gobelins grâce à ce qu'il a appris au cours de ses voyages. On lui explique notre objectif envers Sermeille et que la route est encore longue. **Lemaitre** se penche alors vers un de ses assistants, qui part farfouiller dans la caravane et revient avec une bourse qu'il nous tend. Lorsqu'on lui demande de nous expliquer comment cela fonctionne, il se saisit d'une grosse pierre sur le sentier, et la place sur le sac, qui l'absorbe directement (le poids du sac reste inchangé). **Phobos** récupère ce Sac à Rallonge.
 
 Après l'avoir remercié, il nous explique qu'il est en route vers un village de géants un peu plus loin au Nord, et qu'il se dirigera vers Sermeille ensuite. Il nous propose de l'accompagner, ce que nous acceptons.
 On monte dans la caravane, qui est comme un grand labyrinthe de couloirs encombrés dans lesquels on finit par arriver tout en haut de la caravane. En tapant sur le plancher avec son bâton, **Lemaitre** met la caravane en branle, par magie.
@@ -512,7 +512,7 @@ Dans la pièce qu'on atteint, ornée d'une grande cheminée, un géant trône en
 
 ![Url](images/url.png)
 
-Déballant le paquet de Lemaître, le roi géant **Url** découvre un collier (de la taille d'un écu pour nous) et dit qu'un certain "Chaman" leur a posé beaucoup de problèmes récemment, et qu'il espère le vaincre grâce à ce collier.
+Déballant le paquet de Lemaître, le roi géant **Url** découvre un collier (de la taille d'un écu pour nous) et dit qu'un certain "Chaman" leur a posé beaucoup de problèmes récemment, et qu'il espère le vaincre grâce à ce collier. **Quazor** le prend.
 
 Nous nous présentons à notre tour, expliquant que nous nous rendons à Sermeille. A ces mots, il nous explique que ce fameux **Tchurl** les a trahis il y a quelques années déjà et bloque le chemin. Il a volé une relique de leurs ancêtres, a asservi une tribu de gobelins, et qu'il est très puissant. C'était le plus fort d'entre eux. Jusque là, il a déjà réussi à repousser chacune de leurs attaques, il semble se remettre de toutes ses blessures. Le collier qu'a ramené **Lemaitre** est une relique qui serait capable de bloquer sa magie.
 
@@ -523,6 +523,52 @@ Fixant **Quazor**, **Url** annonce qu'il aurait bien quelque chose à lui offrir
 
 Avant d'aller se reposer, **Pinto** et **Quazor** négocient pour obtenir un beau chapeau, tandis que **Thalir** bave sur les armes de **Lemaitre**. **Pinto** lui montre les pierres obtenues dans La Faille. **Lemaitre** est très méfiant vis-à-vis de ces pierres, il encourage à faire bien attention en manipulant ces objets. En observant l'anneau de **Quazor**, il nous explique que c'est un anneau de protection mentale, qui protège l'esprit de son porteur (protection contre le mensonge, la télépathie non consentie, le fait de savoir si quelqu'un est bon ou mauvais). Mais il explique aussi qu'une personne qui mourrait en portant son anneau pourrait voir son esprit coincé dans cet anneau. (WINK WINK le père **Rougier**).
 
+<table>
+<tr>
+<td>
+<img src="images\Pinto_chapeau.png" width="500">
+</td>
+<td>
+<img src="images\Quazor_chapeau.png" width="500">
+</td>
+</tr>
+<table>
+
 On participe ensuite à un repas avec tout le monde (**Url**, **Karl**, **Lemaitre**, **Pistou** ...), puis pipi, les dents et au lit Emperor Size.
 
 Le lendemain, à l'aube, on se lève et on part en direction du domaine de **Tchurl** (la caverne où on était la veille). On y arrive en début d'après-midi, on va passer par la grotte pour l'attaquer.
+
+## X - Tchurl, dit le Chaman
+
+On repasse au milieu du camp des gobelins, qui nous ignorent globalement, et c'est réciproque. On continue donc à monter vers le haut, en se dirigeant vers une très grande ouverture dans le mur, d'où surgit la lumière du jour.
+Karl ouvre la marche et passe l'ouverture. Nous arrivons sur un grand plateau bordé par deux à-pics, formant une sorte de pont entre la montagne d'où nous venons et un éperon rocheux.
+
+<img src="images\le_plateau.png" width="500">
+
+Alors qu'on commence à s'avancer prudemment, un vrombissement se fait entendre. Suite à ça, on commence à entendre les cris aigus des gobelins dans la caverne derrière nous. Interloqués, nous décidons de rebrousser chemin pour comprendre ce qui se passe. D'en haut, on voit une multitude de torches qui s'allument et s'agitent dans le village en contrebas. Sortant de leur village, les gobelins se dirigent tous vers nous, une lueur rouge vive dans les yeux. Le vrombissement se fait entendre périodiquement, la lueur dans leurs yeux flashant à chaque fois. Bien que **Quazor** s’apprête à faire un discours pour les rallier à sa cause, **Karl** trouve ça trop dangereux, et décide de s'arrêter sur le chemin pour les retenir.
+
+<img src="images\le_plateau_2.png" width="500">
+
+
+Nous continuons sur le pont. Une vibration plus sourde se fait entendre, et des dizaines de créatures sortent de sous la neige.
+
+<img src="images\le_plateau_creatures.png" width="500">
+
+Pinto fait un massacre avec ses AOEs, les petits boutes de montagne animés sont détruits, jetés par-dessus bord ou bien fracassés par les marteaux et épées des uns et des autres.
+Une fois ce combat terminé, on a réussi à atteindre l'autre côté du pont, et devant no yeux ébahis se dresse **Tchurl**, ayant l'air fatigué, affaibli, mais c'est quand même un bon gros géant des familles, de 3-4 mètres de haut, entouré de nombreux autres petits montagnards qui l'accompagnent en masse.
+
+<img src="images\tchurl.png" width="500">
+
+Un blizzard mordant nous entoure, s'intensifiant à chaque seconde, de plus en plus puissant. **Quazor** sort alors l'amulette, qui se met à briller, jusqu'à ce qu'une onde de choc émane de l'amulette. Tous les petits montagnards se craquellent et tombent en miettes. L'amulette elle-même se fendille légèrement. Le combat contre **Tchurl** s'engage.
+
+<img src="images\tchurl_combat.png" width="500">
+
+On lui pulvérise la gueule et il s'effondre, mort pour de bon. On prend son gourdin dans le Sac à Rallonge, on félicité **Karl** pour sa bravoure et son combat contre les gobelins qu'il a mené seul. en s'approchant du cadavre, **Karl** pousse du bout du pied dans la falaise.
+
+On repasse parmi les survivants des gobelins, puis on rentre jusqu'au village des géants. Tout le monde (sauf Pistou) est là pour nous accueillir. On leur montre le gourdin de **Tchurl**, **Quazor** raconte le combat qui a eu lieu et **Karl** atteste de la mort du Chaman.
+
+**Url** nous fait porter un paquetage dans lequel se trouve un joyau de couleur bleue glace. Il s'agit d'un joyau que les géants minent dans la montagne, on pourra en tirer un bon prix. **Url** nous annonce qu'on peut aussi garder le médaillon, mais **Quazor** explique qu'il s'est brisé lors du combat. **Lemaitre** inspecte le médaillon et déclare qu'on devrait pouvoir encore s'en servir plusieurs fois. A priori il s'agit d'un médaillon qui annule la magie autour de soi en générant un champ anti-magie. Enfin, se tournant vers **Quazor**, il lui demande ce qu'il préfère entre le froid et la pierre. **Quazor** répond "le froid". **Url** lui donne alors une rune de froid.
+
+**Pinto** raconte rapidement la présence du camp de gobelins et **Quazor** leur tend le sceptre du roi des gobelins, au cas où ça pourrait leur servir (en tout cas plus qu'à nous).
+
+On reste sur place pour la nuit, et on décide de repartir le lendemain avec **Lemaitre** en direction de Sermeille. En attendant : boustifaille, boissons, visite de la cité des géants et chansons mélancoliques.
