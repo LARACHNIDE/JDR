@@ -356,6 +356,8 @@ faibles. Il s'agit très probablement du Noyau.
 **Iber** remarque, à l'endroit où le monstre était attaché, un parchemin rempli de notes : "L’expérience touche à sa fin. Il est grand temps que
 nous regagnions ce qui nous est dû, notre vengeance est proche". C'est probablement une sorte de preuve qu'on devrait garder précieusement.
 
+**Thalir** récupère aussi un livre sur une étagère, il est écrit dans une langue que personne ne sait déchiffrer.
+
 On ressort de la forteresse, **Pinto** s'envole et réalise que la troupe de Lapontée s'est probablement fait prendre en tenailles, il n'y
 a plus aucun mouvement visible. On décide de s'approcher du lieu du massacre pour essayer de comprendre ce qui s'est passé. On croise de
 nombreux cadavres de zombis, puis au fur et à mesure, on voit aussi les cadavres de nos compagnons, dont beaucoup ont des carreaux d'arbalète
@@ -372,8 +374,7 @@ Encore plus loin, on y découvre le corps de **Lapontée**, au bord du décès. 
 de lui aussi tomber du toit et s'effondrer au sol. Agonisant, **Nestor** n'a pas le temps d'expliquer quoi que ce soit non plus
 même s'il a l'air de dire que ce qu'on y a trouvé doit être extrêmement important.
 
-Sur son cadavre, on trouve un anneau maculé de sang qui ressemble à celui d'**Iber**, ainsi qu'un sac de ce qui ressemble à des haricots
-ou des sortes de graines (indéterminées). **Quazor** le récupère.
+Sur son cadavre, on trouve un anneau maculé de sang qui ressemble à celui d'**Iber**, ainsi qu'un sac de 12 graines, qui ressemblent à des haricots. **Quazor** le récupère.
 
 <table>
 <tr>
@@ -423,7 +424,7 @@ Nous décidons d'en récupérer un échantillon lorsque, arrivés près d'elles,
 **Thalir** s'avance, les plantes flétrissent. c'est probablement le **Noyau** qui cause cet état.
 
 **Pinto** nous dit d'un coup qu'il entend une voix le parler (mais pas nous).
-Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontée**. C'est le capitaine Caplan. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
+Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontée**. C'est le capitaine **Caplan**. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
 
 On décide de ramener le mort vivant qui est dans les geôles de la garnison de la Faille comme preuve supplémentaire jusqu'à Sermeille. En ouvrant la porte de sa cellule, il s'approche de **Thalir** et se plante devant lui, immobile. Il fixe le Noyau que **Thalir** a sorti de sa poche, et le suit comme un bon toutou. On le menotter et le ligoter, par sécurité. **Pinto** propose de le surnommer **"Bizon"**.
 
@@ -572,3 +573,49 @@ On repasse parmi les survivants des gobelins, puis on rentre jusqu'au village de
 **Pinto** raconte rapidement la présence du camp de gobelins et **Quazor** leur tend le sceptre du roi des gobelins, au cas où ça pourrait leur servir (en tout cas plus qu'à nous).
 
 On reste sur place pour la nuit, et on décide de repartir le lendemain avec **Lemaitre** en direction de Sermeille. En attendant : boustifaille, boissons, visite de la cité des géants et chansons mélancoliques.
+
+## XI - Retour à Sermeille
+
+Le lendemain, nous repartons de la Ville des Géants dans la caravane de **Lemaitre**. Durant le voyage, Quazor se présente à une chouette qui semble spécialisée dans les gemmes, à qui il présente la gemme bleur que nous a offerte le chef des géants, afin d'estimer sa valeur. elle annonce 1500 PO. Quazor et Pinto marchandent un peu en contant son histoire et d'où elle vient, et arrivent à en tirer 1800 PO.
+
+Puis vient la section tissu. Nous suivons la peinture verte tout le long de la caravane, où Quazor cherche un chapeau noir (spoiler: non). Ensuite on suit les lignes vertes, jaunes puis violettes pour rejoindre l'alchimiste.
+Au premier croisement **Pinto** et **Phobos** vont vers la droite en suivant une ligne jaune, jusqu'à arriver dans une grande pièce, très large, avec une trentaine de chouettes qui s'affairent devant deux immenses portes, dans ce qui semble être un sas d'embarcation.
+Au niveau de ce sas, c'est le carrefour initial des lignes, on trouve la ligne violette et on commence à la suivre.
+
+Pendant ce temps, **Quazor** et **Thalir** ont réussi à trouver un homme masqué d'un foulard, avec des fioles tout autour de lui, et qui vend des potions. **Thalir** lui montre les graines qu'il a récupérées sur **Nestor** dans La Faille, mais il ne sait pas leur dire ce que c'est. Il leur vend un sac de terreau et un bocal pour essayer de les planter et voir ce que ça donne. **Pinto** et **Phobos** les rejoignent. On plante les graines dans le terreau comme ça à l'arrache dans le couloir.
+
+On repart vers la salle d'embarquement pour ensuite essayer de chercher la ligne qui nous mènera vers le libraire. On n'est plus trop sûrs de là d'où on est venus, alors on repart vers la gauche, en suivant notre intuition, jusqu'à atteindre une section où les étagères entières sont recouvertes de sculptures d'animaux en pierre, bois, verre ... Il s'agit de la boutique de notre ami **Pistou**, qui gère l'entrepôt de statuettes d'animaux. Il nous indique le chemin pour atteindre le libraire (rouge à droite au prochain carrefour). Pinto en profite pour acheter un lot de statuettes de chouettes qui forment un jeu d'échecs.
+
+On repart et on arrive vers une chouette très élégante qui fait des bulles avec une pipe en bois. Il s'agit du libraire. **Thalir** lui présente le livre qu'il avait récupéré dans la salle de la Dryade dans La Faille, mais que personne d'entre nous ne sait lire. Le libraire non plus ne sait pas le déchiffrer. Chou blanc, donc.
+
+On repart dans le but de trouver **Lemaitre**, on 'remonte' le long de la caravane jusqu'à arriver jusqu'à une porte d'où filtre la lumière du jour, et on arrive sur le sommet de la caravane, où se dresse une hutte, qu'on suppose être celle de **Lemaitre**. **Pinto** va toquer à la porte. **Pinto** lui dit qu'on pourrait être là pour aider si besoin, et demande à voir les objets magiques qu'il pourrait nous vendre.
+
+A ce moment, on passe le long de la route qui était bloquée jusque là par la présence de **Tchurl**. La route est défoncée, des trous et des rochers semblent avoir été fracassés contre la route, ce qui explique pourquoi elle était bloquée.
+
+**Thalir** lui parle aussi de ce même livre dont la langue est inconnue. Tandis qu'il parcourt le livre, **Lemaitre** écarquille les yeux, et nous demande où on a bien pu trouver un livre pareil, et nous demande s'il est à vendre, ou si nous voulons le payer pour comprendre ce qu'il y a écrit dedans. Puisqu'on refuse de le payer pour ça, il nous donne comme conseil de faire attention à qui on montre le livre en question, car ce qu'il signifie pourrait être dangereux pour nous. On décide alors de ne pas trop reparler de ce livra à qui que ce soit d'autre pour l'instant, tant qu'on n'est pas sûrs de la confiance qu'on peut avoir en cette personne.
+
+Suite à ça, **Lemaitre** nous propose trois parchemins de sorts, on achète le parchemin qui forme une zone au sol et qui empêche de mentir.
+
+**Pinto** se met à se lancer dans une grande ballade qui charme un peu tout le monde sur le pont en chantant nos louanges, et nous encourage tous. Au bout de quelques instants, **Lemaitre** sort de sa cabane et interrompt tout en disant "Pas de magie", et s'en retourne dans sa cabane.
+
+Pendant ce temps, on avait aussi planté les graines dans le bocal et le terreau. Au bout de quelques minutes, la terre bouge, des grains de paille sortent de terre, puis au fur et à mesure, une sorte de nid sort de la terre, avec 7 petits oeufs dedans.
+
+On va frapper à la porte de **Lemaitre** pour lui montrer. Intrigué, il est prêt à nous en acheter. Nous marchandons deux oeufs contre des informations sur le livre. Il nous dit que ça a été écrit dans le monde de Karradin, donc en dehors de Gérouan, mais se refuse à nous en dire plus. Pour les oeufs, il en gobe un, ses plumes se mettent à chatoyer. Se saisissant du deuxième, il se crispe, se compresse, puis retrouve sa taille normale, tandis qu'un nuage de fumée sort de sa bouche. Suite à ça, il nous dit que ces oeufs peuvent apporter autant la fortune que l'infortune. 
+
+Avant de le quitte **Lemaitre** frappe du bâton sur le sol, et nous indique une porte qui nous permet de redescendre vers nos quartiers. On redescend vers nos chambres qu'on trouve hyper facilement car il semble que **Lemaitre** peut remodeler sa caravane selon son bon vouloir.
+
+En retournant dans nos quartiers, on explique à **Iber** ce qu'on a vécu, on lui parle des oeufs et **Thalir** se prépare à tester un oeuf pour voir ce que ça fait. Après avoir senti une chaleur, on voit un éclat lui parcourir la peau, il se sent plus sage. On décide de tous le suivre aussi, mais pour nous tous, on sent une chaleur insupportable, on vomit du sang, on crache de la fumée, on est complètement vidés de notre force vitale.
+
+On passe la nuit, ça joue aux échecs. Le lendemain, on entend du remue-ménage à l'extérieur, alors on sort pour aller voir. **Pinto** et **Thalir** montent sur le toit pour voir, **Phobos** et **Quazor** descendent au pied de la caravane.
+
+Le chemin devant nous, en direction de Sermeille, est bloqué par une bande de plantes comme on l'avait vu à La Faille. Les plantes sont un peu plus hauts que ce qu'on avait vu d'ailleurs. **Lemaitre** (ne haut) nous dit qu'on va devoir continuer sans lui, qu'il doit se rendre ailleurs de toute urgence. Il donne une petite pièce en bois (en forme de disque) qui lui permettra de nous contacter au besoin. Il nous dit que Sermeille n'est plus qu'à quelques heures de marche, mais il nous recommande de ne pas y aller pour notre sécurité, mais il comprend bien qu'on doive y aller. On débarque tous de la caravane, qui s'éloigne de nous et semble disparaître comme par magie.
+
+**Pinto** n'arrive pas à communiquer avec Sermeille via la pierre avec des oreilles et des bouches, la pierre semble inerte. On traverse l'étendue de buissons avec le Noyau, jusqu'à rejoindre la route qui nous mène à Sermeille. On atteint un hameau dans lequel des arbres sont couchés au sol, des branches sortent des fenêtres de certaines maisons. Les arbres en question ressemblent à ceux qu'on a vus jusque là, ce sont probablement des gens transformés en arbres. Depuis les airs, **Pinto** voit que l'autoroute de fleurs va droit vers Sermeille et n'en est pas loin, si elle ne l'a pas déjà atteinte. Une forêt qui ne devrait pas être là se tyrouve à l'extérieur de Sermeille.
+
+Sermeille a trois entrées au Sud, Est et Ouest (on est au Sud là), et au Nord se trouve le château du **Duc d'Estrelan**. La caserne, à l'Ouest, est collée à la ville mais dehors de ses murailles. on se rapproche de la forêt d'abord, elle semble bien être faite d'une armée/garnison en formation de combat qui aurait été transformée. On décide de se dépêcher pour rejoindre le chateau.
+
+<img src="images\sermeille_nok.png" width="500">
+
+Quand on rentre dans la ville, tout est silencieux. La caserne qu'on vient de longer est complètement déserte. Dedans, il y a des troncs d'arbre, des lianes et des ronces qui envahissent toutes les maisons et les rues. Dans une boutique, on reconnaît les troncs du forgeron **Bertan** et de la boulangère **Geniève**, ainsi que d'une troisième tronc plus petit, comme celui d'un enfant.
+
+<img src="images\sermeille_nok_veget.png" width="500">
