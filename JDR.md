@@ -84,7 +84,7 @@ Nous sommes chargés de nous rendre dans les Marshlands pour comprendre la raiso
 
 <img src="images\Faire_ses_preuves.png">
 
-Nous y allons et nous y rencontrons **Hugo**, le chef du village. Il nous raconte que des pêcheurs
+Nous nous rendons donc dans le village de Terp-eau et nous y rencontrons **Hugo**, le chef du village. Il nous raconte que des pêcheurs
 ont disparu ainsi que des enfants, attaqués par des lézards. Il nous redirige vers **Hugo**, le fils
 du meunier qui pourra nous donner plus d'infos. Ce dernier nous envoie vers les marécages en
 disant que c'est de là que venaient les hommes lézards qui ont mené les attaques.
@@ -424,7 +424,7 @@ Nous décidons d'en récupérer un échantillon lorsque, arrivés près d'elles,
 **Thalir** s'avance, les plantes flétrissent. c'est probablement le **Noyau** qui cause cet état.
 
 **Pinto** nous dit d'un coup qu'il entend une voix le parler (mais pas nous).
-Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontée**. C'est le capitaine **Caplan**. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
+Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontée**. C'est le commandant **Caplan**. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
 
 On décide de ramener le mort vivant qui est dans les geôles de la garnison de la Faille comme preuve supplémentaire jusqu'à Sermeille. En ouvrant la porte de sa cellule, il s'approche de **Thalir** et se plante devant lui, immobile. Il fixe le Noyau que **Thalir** a sorti de sa poche, et le suit comme un bon toutou. On le menotter et le ligoter, par sécurité. **Pinto** propose de le surnommer **"Bizon"**.
 
@@ -610,7 +610,7 @@ On passe la nuit, ça joue aux échecs. Le lendemain, on entend du remue-ménage
 
 Le chemin devant nous, en direction de Sermeille, est bloqué par une bande de plantes comme on l'avait vu à La Faille. Les plantes sont un peu plus hauts que ce qu'on avait vu d'ailleurs. **Lemaitre** (ne haut) nous dit qu'on va devoir continuer sans lui, qu'il doit se rendre ailleurs de toute urgence. Il donne une petite pièce en bois (en forme de disque) qui lui permettra de nous contacter au besoin. Il nous dit que Sermeille n'est plus qu'à quelques heures de marche, mais il nous recommande de ne pas y aller pour notre sécurité, mais il comprend bien qu'on doive y aller. On débarque tous de la caravane, qui s'éloigne de nous et semble disparaître comme par magie.
 
-**Pinto** n'arrive pas à communiquer avec Sermeille via la pierre avec des oreilles et des bouches, la pierre semble inerte. On traverse l'étendue de buissons avec le Noyau, jusqu'à rejoindre la route qui nous mène à Sermeille. On atteint un hameau dans lequel des arbres sont couchés au sol, des branches sortent des fenêtres de certaines maisons. Les arbres en question ressemblent à ceux qu'on a vus jusque là, ce sont probablement des gens transformés en arbres. Depuis les airs, **Pinto** voit que l'autoroute de fleurs va droit vers Sermeille et n'en est pas loin, si elle ne l'a pas déjà atteinte. Une forêt qui ne devrait pas être là se tyrouve à l'extérieur de Sermeille.
+**Pinto** n'arrive pas à communiquer avec Sermeille via la pierre avec des oreilles et des bouches, la pierre semble inerte. On traverse l'étendue de buissons avec le Noyau, jusqu'à rejoindre la route qui nous mène à Sermeille. On atteint un hameau dans lequel des arbres sont couchés au sol, des branches sortent des fenêtres de certaines maisons. Les arbres en question ressemblent à ceux qu'on a vus jusque là, ce sont probablement des gens transformés en arbres. Depuis les airs, **Pinto** voit que l'autoroute de fleurs - la Malabranche - va droit vers Sermeille et n'en est pas loin, si elle ne l'a pas déjà atteinte. Une forêt qui ne devrait pas être là se tyrouve à l'extérieur de Sermeille.
 
 Sermeille a trois entrées au Sud, Est et Ouest (on est au Sud là), et au Nord se trouve le château du **Duc d'Estrelan**. La caserne, à l'Ouest, est collée à la ville mais dehors de ses murailles. on se rapproche de la forêt d'abord, elle semble bien être faite d'une armée/garnison en formation de combat qui aurait été transformée. On décide de se dépêcher pour rejoindre le chateau.
 
@@ -619,3 +619,67 @@ Sermeille a trois entrées au Sud, Est et Ouest (on est au Sud là), et au Nord 
 Quand on rentre dans la ville, tout est silencieux. La caserne qu'on vient de longer est complètement déserte. Dedans, il y a des troncs d'arbre, des lianes et des ronces qui envahissent toutes les maisons et les rues. Dans une boutique, on reconnaît les troncs du forgeron **Bertan** et de la boulangère **Geniève**, ainsi que d'une troisième tronc plus petit, comme celui d'un enfant.
 
 <img src="images\sermeille_nok_veget.png" width="500">
+
+## XII - Sermeille, son château et sa cathédrale
+
+On va vers le château de Sermeille, situé au Nord de la ville. On se faufiles entre les arbres, ronces et lianes qui encombrent les rues. Au loin, **Phobos** entend quelque chose marcher au loin. On se camoufle tous dans un sortilège de dissimulation, et quelques mètres plus loin, on distingue en fait plusieurs bruits de pas accompagnés d'un bruit de pas plus lourd et plus lent.
+Au détour d'une rue, nous arrivons près de la place du marché, où nous voyons une sorte de patrouille. Un énorme monticule de plantes se dresse au milieu de la cour, accompagné de trois humanoïdes "arbrés" et de petits buissons qui les accompagnent, traversant la place du marché. Une fois qu'ils sont passés, on traverse la place du marché à notre tour, vers le château. De temps en temps, en prêtant l'oreille, on arrive à entendre d'autres patrouilles qui font la ronde dans la ville.
+
+Arrivés au château, on découvre une porte avec un pont de pierre qui mène au château originellement en pierre blanche, mais complètement recouvert de branches et de vignes maintenant.
+
+<table>
+<tr>
+<td>
+<img src="images\chateau_de_sermeille.png" width="500">
+</td>
+<td>
+<img src="images\plantard_plus_plus.png" width="500">
+</td>
+</tr>
+<table>
+
+Le château semble désert (en tout cas vu de l'extérieur). Puisque la porte est ouverte et la hêtre relevée, on rentre à notre tour. Plus loin, une porte a visiblement été enfoncée de l'extérieur vers l'intérieur.
+On rentre dans le hall d'entrée, avec d'immenses tentures, des chandeliers, des tapis luxueux. Au beau milieu de la pièce, une énorme masse de plantes est effondrée au sol, perforée de lances, de carreaux, de flèches. Au sol, il y a aussi des soldats humains, gisant au sol. On essaye de soulever le plantard gisant, mais il est trop lourd.
+
+**Iber** nous indique une direction dans laquelle il y a visiblement des traces de combats? On s'engage dans un long couloir, jonché de corps de plantards. Au bout, un grand escalier de pierre monte. Arrivés à l'étage, un autre long couloir s'élance devant nous, sans aucunes traces de combats à cet endroit. **Pinto** détecte de faibles traces de magie mais rien de précis. On s'avance dans le couloir en vérifiant les portes, mais rien d'intéressant. On revient sur nos pas, on reprend l'escalier pour arriver au deuxième étage. Pareil, on découvre un grand couloir similaire à celui du premier étage. On vérifie tout, mais rien d'intéressant non plus. Quelques chambres, un salle  de loisirs, une bibliothèque. On continue à monter au troisième (et dernier) étage. Ici, la porte est fracturée. On arrive dans un couloir où des armures de décoration sont renversées au sol, il y a quelques traces de lutte. On avance jusqu'à une porte qui est elle-même enfoncée, qui mène à une aile avec des boiseries, bien plus luxurieux. Des corps de plantards jonchent le sol. Une grande porte à double battant se trouve au bout de la pièce, fermée.
+
+En se rapprochant, **Phobos** écoute au battant de la porte, et entend des villageois apeurés derrière. Comme ils ne sont pas hostiles, on se présente en expliquant qui nous sommes et d'où nous venons, et ils finissent par ouvrir la porte. Derrière se trouve une trentaine de personnes, donc le **duc d'Estrellan**.
+
+<img src="images\Duc_d_Estrelan.png" width="500">
+
+
+On leur explique rapidement ce qu'on a vu dans la ville, expliquant que presque tout le monde est probablement mort, et que la ville est aux mains des plantards. Un garde nous explique que le commandant **Caplan**  est sorti avec l'armée pour défendre Sermeille, mais qu'ils ne l'ont pas revu depuis. Il est très probablement enraciné avec ses hommes dans la forêt qu'on a vue à l'entrée de la ville.
+
+Le **duc d'Estrelan** nous parle de la cathédrale, où les forces ennemies se seraient rassemblées. Depuis la fenêtre, le duc nous montre une vue plongeante sur la ville, où nous pouvons voir qu'ils ont fait s'effondrer la capitale - euh non la cathédrale ! - à l'Ouest. Il dit qu'il y a eu beaucoup de passage dans ce coin.
+
+**Thalir** explique le rôle du Noyau, son effet sur les morts-vivants, présente **Zombi** au duc, **Iber** se présente à son tour, dit qu'il vient de la Faille et qu'il a vécu l'invasion des plantards depuis l'autre côté du Mur.
+
+On suit ensuite un garde, accompagné du duc, qui nous emmène dans une chambre attenante au salon de réception dans lequel on était. Là, il nous explique que la plupart des gens ne savent pas ce qu'il y a de l'autre côté du Mur, qu'il préfère en parler en privé ici. Il nous explique qu'il n'avait pas pris conscience du risque que représentait ce qu'il y a de l'autre côté du Mur. Il se résout à aller chercher de l'aide à la capitale Milege pour regrouper des forces et tenter de repousser les plantards.
+
+Mais avant cela, il aimerait que nous allions chercher un maximum d'informations au niveau de la cathédrale, là où ils sont regroupés. **Pinto** lui demande des explications sur tout ce qu'il sait sur la Faille. Il nous dit que jusque là, La Faille ets un peu le seul endroit où il y a un accès à l'extérieur du Mur. Ils ont, par le passé, déjà dû repousser quelques excursions mais rien de cette ampleur. Il nous dit qu'il y a aussi probablement une autre faille dans le Mur, du côté des Conflans (au Nord-Est de Gérouan).
+
+Le duc va donc s'enfuir vers le Nord de la ville et nous attendre plus loin. **Iber** partira avec lui.
+
+Alors que le duc aimerait récupérer le Noyau pour ne pas risquer de la perdre dans cette mission, **Thalir** explique que ce serait plus sûr pour nous de le garder avec nous car on ne sait jamais trop sur quoi on risque de tomber. Il comprend, et accepte de nous le laisser. Il nous donne rendez-vous à Terp-eau, là où nous avions fait notre première mission, pour se retrouver après notre mission. Nous remettons **Zombi** à **Iber**, malgré ses réticences, et nous nous préparons à mener à bien notre mission d'infiltration.
+
+On commence à se faufiler dans les rues de la ville lorsque une patrouille nous repère.
+
+<table>
+<tr>
+<td>
+<img src="images\fight_sermeille.png" width="500">
+</td>
+<td>
+<img src="images\fight_sermeille2.png" width="500">
+</td>
+</tr>
+<table>
+
+On leur PÈTE la gueule. Mais comme une autre patrouille s'approche, on rebrousse chemin, et on passe par d'autres rues pour se rapprocher de la cathédrale. **Pinto** et **Thalir** passent par les toits, scoutent les environs avant de guider **Phobos**et **Quazor** qui restent au sol. une fois arrivés au niveau de la cathédrale, **Pinto** et **Thalir** montent jusque sur le toit de la cathédrale. Là oà les sections du mur sont effondrées, il y a  aussi des ouvertures dans le toit, d'où ils peuvent jeter un oeil. Ils voient des corps humains au sol, environ une centaine, immobiles. **Pinto** rentre et se pose sur une poutre, et il voit un trou au niveau de l'autel. Ils rappellent **Phobos** et **Quazor**, leur signifiant qu'a priori il n'y a pas de danger immédiat, et tout le monde rentre dans la cathédrale (par la porte cette fois).
+
+Les cadavres semblent avoir été tués par des dégât contondants. Pas de blessures par lame en particulier, surtout des membres écrasés, des chocs sur les chairs.
+
+Au niveau de l'autel, le sol s'ouvre sur un gouffre qui s'enfonce sous terre. On descend dans le trou, qui semble être en fait une crypte. Le tunnel semble continuer sous le sol, et sortir de la partie "construite" de la cathédrale. On suit ce tunnel jusqu'à ce qu'il s'élargisse, son architecture se transforme drastiquement.
+
+<img src="images\tunnel.png" width="500">
+
