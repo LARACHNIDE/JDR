@@ -47,7 +47,7 @@ Le mur qui encercle Gérouan
 
 ## Chapitre I - Faire ses preuves
 
-Sermeille est la ville où habite le **duc d'Estrelan**. Son capitaine des gardes, **Victor Lapontée** (paladin), recrute pour constituer les rangs de la garde ducale.
+Sermeille est la ville où habite le **duc d'Estrelan**. Son capitaine des gardes, **Victor Lapontay** (paladin), recrute pour constituer les rangs de la garde ducale.
 Il est sur la place du village, accompagné de ses assistants **Jean Villeroy** (instructeur), **Matthieu Delhui**, **Paul Cassagnon** (stratégies militaires)
 
 <table>
@@ -57,8 +57,8 @@ Il est sur la place du village, accompagné de ses assistants **Jean Villeroy** 
 Duc d'Estrelan
 </td>
 <td>
-<img src="images\Victor Lapontée.png" width="500">
-Victor Lapontée
+<img src="images\Victor Lapontay.png" width="500">
+Victor Lapontay
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ lever et s'immobiliser les bâtons ... On finit de découvrir la grotte, on y re
 géant qui nous pète la gueule aussi.
 
 Des villageois sont venus nous secourir dans la grotte, nous ramènent au village puis
-jusqu'à Sermeille. On y fait notre rapport à **Lapontée** et on a rdv deux jours plus tard au
+jusqu'à Sermeille. On y fait notre rapport à **Lapontay** et on a rdv deux jours plus tard au
 Bastion de Sermeille pour la suite de nos aventures avec la garde ducale. En attendant,
 on va à la taverne d'Emberron : le Cou Grillé et on y dort pour la nuit.
 
@@ -122,13 +122,13 @@ Ellipse : Trois mois de formation se passent.
 On entend parler d'une garnison de la Faille (Sud du duché d'Estrelan, secteur 8 du mur)
 qui n'a pas donné de nouvelles depuis un moment. On est donc convoqués pour mener notre
 première mission. On prend la route puis une barge (on est une compagnie de 19 fantassins +
-nous (**Matthieu Delhui**) + 4 scouts (**Jean Villeroy**) + 2 clercs (**Paul Cassagnon**) + **Victor Lapontée**).
+nous (**Matthieu Delhui**) + 4 scouts (**Jean Villeroy**) + 2 clercs (**Paul Cassagnon**) + **Victor Lapontay**).
 On arrive au débarcadère, on prend la route pour aller jusqu'à l'endroit où la garnison se trouve
 Sur le chemin, au crépuscule, on est encerclés par des sortes de mecs en haillons, une horde de
 zombies sort des fourrés. Grosse bagarre (RIP ce bon vieux Jules, Donatien, Bastien, Martin, bref
 tous les copains du collège y passent). On gagne, beaucoup de morts mais on s'en sort.
 Bilan assez lourd, on établit un campement là pour se remettre.
-On est convoqués par Lapontée dans la tente de commandement. Il a besoin que nous formions
+On est convoqués par Lapontay dans la tente de commandement. Il a besoin que nous formions
 une mission de reconnaissance pour aller voir ce qui se passe au niveau de la Faille
 (entrer et obtenir des infos). On a 2 jours pour mener la mission, au-delà de quoi on sera considérés
 comme morts par la compagnie.
@@ -231,26 +231,26 @@ abandonné, une colonne est apparue dans le ciel, et la vérité lui est apparue
 reçu un don du **Noyau**. Il ajoute que la forêt est bizarre, que des gardes y ont été mobilisés et qu'ils ne sont
 jamais revenus (paroles rapportées par les femmes des gardes à Rougier).
 
-On repart vers le camp de **Lapontée**. Sur le chemin, on rencontre **Serge**, **Sébastien** et **Thibault** qui ont eux aussi
+On repart vers le camp de **Lapontay**. Sur le chemin, on rencontre **Serge**, **Sébastien** et **Thibault** qui ont eux aussi
 été envoyés en reconnaissance, on les met en garde contre les dangers du village et de la forêt, et on arrive
 finalement au camp.
 
 ## Chapitre V - Infiltration dans la forteresse
 
-Retour au camp, on se rend sous la tente de commandement où se trouvent **Victor Lapontée** et ses lieutenants.
+Retour au camp, on se rend sous la tente de commandement où se trouvent **Victor Lapontay** et ses lieutenants.
 **Pinto** fait le rapport de tout ce qu'on a traversé dans le village.
 **Victor** demande à **Jean Villeroy** d'aller chercher la patrouille qu'on a croisée sur le chemin du retour, et on choisit de
 refaire un point le lendemain.
 
 **Pinto** teste sa flûte, elle produit un sentiment de malaise profond chez **Thalir**, qui lui intime très fermement d'arrêter. **Pinto** a la sensation de pouvoir "ressentir" les gens qui sont touchés par ce "sortilège".
 Le lendemain, la patrouille est finalement revenue (sans **Serge** putain ...).
-**Lapontée** choisit de mettre en place un plan pour atteindre la forteresse : Forcer une bataille avec l'armée qui encercle
-la forteresse pour que notre petite équipe parvienne à s'infiltrer dedans pendant la diversion créée par **Lapontée**.
+**Lapontay** choisit de mettre en place un plan pour atteindre la forteresse : Forcer une bataille avec l'armée qui encercle
+la forteresse pour que notre petite équipe parvienne à s'infiltrer dedans pendant la diversion créée par **Lapontay**.
 
-Sur le chemin, on passe par la forêt "maudite", **Lapontée** casse une branche d'un arbre et y découvre un épée, enserrée
+Sur le chemin, on passe par la forêt "maudite", **Lapontay** casse une branche d'un arbre et y découvre un épée, enserrée
 dans le bois. On repasse par la maison du garde-forêt **Nestor**, mais elle est vide. Son arbalète n'est plus là. Il semble parti
 de son plein gré mais personne ne l'a croisé parmi les éclaireurs.
-On rentre dans le village, on rentre tous dans une maison et on se synchronise avec **Lapontée** pour que l'assaut et notre intrusion
+On rentre dans le village, on rentre tous dans une maison et on se synchronise avec **Lapontay** pour que l'assaut et notre intrusion
 soient bien calées. Il nous révèle l'emplacement d'une trappe sous un ballot de paille à l'arrière de la forteresse,
 qui fait office de point d'entrée ou de sortie de secours, par laquelle on va s'infiltrer.
 
@@ -358,7 +358,7 @@ nous regagnions ce qui nous est dû, notre vengeance est proche". C'est probable
 
 **Thalir** récupère aussi un livre sur une étagère, il est écrit dans une langue que personne ne sait déchiffrer.
 
-On ressort de la forteresse, **Pinto** s'envole et réalise que la troupe de Lapontée s'est probablement fait prendre en tenailles, il n'y
+On ressort de la forteresse, **Pinto** s'envole et réalise que la troupe de Lapontay s'est probablement fait prendre en tenailles, il n'y
 a plus aucun mouvement visible. On décide de s'approcher du lieu du massacre pour essayer de comprendre ce qui s'est passé. On croise de
 nombreux cadavres de zombis, puis au fur et à mesure, on voit aussi les cadavres de nos compagnons, dont beaucoup ont des carreaux d'arbalète
 plantées dans le dos. **Jean Villeroy** fait partie des morts que l'on aperçoit.
@@ -366,7 +366,7 @@ Les zombis n'ont ni arcs ni arbalètes, les carreaux doivent donc venir d'ailleu
 
 On retourne jusqu'à la maison dans laquelle on avait établi le plan initial. Dedans, de nombreux autres soldats, dont **Paul Cassagnon**.
 
-Encore plus loin, on y découvre le corps de **Lapontée**, au bord du décès. Il nous intime de nous rendre à Sermeille en nous tendant son
+Encore plus loin, on y découvre le corps de **Lapontay**, au bord du décès. Il nous intime de nous rendre à Sermeille en nous tendant son
 épée. Il est heureux que nous nous en soyons sortis, puis décède pour de bon.
 
 **Nestor** nous surprend, en embuscade sur un toit, et nous intime de nous dire ce qu'on a trouvé dans la forteresse.
@@ -385,7 +385,7 @@ Sur son cadavre, on trouve un anneau maculé de sang qui ressemble à celui d'**
 <img src="images\Paul_Cassagnon_wasted.png" width="500">
 </td>
 <td>
-<img src="images\Victor_Lapontée_wasted.png" width="500">
+<img src="images\Victor_Lapontay_wasted.png" width="500">
 </td>
 <td>
 <img src="images\Matthieu_Delhui_wasted.png" width="500">
@@ -424,7 +424,7 @@ Nous décidons d'en récupérer un échantillon lorsque, arrivés près d'elles,
 **Thalir** s'avance, les plantes flétrissent. c'est probablement le **Noyau** qui cause cet état.
 
 **Pinto** nous dit d'un coup qu'il entend une voix le parler (mais pas nous).
-Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontée**. C'est le commandant **Caplan**. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
+Il entend quelqu'un lui demander avec fermeté ce qu'on a fait au capitaine **Eugène Celtain**. Il sort la pierre avec le blason de Sermeille dessus, essaye de communiquer avec, il a le sentiment de pouvoir projeter ce qui sort de la pierre. En se concentrant, **Pinto** arrive à se concentrer dessus pour faire entrer et sortir les sons vers et depuis la pierre. La voix nous demande ce qu'on a fait de **Celtain**, de **Lapontay**. C'est le commandant **Caplan**. **Pinto** explique que la faille est compromise, que Sermeille est mise en danger par des plantes maudites. Il nous ordonne de rentrer à Sermeille et de faire notre rapport, et de ne plus lancer de sort au travers des "pierres de communication".
 
 On décide de ramener le mort vivant qui est dans les geôles de la garnison de la Faille comme preuve supplémentaire jusqu'à Sermeille. En ouvrant la porte de sa cellule, il s'approche de **Thalir** et se plante devant lui, immobile. Il fixe le Noyau que **Thalir** a sorti de sa poche, et le suit comme un bon toutou. On le menotter et le ligoter, par sécurité. **Pinto** propose de le surnommer **"Bizon"**.
 
@@ -683,3 +683,32 @@ Au niveau de l'autel, le sol s'ouvre sur un gouffre qui s'enfonce sous terre. On
 
 <img src="images\tunnel.png" width="500">
 
+## XIII - Tunnel tunnel tunnel
+
+On s'engouffre dans le tunnel, qui s'étend à perte de vue. Il y a des alcôves vides sur les côtés. Pinto teste
+son luth, sans écho. On marche dans le tunnel pendant plusieurs minutes, jusqu'à ce qu'on commence à entendre un vrombissement rythmique. Au fur et à mesure, le bruit s'amplifie, bientôt accompagné d'autres sons, eux aussi rythmés.
+
+Face à nous, un éboulis semble avoir été déplacé et les pierres (énormes) ont été replacées dans une des alcôves. En s'approchant des pierres, on repère des stries le long des parois des pierres, probablement causées par ce qui les a déplacées.
+
+En continuant à avancer, le bruit augmente jusqu'à atteindre un niveau sonore constant. Des plantes commencent à apparaître le long des murs. **Pinto** réalise qu'elles ont des airs de plantards. Quand **Thalir** s'approche avec le Noyau, les plantards faiblissent, se recroquevillent. **Thalir** prend la tête de la troupe et nous continuons à avancer.
+
+Mais l'air poussiéreux du tunnel fait éternuer **Thalir**, tandis que Pinto commence à détecter une forme de magie devant lui. Nous arrivons sur une large pièce circulaire, au centre de laquelle de dresse une plateforme ronde, ressemblant à un autel. Au fond de la pièce, une énorme pièce ronde trône au mur, empêtré dans des lianes. Il y a des plantes un peu partout, certaines semblent coincées dans des engrenages qui grincent sans bouger, et surtout, en plein milieu de la pièce, un énorme amalgame de lianes, de plantes, de bois se dirige lentement derrière nous, entouré d'une sorte de nuée de mouches indéfinissables. Plus loin, un plantard nous regarde, accompagné par une sorte d'arbre biscornu, dans lequel est enchâssée une sorte de gemme, et qui prend la forme d'un canon pointé dans notre direction.
+
+<table>
+<tr>
+<td>
+<img src="images\piece_ronde.png" width="500">
+</td>
+<td>
+<img src="images\piece_ronde2.png" width="500">
+</td>
+</tr>
+<td>
+<img src="images\amalgame.png" width="500">
+</td>
+<td>
+<img src="images\canon_vegetal.png" width="500">
+</td>
+<table>
+
+**Pinto** s’occupe des mouches, tandis qu'on se fait péter la gueule par l'amalgame (à grand renfort de doubles baffes, d'avalage de **Phobos** de **Thalir** et du soldat de sable). On finit par le vaincre tant bien que mal.
