@@ -643,10 +643,9 @@ On rentre dans le hall d'entrée, avec d'immenses tentures, des chandeliers, des
 
 **Iber** nous indique une direction dans laquelle il y a visiblement des traces de combats? On s'engage dans un long couloir, jonché de corps de plantards. Au bout, un grand escalier de pierre monte. Arrivés à l'étage, un autre long couloir s'élance devant nous, sans aucunes traces de combats à cet endroit. **Pinto** détecte de faibles traces de magie mais rien de précis. On s'avance dans le couloir en vérifiant les portes, mais rien d'intéressant. On revient sur nos pas, on reprend l'escalier pour arriver au deuxième étage. Pareil, on découvre un grand couloir similaire à celui du premier étage. On vérifie tout, mais rien d'intéressant non plus. Quelques chambres, un salle  de loisirs, une bibliothèque. On continue à monter au troisième (et dernier) étage. Ici, la porte est fracturée. On arrive dans un couloir où des armures de décoration sont renversées au sol, il y a quelques traces de lutte. On avance jusqu'à une porte qui est elle-même enfoncée, qui mène à une aile avec des boiseries, bien plus luxurieux. Des corps de plantards jonchent le sol. Une grande porte à double battant se trouve au bout de la pièce, fermée.
 
-En se rapprochant, **Phobos** écoute au battant de la porte, et entend des villageois apeurés derrière. Comme ils ne sont pas hostiles, on se présente en expliquant qui nous sommes et d'où nous venons, et ils finissent par ouvrir la porte. Derrière se trouve une trentaine de personnes, donc le **duc d'Estrellan**.
+En se rapprochant, **Phobos** écoute au battant de la porte, et entend des villageois apeurés derrière. Comme ils ne sont pas hostiles, on se présente en expliquant qui nous sommes et d'où nous venons, et ils finissent par ouvrir la porte. Derrière se trouve une trentaine de personnes, donc le **duc d'Estrelan**.
 
 <img src="images\Duc_d_Estrelan.png" width="500">
-
 
 On leur explique rapidement ce qu'on a vu dans la ville, expliquant que presque tout le monde est probablement mort, et que la ville est aux mains des plantards. Un garde nous explique que le commandant **Caplan**  est sorti avec l'armée pour défendre Sermeille, mais qu'ils ne l'ont pas revu depuis. Il est très probablement enraciné avec ses hommes dans la forêt qu'on a vue à l'entrée de la ville.
 
@@ -712,3 +711,70 @@ Mais l'air poussiéreux du tunnel fait éternuer **Thalir**, tandis que Pinto co
 <table>
 
 **Pinto** s’occupe des mouches, tandis qu'on se fait péter la gueule par l'amalgame (à grand renfort de doubles baffes, d'avalage de **Phobos** de **Thalir** et du soldat de sable). On finit par le vaincre tant bien que mal.
+
+## XIV - Comme le pape lol
+
+Contexte : On est en fin d'aprem.
+On est mal en point, essoufflés. On sécurise la pièce en en faisant le tour. On entend toujours les bruits de roulis, mais certains sont bloqués. Les rouages sont toujours empêtrés dans des lianes, ce qui les coince. La grosse pièce ronde au mur est entourée de grosses boules inertes, l'une est rouge et l'autre bleue, les autres semblent inertes. Derrière les plantes, on distingue une sorte de fresque cachée derrière.
+
+Le père **Rougier** dit à **Quazor** qu'il "sent le Noyau". **Thalir** s'approche du canon avec le Noyau, la gemme qui est dedans est de moins en moins brillante, et finit par exploser. Ils s'en sortent très bien, mais par contre tout autour d'eux, les trois quarts de la pièce sont emplis d'une forêt qui vient de surgir de nulle part. **Pinto** et **Thalir** courent vers **Phobos** et **Quazor** qui commençaient à se transformer petit à petit en plantards eux-mêmes.
+
+Maintenant, en se rapprochant de la fresque, les lianes disparaissent, et on devine deux images différentes : la première présente un rond vert sur un fond bleu, presque noir. Au-dessus, il y a cinq ("il lui dit qu'il y en a 5") formes triangulaires. L'autre est une sorte de donut vert, avec des disques bleus dedans. Dans le disque central, il y a sept personnages humanoïdes, et une inscription runique en bas. La rune se prononce "Méléan" mais personne ne sait ce que ça peut dire. Les humanoïdes : un ocre/jaune, avec une sorte de crinière, un nez rose. Ensuite de grands trucs qui ressemblent à une girafe. Ensuite une sorte d'humanoïde mais avec deux cornes sur la tête. Ensuite une truc bleu, avec des stries sur le cou (poisson ?). Petits hommes verts avec un gros nez ( = gobelins). Enfin une race d'humanoïdes avec de grandes pattes, des grandes cornes, qui ressemble un peu à une sorte de vache. Enfin un sorte d'iguane humanoïde.
+
+<table>
+<tr>
+<td>
+<img src="images\le_disque.png" width="500">
+</td>
+<td>
+<img src="images\le_donut.png" width="500">
+</td>
+</tr>
+<table>
+
+Pinto prend le Noyau et clean toute la pièce. Les couleurs des gemmes changent : toutes deviennent rouges, celle du centre passe du rouge au vert, et seule celle qui était bleue (la plus proche de nous) reste bleue.
+La plateforme au centre, une fois nettoyée, présente une orbe bleue au centre.
+Sur conseil du **père Rougier**, **Quazor** place l'anneau sur la plateforme. Au moment où il le fait, on entend un "Je comprends maintenant !". Puis, après un petit silence, le bruit de machinerie s'emballe, la porte par laquelle on est entrés se ferme, et tous les murs se mettent à tourner, à coulisser autour de nous, avec un bruit de plus en plus assourdissant.
+La ligne qui connecte le rond bleu avec le rond vert au centre s'allume de plus en plus et progresse vers le centre. Arrivés au centre, un flash de lumière nous éblouit, notre vision devient blanche. En recouvrant petit à petit la vision, on se retrouve dans une pièce parfaitement circulaire, bien plus petite, avec un relief au centre, et une porte externe.
+
+Ici, le relief représente le même motif que dans la pièce précédente, avec un rond bleu au centre, un autre vert, les autres rouges. On a le tournis. L'anneau du père **Rougier** ne répond plus.
+
+<img src="images\nouvelle_piece_tunnel.png" width="500">
+
+On se rapproche de la porte fermée, il y a une aspérité sur laquelle **Pinto** tire, ce qui déclenche l'ouverture de la porte. En sortant, on réalise qu'on est sur une plateforme en altitude,n avec une coursive qui part devant nous et qui quitte un piton rocheux, nous amenant (100m plus loin) vers un gigantesque édifice en pierre de taille blanche, avec des tours, des colonnades ... Au loin, on voit d'autres passage qui partent de cet édifice et se dirigent vers d'autres tours comme celle d'où on sort. En regardant par-dessus le parapet de la coursive, on distingue qu'on est au cœur d'une ville immense, construite de façon concentrique autour de ce château. Il semble que l'on soit arrivés à Milege, la capitale du royaume de Gérouan.
+
+En sortant, la porte de referme. **Pinto** garde la clé avec lui. On suit le pont qui nous amène vers le bâtiment central, puis on longe son mur vers la droite. On finit par y distinguer une sorte de porte.
+
+<img src="images\chateau_milege.png" width="500">
+
+On passe la porte avec le clé de **Pinto**, on est dans une toute petite pi_ce, on active un autre mécanisme, on sent une ressenti d’ascenseur, la porte en face s'ouvre en face et on débarque dans une petite caverne. **Pinto** a les oreilles bouchées (se pisse dessus aussi ?), et on sort vers la lumière. On arrive dans une rue pavée. On décide de remonter pour essayer de trouver un moyen de rentrer dans le château pour contacter quelqu'un à qui on racontera notre aventure.
+
+<table>
+<tr>
+<td>
+<img src="images\milege_tirith.png" width="500">
+</td>
+<td>
+<img src="images\milege_tirith_2.png" width="500">
+</td>
+</tr>
+<table>
+
+
+On remonte, on continue à faire le tour jusqu'au prochain pont. On va vérifier la prochaine salle du prochain piton rocheux, c'est exactement la même salle que la première, à l'exception de  la pierre verte qui semble être décalée de 1 cran par rapport à la salle précédente. On choisit de descendre parce que tout sera probablement similaire. Mais en descendant, on est face à un mur de briques. Face à cet obstacle, on n'a pas d'autre choix que de remonter et de prendre le prochain monte-charge. Avec le monte-charge suivant, on descent mais arrivés, en bas, on manque de se noyer car lorsque les portes s'ouvrent, on est immédiatement submergés par un flot d'eau énorme. On remonte en catastrophe, et arrivés en haut, on reprend notre souffle, puis on décide de reprendre le premier monte-charge qui nous ramène en bas dans la grotte.
+
+On sort dans la rue, les gens nous regardent bizarrement parce qu'on est couverts de sang, **Pinto** joue quelques notes de musique pour les rassurer, mais s'arrête assez vite, intimidé par les regards de la foule. **Thalir** explique notre situation à un groupe de soldats et demande à rencontrer un gradé pour lui expliquer. On en profite aussi pour lui demander la date, et on réalise qu'un mois s'est écoulé entre le moment où on a fait le combat contre les plantards et maintenant. On a donc subi une téléportation spatio-temporelle ! Le soldat nous indique la route pour rejoindre le sergent **Odon**. On suit la route principale jusqu'à ce qu'on atteigne une porte dans la muraille, avec une bâtisse à l'air militaire. Les gardes nous laissent rentrer, on demande à voir **Odon**, qui finit par arriver. **Thalir** lui explique qu'on cherche à rencontrer le **duc d'Estrelan**. Il nous dit d'aller au château directement.
+
+On s'y dirige. Sur le chemin, on se nettoie dans une auge pour essayer de ressembler un peu à quelque chose. arrivés au château, les gardes nous laissent rentrer et nous disent qu'ils vont envoyer chercher le **duc d'Estrelan**. Au bout d'une dizaine de minutes, des pas se font sentir, et le **duc d'Estrelan** arrive vers nous, pressé et heureux de nous revoir ! Il nous amène dans ses bureaux. pour discuter. **Thalir** lui explique nos pérégrinations jusque-là.
+Il nous raconte aussi que les plantards, nommés "**Emessiens**" par les anciens, assiègent le royaume depuis un mois. Le duché d'Estrelan est tombé. Ils n'ont pas traversé le fleuve pour atteindre Milege, mais ont commencé à faire des avancées dans le duché de Vontaine. Ils n'ont pas su trouver de points faibles en particulier contre eux, excepté potentiellement le Noyau.
+
+Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape. Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe : 2 : un duc et le **magistère** (le dirigeant le la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Vébutie mais c'est tout, il ne se sent pas favorisé dans ces élections.
+
+Il nous apprend aussi qu'au cours de leur retour vers Milege, ils se sont fait attaquer, et qu'**Iber** est mort dans l'embuscade. Il a également totalement perdu la trace de **Bizon**.
+
+Pour finir, le duc nous propose de participer à une réunion des ducs le lendemain, afin d'apporter notre témoignage. Il nous recommande de ne pas évoquer le Noyau, par mesure de précaution. Il soupçonne la présence de traîtres dans notre entourage, et nous intime de faire bien attention.
+Il nous donne enfin un médaillon qui nous servira de laisser-passer dans le château à l'avenir.
+
+On nous arrange une suite pour quatre dans une aile du château, on y passe la nuit.
+
+## XV - De France mdr
