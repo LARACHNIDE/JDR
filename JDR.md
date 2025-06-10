@@ -576,7 +576,7 @@ On reste sur place pour la nuit, et on décide de repartir le lendemain avec **L
 
 ## XI - Retour à Sermeille
 
-Le lendemain, nous repartons de la Ville des Géants dans la caravane de **Lemaitre**. Durant le voyage, Quazor se présente à une chouette qui semble spécialisée dans les gemmes, à qui il présente la gemme bleur que nous a offerte le chef des géants, afin d'estimer sa valeur. elle annonce 1500 PO. Quazor et Pinto marchandent un peu en contant son histoire et d'où elle vient, et arrivent à en tirer 1800 PO.
+Le lendemain, nous repartons de la Ville des Géants dans la caravane de **Lemaitre**. Durant le voyage, Quazor se présente à une chouette qui semble spécialisée dans les gemmes, à qui il présente la gemme bleue que nous a offerte le chef des géants, afin d'estimer sa valeur. elle annonce 1500 PO. Quazor et Pinto marchandent un peu en contant son histoire et d'où elle vient, et arrivent à en tirer 1800 PO.
 
 Puis vient la section tissu. Nous suivons la peinture verte tout le long de la caravane, où Quazor cherche un chapeau noir (spoiler: non). Ensuite on suit les lignes vertes, jaunes puis violettes pour rejoindre l'alchimiste.
 Au premier croisement **Pinto** et **Phobos** vont vers la droite en suivant une ligne jaune, jusqu'à arriver dans une grande pièce, très large, avec une trentaine de chouettes qui s'affairent devant deux immenses portes, dans ce qui semble être un sas d'embarcation.
@@ -779,7 +779,6 @@ On nous arrange une suite pour quatre dans un hôtel de la ville, on y passe la 
 
 <img src="images\hotel_milege.png" width="500">
 
-
 ## XV - De France mdr / Le Conseil des ducs
 
 Avant le conseil, on se fait un petit point pour savoir ce qu'on choisit de dire ou pas au conseil. On choisit de ne pas parler du Noyau ni du fait qu'on soit arrivés par la gigantesque structure dans la ville.
@@ -808,3 +807,19 @@ Le symbole présente 4 cercles en croix un peu comme la fresque avec écrit 'Mé
 Au centre : 'Méléan'. En haut à gauche (grise) : 'Karradin'. En haut à droite (grise) : 'Malzar', en bas à gauche (Rouge) : 'Velmo', en bas à droite (gris) : '**Gérouan**'. TIN TIN TIN ... On reconnaît Karradin qui est un nom qu'on a déjà entendu dans la bouche de **Lemaitre**, en parlant d'un livre qu'on avait récupéré. Donc a priori on est face à des noms d'autres 'mondes'.
 **Pinto** s'approche de l'autel central, recouvert de sable. Une forme humanoïde s'élève petit à petit, un tête d'oiseau apparaît, c'est une sorte d'apparition du **père Rougier** qui indique le sol en disant 'puissance, énergie', puis le mur en disant 'secret', puis s'évanouit. **Pinto** pose un parchemin de nuage de dagues sur l'autel. Le parchemin se désagrège instantanément, semblant absorber sa puissance ? Il enchaîne avec un Thunderclap dirigé vers la plateforme. Toute la puissance du sort semble être absorbée. Le sable frémit légèrement, mais sans plus. S'ensuit un petit air de flûte enchantée dirigé vers le sable. L'énergie est drainée vers l'autel, c'est de plus en plus dur pour **Pinto**, dont l'énergie magique finit par s'épuiser.
 **Thalir** enchaîne avec son bonhomme de sable, mais rien ne se passe.
+
+## XVI - Embuscade
+
+On quitte la salle, sans avoir réussi à activer le TP. On quitte la salle, les couloirs sont maintenant plongés dans le noir, donc **Thalir** allume sa torche. On rebrousse chemin jusqu'au premier embranchement, on va jusqu'au bout d'un couloir et on tente un autre chemin, mais sans lumière. La porte ne s'ouvre pas, même avec la clé. Les lumières grésillent, on ressort du bâtiment juste avant que la porte ne se ferme.
+
+On refait un grand tour de la structure, on finit par prendre un ascenseur qui nous amène jusque dans une réserve avec un trappe au plafond, d'où s'échappent des rires et de la musique. Alors que **Pinto** s'apprêtait à lancer une invisibilité pour faire diversion, des bruits de bottes se font entendre et un homme s'approche pour aller chercher du vin. Dans la panique, on fait demi-tour et on retourne dans l’ascenseur pour ne pas se faire repérer.
+
+On redescend par l'autre ascenseur, on achète du terreau et on va faire pousser encore des oeufs à l'hôtel. Le mec de l'accueil nous donne un papier qu'on lui a remis (un homme roux de taille moyenne). Sur le mot, il y a une sorte de plan qui décrit un quartier, avec écrit "J'ai quelque chose pour vous, RDV à la tombée de la nuit". On reconnaît une ruelle pas loin de l'hôtel.
+
+En faisant pousser un oeuf, un geyser d'huile se forme tout d'un coup, inondant la suite, et ça commence à passer sous la porte et dégouliner dans les escaliers. On met le geyser dans le sac à rallonge, on prévient le maître d'hôtel, qui nous donne une autre chambre, et s'occupe de nettoyer nos vêtements.
+
+A la tombée de la nuit, on s'aventure dans les ruelles de la ville, en direction du point de rendez-vous. Soudain, un rire retentit, puis une personne vêtue de noir apparaît dans la nuit, nous dit qu'il est content parce qu'il ne s'attendait pas à ce que ça marcherait. Soudain, de toutes parts, des silhouettes apparaissent au détour des ruelles et des toits.
+
+<img src="images\ambush.png" width="500">
+
+On abat toutes les silhouettes qui sont apparues, sauf la mystérieuse silhouette qui riait. Il annonce qu'il nous a sous-estimés, et qu'il reviendra plus tard.
