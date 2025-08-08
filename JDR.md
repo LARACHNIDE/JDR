@@ -863,15 +863,15 @@ Le MJ de ce soir (image fixe) :
 
 Au passage, **Pinto** nous explique qu'il a réussi à contacter un vieux guérisseur qui lui a offert son luth qui lui conférera plus de puissance à l'avenir. **Thalir** est allé voir un mage qui lui a donné un parchemin qui lui permet de prendre son apparence, ce qui lui a permis de passer des exams en vue d'acquérir une armure.
 
-Au sein du Dé Doré, on escorte **Quazor** qui se fer appeler **Mr. Velmont** dans le cadre de cette mission d'infiltration. On s'approcher d'un guichet pour commencer à parier sur un duché, pour savoir lequel risque de tomber en premier (**Vontaine** est en premier, puis **Vebutie** en second). On commence à parier pour la chute de **Vontaine**, tandis que trois gars assez costauds se dirigent dans notre direction, et s'adressent à **Velmont** en lui disant qu'on l'attend dans l'arrière-salle. En passant une porte en arrière boutique, **Thalir** pense reconnaître un des gardes. On arrive dans une sorte d'arène souterraine où des combattants de fracassent la gueule. On passe l'arène jusqu'à une autre porte qui mène à une grande pièce enfumée où des gens jouent aux cartes et fument. EN bout de salle, un elfe avec un bouc, un bandeau sur un oeil, un cigare à la bouche, qui joue avec une dague, est assis derrière un bureau en bois massif. Il nous sourit, fixant **Quazor**, et soupirant "Velmont, Velmont, Velmont ...".
+Au sein du Dé Doré, on escorte **Quazor** qui se fait appeler **Mr. Velmont** dans le cadre de cette mission d'infiltration. On s'approcher d'un guichet pour commencer à parier sur un duché, pour savoir lequel risque de tomber en premier (**Vontaine** est en premier, puis **Vebutie** en second). **Pinto** 40 po pour la chute de **Vontaine**, tandis que trois gars assez costauds se dirigent dans notre direction, et s'adressent à **Velmont** en lui disant qu'on l'attend dans l'arrière-salle. En passant une porte en arrière boutique, **Thalir** pense reconnaître un des gardes. On arrive dans une sorte d'arène souterraine où des combattants de fracassent la gueule. On passe l'arène jusqu'à une autre porte qui mène à une grande pièce enfumée où des gens jouent aux cartes et fument. EN bout de salle, un elfe avec un bouc, un bandeau sur un oeil, un cigare à la bouche, qui joue avec une dague, est assis derrière un bureau en bois massif. Il nous sourit, fixant **Quazor**, et soupirant "Velmont, Velmont, Velmont ...".
 
-Ils semblent bien se connaître, **Velmont** commence à expliquer qu'il avait voulu le saluer, en souvenir du bon vieux temps. LEs gardes autour arrêtent de jouer aux cartes, et d'autre sortent encore d'une porte par derrière. Tout semble très menaçant. **Gestor**, indulgent, semble laisser une chance à **Velmont** de partir avec tous ses doigts. Il lui demande quand même de préciser combien de pièces il lui doit. **Velmont** bégaye un petit 560, plus un bateau qu'il a laissé en plusieurs morceaux. Bref, il annonce un préjudice estimé à 5000 pièces d'or. **Velmont** annonce qu'il n'est pas en mesure de rembourser tout de suite, mais propose d'établir un plan pour récupérer tout cet argent. **Velmont** raconte alors qu'il a gagné des objets magiques pour lesquels il veut créer un marché. **Gestor** ne semble pas bien convaincu. Il propose plutôt de s'occuper d'un gang qui fout le bordel dans la ville, et **Gestor** voudrait s'en débarrasser. Il nous indique qu'ils ont réussi à tracer une de leurs bases d'opération et qu'ils portent tous un tatouage. On reconnaît qu'il est comme celui de ceux qui nous ont attaqués l'autre nuit. **Gestor** décide de garder l'amulette anti-magie que **Velmont** a sortie pour l'amadouer, en acompte. La carte qu'on nous remet pointe vers la Basse-Ville.
+Ils semblent bien se connaître, **Velmont** commence à expliquer qu'il avait voulu le saluer, en souvenir du bon vieux temps. LEs gardes autour arrêtent de jouer aux cartes, et d'autre sortent encore d'une porte par derrière. Tout semble très menaçant. **Gestor**, indulgent, semble laisser une chance à **Velmont** de partir avec tous ses doigts. Il lui demande quand même de préciser combien de pièces il lui doit. **Velmont** bégaye un petit 500, plus un bateau qu'il a laissé en plusieurs morceaux. Bref, il annonce un préjudice estimé à 5000 pièces d'or. **Velmont** annonce qu'il n'est pas en mesure de rembourser tout de suite, mais propose d'établir un plan pour récupérer tout cet argent. **Velmont** raconte alors qu'il a gagné des objets magiques pour lesquels il veut créer un marché. **Gestor** ne semble pas bien convaincu. Il propose plutôt de s'occuper d'un gang qui fout le bordel dans la ville, et **Gestor** voudrait s'en débarrasser. Il nous indique qu'ils ont réussi à tracer une de leurs bases d'opération et qu'ils portent tous un tatouage. On reconnaît qu'il est comme celui de ceux qui nous ont attaqués l'autre nuit. **Gestor** décide de garder l'amulette anti-magie que **Velmont** a sortie pour l'amadouer, en acompte. La carte qu'on nous remet pointe vers la Basse-Ville.
 
 <img src="images\Gestor.png" width="500">
 
 On repart en tram jusque vers la Basse-Ville. Le sol est en boue, ça pue, on entend des gémissements. Globalement la Basse-Ville est constituée de taudis. **Pinto** se rend invisible, et de dirige vers le bâtiment qui dénote un peu dans la zone, une sorte de hangar/entrepôt. IL avance au fur et à mesure, et tente de repérer d'éventuels gardes mais n'en repère aucun. On avance vers le bâtiment. **Phobos** dispose un piège sur le pas de la porte, puis **Pinto** frappe à la porte. Un judas s'ouvre, deux yeux regardent par le judas, ne voient rien, puis ça se referme. **Pinto** lance un cantrip qui fait apparaître un tatouage en illusion sur la peau du cou de **Thalir**, qui retourne toquer en se camouflant un peu le visage. Quand le judas se rouvre, un elfe grogne "Mais qu'est-ce qu'il fait, il a encore oublié le mot de passe ?". Puis la porte s'ouvre. Il pénètre dans un entrepôt, où 6-7 personnes s'affairent, certains en armure.
 
-Par surprise, ***Thalir** attaque le gardien de la porte, et le combat s'engage.
+Par surprise, **Thalir** attaque le gardien de la porte, et le combat s'engage.
 
 <table>
 <tr>
@@ -885,3 +885,34 @@ Par surprise, ***Thalir** attaque le gardien de la porte, et le combat s'engage.
 <table>
 
 Au sortir du combat, un mob parvient à s'enfuir par une trappe dans le fond de la pièce. On casse la trappe avant de s'engouffrer dans la trappe ...
+
+## XX - Sous la trappe
+
+Pendant qu'on descend, on entend des cris précipités, des objets qui sont poussés, déplacés, les gens en contrebas se préparent à notre arrivée. Le sol est en terre battue, il y a des tonneaux, des caisses, et une sorte de monte-charge. Face à nous, un passage est entièrement obstrué par des caisses, des tonneaux ... **Phobos** et **Quazor** commencent à dégager le passage obstrué, tandis que **Pinto** et **Thalir** ouvrent une porte sur le côté, où il y a un vieil homme qui dort.
+
+<table>
+<tr>
+<td>
+<img src="images\trappe1.png" width="500">
+</td>
+<td>
+<img src="images\trappe2.png" width="500">
+</td>
+</tr>
+<table>
+
+**Pinto** menace le vieil homme qui dort, essaye de savoir qui il est, ce qu'il fait là, ce qui se passe. Il dit s'appeler **Eric**, il avoue qu'il fait de la contrebande avec ses camarades, que son chef s'appelle **La Main**. Il donne à **Pinto** une clé.
+**Phobos** et **Quazor** sont commencent à déblayer la barricade mais sont bloqués par un archer et une épée magique qui les empêchent de continuer. Ils rejoignent leurs compères dans l'autre pièce.
+**Pinto** s'engouffre dans un petit couloir dans lequel flotte une odeur nauséabonde, suivi par tout le monde. Arrivés à une intersection, on passe à côté de la fosse à purin, et on continue dans le couloir. Puis vient une pièce de vie avec tables et chaises, puis une porte. Elle est fermée, mais **Pinto** l'ouvre grâce à la clé donnée par **Eric**. Un combat se lance.
+
+<table>
+<tr>
+<td>
+<img src="images\trappe3.png" width="500">
+</td>
+<td>
+<img src="images\trappe4.png" width="500">
+</td>
+</tr>
+<table>
+
