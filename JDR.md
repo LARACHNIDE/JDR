@@ -146,7 +146,7 @@ avec une arbalète, une tenue de trappeur. C'est Nestor, le garde-forêt du vill
 Il nous explique qu'il y a quelques jours, un pilier tout noir est apparu dans le ciel, et depuis
 ce jour on croise des abominations, lentes, il a même pu reconnaître des gens du village (= zombies).
 Il a essayé de rentrer dans le village pour retrouver le capitaine **Eugène Celtain** mais impossible
-de le contacter. Il semble être l'un des seuls à avoir échappé à ça. Il reste le père Rougier qui
+de le contacter. Il semble être l'un des seuls à avoir échappé à ça. Il reste le père **Rougier** qui
 a toujours eu un comportement bizarre à ses yeux, et qui est maintenant toujours entouré par ces
 créatures. Il n'est pas rentré dans la forêt corrompue devant le village.
 Il nous recommande de buter le prêtre dès qu'on le voie si jamais on la croise, avant qu'il
@@ -206,7 +206,7 @@ tente de souffler une note dedans. Rien ne se passe, il le range. On fait une pe
 repartir vers l'église, **Pinto** en profite pour se familiariser avec l'appeau.
 
 On poursuit vers l'Est, on retraverse le mur pour sortir du village et on arrive en vue de l'église
-du père Rougier, placée en haut d'une petite colline.
+du père **Rougier**, placée en haut d'une petite colline.
 On s'infiltre dans l'église, on y récupère un journal qui relate le quotidien du père. Au jour du cataclysme (le 15),
 rien n'est écrit. Ni dans les jours précédents. Son livre de prières est annoté. Le nom de **Gero** est raturé, le
 symbole en forme de cercle aussi. Dans le journal, daté du 17, est écrit : 'La lumière est en moi, gloire au
@@ -229,7 +229,7 @@ Il nous dit qu'il était un serviteur de **Gero** mais qu'il est maintenant un a
 la paix ultime, une lumière au calme infini, qui nous appelle. Le jour du cataclysme, où il pensait que **Gero** l'avait
 abandonné, une colonne est apparue dans le ciel, et la vérité lui est apparue. Les créatures zombies ont, selon lui,
 reçu un don du **Noyau**. Il ajoute que la forêt est bizarre, que des gardes y ont été mobilisés et qu'ils ne sont
-jamais revenus (paroles rapportées par les femmes des gardes à Rougier).
+jamais revenus (paroles rapportées par les femmes des gardes à **Rougier**).
 
 On repart vers le camp de **Lapontay**. Sur le chemin, on rencontre **Serge**, **Sébastien** et **Thibault** qui ont eux aussi
 été envoyés en reconnaissance, on les met en garde contre les dangers du village et de la forêt, et on arrive
@@ -767,7 +767,7 @@ On sort dans la rue, les gens nous regardent bizarrement parce qu'on est couvert
 On s'y dirige. Sur le chemin, on se nettoie dans une auge pour essayer de ressembler un peu à quelque chose. arrivés au château, les gardes nous laissent rentrer et nous disent qu'ils vont envoyer chercher le **duc d'Estrelan**. Au bout d'une dizaine de minutes, des pas se font sentir, et le **duc d'Estrelan** arrive vers nous, pressé et heureux de nous revoir ! Il nous amène dans ses bureaux. pour discuter. **Thalir** lui explique nos pérégrinations jusque-là.
 Il nous raconte aussi que les plantards, nommés "**Emessiens**" par les anciens, assiègent le royaume depuis un mois. Le duché d'Estrelan est tombé. Ils n'ont pas traversé le fleuve pour atteindre Milege, mais ont commencé à faire des avancées dans le duché de Vontaine. Ils n'ont pas su trouver de points faibles en particulier contre eux, excepté potentiellement le Noyau. Il réagit un peu bizarrement quand on évoque le texte 'Méléan' inscrit en runes sur la fresque. Il nous a aussi dit que normalement ils ne savent pas aller dans la structure gigantesque par laquelle nous sommes arrivés.
 
-Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape. Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe : 2 : un duc et le **magistère** (le dirigeant le la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
+Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe expansionniste : 2 : un duc et le **magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
 
 Il nous apprend aussi qu'au cours de leur retour vers Milege, ils se sont fait attaquer, et qu'**Iber** est mort dans l'embuscade. Il a également totalement perdu la trace de **Bizon**.
 
@@ -855,7 +855,7 @@ On décide faire comme si **Quazor** est un personne riche, un receleur qui cher
 
 On arrive face à un grand bâtiment sur deux étages avec un dé dessus, beaucoup de monde entre et sort. Les gens qui rentrent ont l'air heureux, tandis que ceux qui en sortent ont l'air un peu dépités. On se rapproche du bâtiment et on rentre. Il y a une immense pièce, avec des guichets avec des employés derrière. Un grand tableau trône au milieu de la pièce, et une foule de gens se pressent pour retirer ou déposer des plaques sur ce tableau. Ces plaques représentent les paris  en cours. Par exemple, il y a des paris en cours sur la guerre, les élections, des matchs, des courses ...
 
-## XIX - Le Dé doré, Gestor et la Basse Ville
+## XIX - Le Dé d'or, Gestor et la Basse Ville
 
 Le MJ de ce soir (image fixe) :
 
@@ -863,9 +863,9 @@ Le MJ de ce soir (image fixe) :
 
 Au passage, **Pinto** nous explique qu'il a réussi à contacter un vieux guérisseur qui lui a offert son luth qui lui conférera plus de puissance à l'avenir. **Thalir** est allé voir un mage qui lui a donné un parchemin qui lui permet de prendre son apparence, ce qui lui a permis de passer des exams en vue d'acquérir une armure.
 
-Au sein du Dé Doré, on escorte **Quazor** qui se fait appeler **Mr. Velmont** dans le cadre de cette mission d'infiltration. On s'approcher d'un guichet pour commencer à parier sur un duché, pour savoir lequel risque de tomber en premier (**Vontaine** est en premier, puis **Vebutie** en second). **Pinto** 40 po pour la chute de **Vontaine**, tandis que trois gars assez costauds se dirigent dans notre direction, et s'adressent à **Velmont** en lui disant qu'on l'attend dans l'arrière-salle. En passant une porte en arrière boutique, **Thalir** pense reconnaître un des gardes. On arrive dans une sorte d'arène souterraine où des combattants de fracassent la gueule. On passe l'arène jusqu'à une autre porte qui mène à une grande pièce enfumée où des gens jouent aux cartes et fument. EN bout de salle, un elfe avec un bouc, un bandeau sur un oeil, un cigare à la bouche, qui joue avec une dague, est assis derrière un bureau en bois massif. Il nous sourit, fixant **Quazor**, et soupirant "Velmont, Velmont, Velmont ...".
+Au sein du Dé d'or, on escorte **Quazor** qui se fait appeler **Mr. Velmont** dans le cadre de cette mission d'infiltration. On s'approcher d'un guichet pour commencer à parier sur un duché, pour savoir lequel risque de tomber en premier (**Vontaine** est en premier, puis **Vebutie** en second). **Pinto** 40 po pour la chute de **Vontaine**, tandis que trois gars assez costauds se dirigent dans notre direction, et s'adressent à **Velmont** en lui disant qu'on l'attend dans l'arrière-salle. En passant une porte en arrière boutique, **Thalir** pense reconnaître un des gardes. On arrive dans une sorte d'arène souterraine où des combattants de fracassent la gueule. On passe l'arène jusqu'à une autre porte qui mène à une grande pièce enfumée où des gens jouent aux cartes et fument. EN bout de salle, un elfe avec un bouc, un bandeau sur un oeil, un cigare à la bouche, qui joue avec une dague, est assis derrière un bureau en bois massif. Il nous sourit, fixant **Quazor**, et soupirant "Velmont, Velmont, Velmont ...".
 
-Ils semblent bien se connaître, **Velmont** commence à expliquer qu'il avait voulu le saluer, en souvenir du bon vieux temps. LEs gardes autour arrêtent de jouer aux cartes, et d'autre sortent encore d'une porte par derrière. Tout semble très menaçant. **Gestor**, indulgent, semble laisser une chance à **Velmont** de partir avec tous ses doigts. Il lui demande quand même de préciser combien de pièces il lui doit. **Velmont** bégaye un petit 500, plus un bateau qu'il a laissé en plusieurs morceaux. Bref, il annonce un préjudice estimé à 5000 pièces d'or. **Velmont** annonce qu'il n'est pas en mesure de rembourser tout de suite, mais propose d'établir un plan pour récupérer tout cet argent. **Velmont** raconte alors qu'il a gagné des objets magiques pour lesquels il veut créer un marché. **Gestor** ne semble pas bien convaincu. Il propose plutôt de s'occuper d'un gang qui fout le bordel dans la ville, et **Gestor** voudrait s'en débarrasser. Il nous indique qu'ils ont réussi à tracer une de leurs bases d'opération et qu'ils portent tous un tatouage. On reconnaît qu'il est comme celui de ceux qui nous ont attaqués l'autre nuit. **Gestor** décide de garder l'amulette anti-magie que **Velmont** a sortie pour l'amadouer, en acompte. La carte qu'on nous remet pointe vers la Basse-Ville.
+Ils semblent bien se connaître, **Velmont** commence à expliquer qu'il avait voulu le saluer, en souvenir du bon vieux temps. Les gardes autour arrêtent de jouer aux cartes, et d'autre sortent encore d'une porte par derrière. Tout semble très menaçant. **Gestor**, indulgent, semble laisser une chance à **Velmont** de partir avec tous ses doigts. Il lui demande quand même de préciser combien de pièces il lui doit. **Velmont** bégaye un petit 500, plus un bateau qu'il a laissé en plusieurs morceaux. Bref, il annonce un préjudice estimé à 5000 pièces d'or. **Velmont** annonce qu'il n'est pas en mesure de rembourser tout de suite, mais propose d'établir un plan pour récupérer tout cet argent. **Velmont** raconte alors qu'il a gagné des objets magiques pour lesquels il veut créer un marché. **Gestor** ne semble pas bien convaincu. Il propose plutôt de s'occuper d'un gang qui fout le bordel dans la ville, et **Gestor** voudrait s'en débarrasser. Il nous indique qu'ils ont réussi à tracer une de leurs bases d'opération et qu'ils portent tous un tatouage. On reconnaît qu'il est comme celui de ceux qui nous ont attaqués l'autre nuit. **Gestor** décide de garder l'amulette anti-magie que **Velmont** a sortie pour l'amadouer, en acompte. La carte qu'on nous remet pointe vers la Basse-Ville.
 
 <img src="images\Gestor.png" width="500">
 
@@ -916,3 +916,35 @@ Pendant qu'on descend, on entend des cris précipités, des objets qui sont pous
 </tr>
 <table>
 
+## XXI - La diversion, le pape et la prison
+
+On fouille les cadavres : 440 po.
+Sur le corps du mec, on trouve une lettre qui indique "Je te laisse gérer les affaires ce soir, j'ai rdv avec le Duc" Elle est signée par **Le Coeur**. Dans la pièce à côté, **Pinto** fouille la pièce,; et repère un bureau avec un tiroir fermé. **Thalir** ayant trouvé une clé sur un cadavre, il l'ouvre. On y trouve un journal qui date d'il y a 6 ans et qui explique que Karradin a été détruit. Le début du livre est écrit dans unn langage qu'on ne sait pas lire mais qu'on reconnaît (déjà vu ailleurs). Ensuite, on arrive à lire car c'est écrit en commun.
+La dernière entrée du journal date d'il y a quelques mois, et la personne a l'air de se réjouir, ayant réussi à développer l'arme qu'ils cherchaient à créer. Un nom revient régulièrement : celui de la Faille. Aucun nom n'est indiqué sur le journal, on ne sait pas à qui il appartient.
+**Pinto** trouve également une bourse avec 3000 po, mais il les fait tomber par terre et **Thalir**, malgré toute sa bonne volonté, galère à les récupérer derrière l'étagère. Ce faisant, il constate que l'étagère coulisse légèrement, dévoilant un nouveau passage.
+
+<img src="images\tunnel_caché.png" width="500">
+
+On s'y engouffre, le tunnel est assez long. Au bout de deux heures, le tunnel remonte un peu, puis on arrive derrière une porte. On ouvre la porte, et le bois (probablement d'une étagère) se dévoile, avec des poignées dessus. **Thalir** la fait coulisser, elle grince un peu mais la voie est finalement dégagée. On arrive dans une pièce vaguement éclairée, aux murs de pierre, avec et des meubles en bois de bonne qualité. Ca ressemble à un garde-manger dans un endroit assez cossu, qu'on ne reconnaît pas.
+On décide de sortir de là en devenant invisible pour **Phobos** et **Thalir**, et qui serviront d'éclaireurs pour **Pinto** et **Quazor**.
+
+On passe une porte de cuisine, **Phobos** lance un pièce au fond de la pièce pour faire diversion, tandis que les deux autres passent la porte sans se faire repérer. On monte des escaliers, et on arrive dans une grande salle à manger "luxuriante", avec des armes, des portraits aux murs. Une grande porte est ouverte au fond. **Pinto** reconnaît tous les écussons du royaume, ainsi que celui de Gérouan.
+Derrière la grande porte, un garde à moitié endormi. On le dépasse et on arrive dans le hall d'entrée du palais, qu'on reconnaît aisément. On veut passer devant le garde qui surveille le couloir sans éveiller trop de soupçons. Après 30 minutes de tergiversations, **Pinto**  et **Quazor** finissent par partir en courant vers le garde, en faisant croire qu'il y a eu une attaque dans les cuisines, donc il appelle une patrouille, qui fonce vers les cuisines. Arrivés vers le hall, **Pinto** continue à crier vers les gardes, que c'était horrible et tout, mais ils finissent par nous laisser sortir.
+
+On rentre à l'auberge, il est environ 8h du soir : on a encore le temps de se changer et d'aller voir le pape, même si on sera un peu en retard. On met nos beaux habits, puis on se rend à la cathédrale de Géro.
+
+Les gardes nous disent qu'on est en retard, que le pape est probablement couché à cette heure-là. Ils vont voir ce qu'ils peuvent faire. Les gardes reviennent nous voir et nous expliquent qu'il est tard. Le pape nous a tout de même pardonnés, et le garde nous remet une enveloppe à notre destination.
+
+La lettre raconte que depuis plusieurs semaines, des prêtres ont des visions bizarres, et il nous demande d'enquêter dessus pour comprendre ce qui se passe après ça.
+
+On décide de retourner à l'auberge "Le Chatoyant" pour se changer, avant de finalement se rendre au Dé d'or, pour retourner voir **Gestor** et lui expliquer ce qu'il en est vis-à-vis du gang qu'on a éliminé pour lui. **Quazor** explique qu'on a trouvé les noms de **La Main**, qui est décédé  et **Le Coeur**, qu'on ne sait pas où trouver. **Gestor** considère que le travail n'est pas vraiment fini, on lui dit qu'on ne sait pas où le trouver. On lui dit qu'il a rdv avec un duc ce soir, mais il ne voit pas avec qui ça pourrait être. On lui parle de Karradin, et de l'arme qui pourrait être liée aussi, mais ça ne lui dit rien non plus.
+
+On retourne se coucher à l'auberge.
+
+Au beau milieu de la nuit, des bottes se font entendre dans l'auberge, un homme tambourine à notre porte et nous intime de sortir. **Quazor** ouvre et 10 gardes entrent dans l'auberge et nous arrêtent pour l'assassinat du duc d'Estrelan. Ils nous amènent au palais et nous descendent dans les geôles où nous sommes enfermés dans des cellules séparées.
+
+Le garde refuse de nous parler de l'évènement, et nous intime de rester silencieux pendant qu'il finit sa partie de cartes. **Thalir** rejoint **Pinto** avec sa tp et discute en cachette avec lui, pour ne pas être entendu des gardes. On s'organise pour savoir ce qu'on fera plus tard.
+
+Un peu plus tard, les deux gardes s'en vont, remplacé par un bruit de pas accompagné par un bruit de canne qui arrive. Le **duc d'Estrelan** arrive. Il nous explique qu'il y a eu une tentative : un sort incendiaire a ravagé ses appartements. Il nous demande de lui expliquer ce qu'il s'est passé parce qu'il sait que ce n'est pas nous, mais demande à comprendre ce qu'il s'est passé. **Pinto** explique brièvement ce qu'il s'est passé et comment on est arrivés jusqu'au palais. Il comprend, nous dit qu'il enverra quelqu'un récupérer le Noyau à l'auberge.
+
+Il nous annonce un tournoi prévu avant les élections pour "faire de la pub". Plus tard dans la matinée, les gardes nous libèrent, on retourne à l'auberge.
