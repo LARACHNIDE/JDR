@@ -832,7 +832,7 @@ En fouillant les cadavres, on réalise qu'ils ont tous des chaussures, TIN TIN T
 On remarque aussi que les hommes à capuches (sorciers) sont des sortes d'humanoïdes assez étranges, avec des visages très lisses, sans poils, peau blafarde, grise, bleuâtre. ça nous rappelle, en un peu plus frais, les morts-vivants qu'on avait vus à la Faille, qui étaient un peu différents des autres.
 En fouillant, on trouve quelques pièces d'or, tandis qu'une patrouille de gardes s'approche de nous. L'homme à leur tête demande ce qui se passe et cherche à comprendre ce qui se passe. On leur donne le token d'accès au palais de Milege pour prouver notre bonne foi. On leur explique qu'on est tombés dans une embuscade et que nous sommes en mission pour le **duc d'Estrelan**. Il s'agenouille à côté d'un cadavre et regarde le tatouage qu'on lui indique pour montrer qu'ils semblent faire partie d'une même secte. On lui indique qu'on réside à l'auberge "Le Chatoyant", et qu'on reste disponible si besoin.
 
-Dans son sommeil, **Pinto** rêve de versions aternatives de **Phobos** et passe une très très bonne nuit.
+Dans son sommeil, **Pinto** rêve de versions alternatives de **Phobos** et passe une très très bonne nuit.
 
 <img src="images\alternative_phobos.png" width="500">
 
@@ -945,6 +945,44 @@ Au beau milieu de la nuit, des bottes se font entendre dans l'auberge, un homme 
 
 Le garde refuse de nous parler de l'évènement, et nous intime de rester silencieux pendant qu'il finit sa partie de cartes. **Thalir** rejoint **Pinto** avec sa tp et discute en cachette avec lui, pour ne pas être entendu des gardes. On s'organise pour savoir ce qu'on fera plus tard.
 
-Un peu plus tard, les deux gardes s'en vont, remplacé par un bruit de pas accompagné par un bruit de canne qui arrive. Le **duc d'Estrelan** arrive. Il nous explique qu'il y a eu une tentative : un sort incendiaire a ravagé ses appartements. Il nous demande de lui expliquer ce qu'il s'est passé parce qu'il sait que ce n'est pas nous, mais demande à comprendre ce qu'il s'est passé. **Pinto** explique brièvement ce qu'il s'est passé et comment on est arrivés jusqu'au palais. Il comprend, nous dit qu'il enverra quelqu'un récupérer le Noyau à l'auberge.
+Un peu plus tard, les deux gardes s'en vont, remplacé par un bruit de pas accompagné par un bruit de canne qui arrive. C'est le **duc d'Estrelan**. Il nous explique qu'il y a eu une tentative de meurtre sur sa personne: un sort incendiaire a ravagé ses appartements. Il nous demande de lui expliquer ce qu'il s'est passé parce qu'il sait que ce n'est pas nous, mais demande à comprendre ce qu'il s'est passé. **Pinto** explique brièvement ce qu'il s'est passé et comment on est arrivés jusqu'au palais. Il comprend, nous dit qu'il enverra quelqu'un récupérer le Noyau à l'auberge.
 
 Il nous annonce un tournoi prévu avant les élections pour "faire de la pub". Plus tard dans la matinée, les gardes nous libèrent, on retourne à l'auberge.
+
+## XXII - Les visions de Géro
+
+En arrivant à l'auberge, l'aubernier nous demande un peu ce qui nous est arrivé, on cache un peu la vérité. Il donne aussi un colis (une énorme caisse) pour **Thalir**, qui tente de flex mais n'arrive pas à la porter à une main ... On remonte dans notre chambre. **Phobos** arrive à soulever la caisse avec **Thalir** dessus parce que LUI il peut !
+En ouvrant la caisse, **Thalir** en sort une armure lamellaire enchantée avec 'Swap', permettant, deux fois par jour, d'échanger sa position avec une cible. (faite par un certain **Jérôme**).
+
+En allant vers le château, on tombe sur une affiche qui tease le Grand Tournoi, qui indique qu'il y aura une compétition entre différentes équipes.
+En arrivant au château, les gardes nous lancent de sales regards (on se demande bien pourquoi ...). On se rend jusqu'aux quartiers du duc, mais on nous apprend qu'il est à la Conférence des Ducs. On repassera plus tard alors.
+
+On se rend à la cathédrale pour se renseigner sur l'histoire des prêtres qui ont eu des hallucinations (mission du pape). **Pinto** donne un peu d'argent à un mendiant, et on rentre dans une très belle cathédrale avec des peintures, une magnifique voûte ...
+On se rapproche d'un prêtre "en chef", qui nous confirme qu'il y a de nombreux prêtres qui nous ont fait des rapports selon lesquels des prêtres (et aussi parfois des croyants) ont eu des visions lors de leurs instants de prières. IL nous parle notamment de **Albert**, qui est dans cette cathédrale. Il nous fait une petite liste de quelques autres prêtres qui ont aussi été concernés par ces visions.
+
+**Albert**, un homme éléphant assez fluet, nous parle de ses visions. IL nous dit que depuis quelques temps, il sentait quelque chose en plus lors de ses prières. Géro lui aurait parlé. **Quazor** détecte de l'embarras, et lui demande de préciser ce qu'i lui aurait dit. **Albert** dit qu'il n'a pas bien compris mais qu'il aurait parlé d'énergie, de Velmo (qui est l'un des mondes comme Gérouan ou Karradin qui existent). Il n'a pes eu d'images ni discuté avec quelqu'un d'autre (il n'avait pas l'air bien serein en parlant de ça). IL a tout de même été contacté par un ouaille pour peut-être lui parler de ça mais il n'en sait pas plus.
+
+On se rend ensuite vers la maison du croyant que nous a indiqué **Albert**. Il a l'air un peu foufou mais nous laisse entrer. C'est un homme-lapin qui nous fait entrer et nous emmène, extatique de savoir qu'il est pris au sérieux. Il a l'air du type complotiste, trouveur de vérité, etc.
+Il nous annonce que Géro est un corbeau, qui lui parle et lui a dit "puissance, Velmo, réactivé", qu'il a écrit sur le mur. IL nous décrit Géro comme un corbeau assez lumineux ... **Quazor** se lance dans un dessin ultra-réaliste du **père Rougier**, qu'il tend au croyant, et qui confirme que c'est lui qu'il croit être Géro. En regardant de plus près son mur, on repère des petites affiches dans tous les sens qui concernent plein de trucs qui semblent n'avoir aucun rapport entre eux, mais c'est évident que tout est lié. C'était sûr en fait ! Il nous dit qu'on est des oeufs et qu'on va mourir dans une gigantesque omelette.
+Pour l'aider, on lui promet de l'aider à écrire un livre pour répandre la vérité auprès de tout le monde, mais seulement après les élections, que les esprits soient prêts à recevoir la parole de Géro. Son nom est **Jean**. On va aussi retourner voir le père **Albert** pour lui en parler.
+En débrief, on essaye de comprendre le lien entre notre **père Rougier** qui parle tout le temps de Velmo et d'énergie ... Suppositions que Gérouan est un Nid qui nous élève dans le but de récupérer nos corps pour les âmes défuntes ?
+
+A l'église du quartier des mages : on y rencontre une prêtresse : **Laura**. Elle nous parle de sa vision, où elle a entendu les mots 'artefact' et 'réactivé'. Elle répond aussi qu'elle n'a pas eu de vision mais encore une fois elle est gênée. Elle annonce que ses miracles sont plus puissants qu'avant, désormais. Sa vision a eu lieu il y a 3-4 semaines. Elle refuse d'admettre qu'il ressemblait à un corbeau, mais quand **Quazor** montre son dessin, et qu'on lui dit qu'on est au courant. Elle finit par reconnaître qu'il ressemblait bien au **père Rougier**.
+
+<img src="images\le_cercle.png" width="500">
+Faire un cercle c'est pas facile ...
+
+Il est midi, on se cherche un bon restau sympathique pour se remettre de nos émotions.
+
+On va voir le duc maintenant, pour lui parler du Noyau et du Grand Tournoi. Il confirme que le Noyau est safe, et qu'il nous le rendra quand on pourra tester quelque chose de crédible, et nous demande de participer au tournoi en tant que champions lors des combats par équipes.
+
+On finit de faire le tour des églises pour rencontrer les gens qui ont eu des visions. Globalement tout le monde raconte la même chose, on apprend deux nouveaux mots qui ont été entendus pendant le visions : 'portail' et 'clé'. Ils ont tous constaté une amplification de leurs miracles.
+
+Liste des mots entendus : Velmo, portail, clé, énergie, puissance, activé/activer, artefact
+
+On se rend à la cathédrale pour demander une audience. Le pape accepte de nous recevoir dès maintenant.
+On lui raconte ce qu'on a entendu à propos des visions. On explique que ce qu'ils pensent être Géro est en fait le **père Rougier**. On lui raconte toute l'histoire, en particulier notre téléportation, notre arrivée dans la grande tour de Milege, la vision du père Rougier.
+
+Le pape joue avec un médaillon pendant qu'on lui raconte l'histoire, et à la fin il semble jouer à pile ou face avec et nous annonce qu'il décide de nous faire confiance, mais nous recommande de n'en parler à personne d'autre. Il souhaite nous donner plus de précisions : un secret qui se passe de pape en pape.
+Il nous parle de Géro : il faut le voir comme un gardien, un serviteur, un automaton. Les prêtres arrivent à le commander et à manifester sa puissance au quotidien (miracles, soins, bénédictions ...). Mais il n'ay a pas de volonté ni d'individu derrière. Un automaton est un concept magique qui répond à des principes/ordres simples.
+Sa théorie est que le **père Rougier** aurait fusionné avec l'automaton, ou en tout cas se serait lié avec à sa mort.
