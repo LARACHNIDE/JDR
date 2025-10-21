@@ -997,3 +997,26 @@ A défaut de pouvoir en faire quelques chose pour l'instant, on sait au moins à
 On rentre à l'auberge, où on retrouve l'aubernier, inquiet de nous voir débarquer. Il nous demande quand même si il n'y a pas de risque d'explosion, de soldats ou autre cette fois. On le rassure (maladroitement). Allez hop au dodo !
 
 Au réveil, on entend des gens crier par la fenêtre, un vendeur de journaux crie à la volée 'Vontaine en danger !'. **Pinto** vole jusqu'à lui, lui achète le journal et revient jusqu'à nous. Le journal raconte que Vontaine a été attaqué, et que les envahisseurs marchent sur la capitale du duché et que celle-ci est en grave danger. TIN TIN TIIIIN !
+
+## XXIV - Le magistère et l'arène
+
+Après moult délibérations sur comment aborder le magistère, on finit par sortir pour aller voir le magistère afin d'obtenir des infos sur comment obtenir de l'énergie pour alimenter le Noyau, tout en faisant passer ça pour une arme défensive qui nous aiderait à se protéger contre les envahisseurs qui ont attaqué Vontaine.
+
+Arrivés à l'académie des mages, on se dirige vers la tour qui abrite le Magistère, on nous conduit vers une grande pièce recouverte de bois, avec une bibliothèque à la Trinity College. Le jeune garde qui nous escorte nous amène finalement dans une pièce circulaire, avec des caractères runiques au sol. Une fois entrés, il marmonne des incantations, un flash de lumière nous éblouit et nous voilà maintenant face à un magnifique bureau, avec une chandelier, une baie virée offrant une vue dégagée sur la ville. Le **Magistère** est à son bureau (elfe blond à la peau blanche). Il nous accueille chaleureusement en se rapprochant de lui.
+
+De base, pour faire de la magie, il faut un transformateur, un amplificateur et/ou un modificateur. Ce sont des catégories d'objets qui permettent d'altérer la magie de l'artefact qu'on manipule.
+Puisque le Magistère nous demande plus de détails pour qu'il puisse nous aider, **Pinto** finit par rentrer plus dans les détails de ce qu'est le Noyau (sans trop en dire non plus et sans prononcer le mot 'Noyau'), afin de s'en servir pour repousser les envahisseurs.
+Le magistère, prêt à nous aider pour défendre Gérouan, nous demande 10k PO pour nous louer un amplificateur. Pour le modificateur, il doit penser réfléchir à travailler sur l'orgue de la ville, voire de le rendre portable pour espérer l'utiliser à Vontaine, et y arriver avant que les envahisseurs ne prennent la ville.
+
+Après l'avoir remercié pour son aide, nous repartons. Le page "Thibault" qui nous a menés jusqu'au Magistère discute encore un peu avec nous, il nous raconte qu'il est le major de promo et que c'est pour ça qu'il a accès aux cours particuliers du Magistère.*
+
+<img src="images\milege_v2.png" width="500">
+
+On se rend désormais vers l'Arène pour en apprendre plus sur le tournoi. on nous explique que l'épreuve ets un combat d'équipe, tous les adversaires doivent être KO pour qu'il y ait victoire de l'équipe. Un artefact magique par personne, qui doit être validé par les organisateurs avant. Pas de potions, pas de boost pré-combat (en fight c'est autorisé). Pas de mise en danger du public.
+Les qualifications se font en 4v4, les phases finales sont du 1v1 par équipe (une élimination est définitive, les adversaires peuvent changer entre deux combats successifs).
+On y entre pour apprécier le spectacle. Au centre de l'arène, un minotaure a des rubans accrochés à ses cornes, et un dizaine "d'adversaires" essayent d'attraper un des rubans. Quand il les évite ou les envoie au tapis, une clameur s'élève de la foule et scande "**Hubert** ! **Hubert** !". Idem lorsque l'un des prétendants arrive à agripper un des rubans.
+On repère les loges VIP, mais personne que nous ne connaissions.
+**Pinto** remarque deux personnes qui semblent dénoter de l'aspect général des participants de l'arène. Ils sont en armure, à la peau très sombre qui a un aspect 'terreux", et des cheveux très clairs, qui ressemblent à **Thalir**. **Pinto** nous en fait part, et **Thalir** reconnaît un de ses princes rivaux, **Thamkir**, accompagné de son oncle/mentor **Vemlir** qui est aussi un des rivaux de **Thalir**. **Thalir** nous affirme qu'il est probablement plus dans la 'force brute'.
+**Hubert** est finalement déclaré gagnant du combat, le spectacle est fini.
+
+On rentre à l'auberge. Il faudra retourner voir le duc d'Estrelan pour lui parler des 10k PO requis par le Magistère, puis aller s'entraîner (dans la forêt où on a déversé le contenu du sac à rallonge ?) pour reprendre un petit entraînement au combat.
