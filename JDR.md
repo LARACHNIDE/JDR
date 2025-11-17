@@ -1020,3 +1020,18 @@ On repère les loges VIP, mais personne que nous ne connaissions.
 **Hubert** est finalement déclaré gagnant du combat, le spectacle est fini.
 
 On rentre à l'auberge. Il faudra retourner voir le duc d'Estrelan pour lui parler des 10k PO requis par le Magistère, puis aller s'entraîner (dans la forêt où on a déversé le contenu du sac à rallonge ?) pour reprendre un petit entraînement au combat.
+
+## XXV - Unagi
+
+On va donc voir le **duc d'Estrelan** pour lui parler de cette histoire de 10k PO. IL nous reçoit, on parvient à le convaincre qu'on a besoin de ces 10k PO pour réussir à faire fonctionner le Noyau à pleine puissance pour gagner la guerre qui fait rage. Il nous dit qu'il va avoir besoin de contacter le Magistère et potentiellement les autres ducs pour organiser la collecte d'autant d'argent, et que ça prendra donc quelques jours.
+
+Par ailleurs, le duc nous annonce que **Vontaine** est en facheuse posture, que la ville subit un siège et qu'un recrutement a lieu pour participer à sa défense. Il nous demande ce que nous souhaiterions faire. **Thalir** annonce que nous sommes à ses ordres et que nous ferons ce qu'il nous ordonne. Le duc préfère qu'on reste à Milege pour participer au tournoi. De plus, il nous annonce qu'il y a du nouveau sur les tentatives d'assassinat que nous avons subies, et nous sommes prêts à participer à la suite de l'enquête. Il nous fera parvenir des documents en toute confidentialité, et nous propose d'aller habiter ailleurs d'ici au tournoi pour être plus tranquilles et éviter les potentielles embuscades. Il nous glisse l'adresse de ce lieu sur un petit papier et nous le glisse sans rien dire (DE PEUR QU'IL Y AIT DES ESPIONS DANS LE COIN TOI-MÊME TU SAIS).
+
+On monte un stratagème pour vérifier qu'on n'est pas suivis, puis en voyant que non, on finit par se diriger vers l’ascenseur qui nous fait monter au temple de Gero. **Pinto** lance la pièce qui permet de contacter **Lemaitre** pour essayer de lui parler de la guerre, de **Vontaine** ... Une fois lancée en l'air, la pièce retombe et disparaît avant même de toucher terre, sans un bruit. Mais rien de plus ne se passe ... Même un 'Detect Magic' n'y fait rien ... **Pinto** est dépité mais tant pis.
+
+On s'organise des duels histoire de s'entraîner pour le tournoi à venir.
+
+<img src="images\duels.png" width="500">
+
+Duels **Pinto**-**Quazor**, **Thalir**-**Phobos**, puis la finale **Thalir**-**Quazor** (victoire **Quazor** !).
+
