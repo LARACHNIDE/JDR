@@ -719,7 +719,7 @@ On est mal en point, essoufflés. On sécurise la pièce en en faisant le tour. 
 
 Le père **Rougier** dit à **Quazor** qu'il "sent le Noyau". **Thalir** s'approche du canon avec le Noyau, la gemme qui est dedans est de moins en moins brillante, et finit par exploser. Ils s'en sortent très bien, mais par contre tout autour d'eux, les trois quarts de la pièce sont emplis d'une forêt qui vient de surgir de nulle part. **Pinto** et **Thalir** courent vers **Phobos** et **Quazor** qui commençaient à se transformer petit à petit en plantards eux-mêmes.
 
-Maintenant, en se rapprochant de la fresque, les lianes disparaissent, et on devine deux images différentes : la première présente un rond vert sur un fond bleu, presque noir. Au-dessus, il y a cinq ("il lui dit qu'il y en a 5") formes triangulaires. L'autre est une sorte de donut vert, avec des disques bleus dedans. Dans le disque central, il y a sept personnages humanoïdes, et une inscription runique en bas. La rune se prononce "Méléan" mais personne ne sait ce que ça peut dire. Les humanoïdes : un ocre/jaune, avec une sorte de crinière, un nez rose. Ensuite de grands trucs qui ressemblent à une girafe. Ensuite une sorte d'humanoïde mais avec deux cornes sur la tête. Ensuite une truc bleu, avec des stries sur le cou (poisson ?). Petits hommes verts avec un gros nez ( = gobelins). Enfin une race d'humanoïdes avec de grandes pattes, des grandes cornes, qui ressemble un peu à une sorte de vache. Enfin un sorte d'iguane humanoïde.
+Maintenant, en se rapprochant de la fresque, les lianes disparaissent, et on devine deux images différentes : la première présente un rond vert sur un fond bleu, presque noir. Au-dessus, il y a cinq ("il lui dit qu'il y en a 5") formes triangulaires. L'autre est une sorte de donut vert, avec des disques bleus dedans. Dans le disque central, il y a sept personnages humanoïdes, et une inscription runique en bas. La rune se prononce "Méléan" mais personne ne sait ce que ça peut dire. Les humanoïdes : un ocre/jaune, avec une sorte de crinière, un nez rose. Ensuite de grands trucs qui ressemblent à une girafe. Ensuite une sorte d'humanoïde mais avec deux petites cornes sur la tête. Ensuite une truc bleu, avec des stries sur le cou (poisson ?). Petits hommes verts avec un gros nez ( = gobelins). Enfin une race d'humanoïdes avec de grandes pattes, des grandes cornes, qui ressemble un peu à une sorte de vache. Enfin un sorte d'iguane humanoïde.
 
 <table>
 <tr>
@@ -1062,4 +1062,25 @@ En observant le carnet du père **Rougier** qui parle de la lumière noire et ce
 
 Suite à tout ça, **Lemaitre** nous intime de ne pas juger trop vite les habitants de Karradin, nous donne une pièce pour le recontacter, nous donne un parchemin, puis quitte la pièce et disparaît. En ouvrant la porte derrière lui, **Pinto** distingue un aperçu de la caravane de **Lemaitre** dans laquelle il semble s'être téléporté. Le parchemin est un parchemin de compréhension universelle des langues.
 
-il y a deux lettres sur le bureau. La première donne une adresse d'un auberge, avec 4 noms et des descriptions physique sommaire des individus. Ce sont probablement les noms des participants des combats de l'Arène, envoyé par le duc en soum-soum. La deuxième lettre provient de quelqu'un d'autre (pas la même écriture). Dessus, il y a marqué "Tout porterait à croire que le duc de **Vébutie** en est à l'origine, c'est lui qui a le plus à perdre si les choses ne se passent pas comme il le souhaite". (duc de Vébutie = guerroyeur et méchant pas bô).
+Il y a deux lettres sur le bureau. La première donne une adresse d'une auberge, avec 4 noms et des descriptions physiques sommaires des individus. Ce sont probablement les noms des participants des combats de l'Arène, envoyé par le duc en soum-soum. La deuxième lettre provient de quelqu'un d'autre (pas la même écriture). Dessus, il y a marqué "Tout porterait à croire que le duc de **Vébutie** en est à l'origine, c'est lui qui a le plus à perdre si les choses ne se passent pas comme il le souhaite". (duc de Vébutie = guerroyeur et méchant pas bô).
+
+## XXVII - Le concert
+
+Après un dodo réparateur, on se réveille le samedi matin, veille du tournoi. On décide d'essayer d'aller repérer nos potentiels adversaires, en allant vers leur auberge. **Pinto** et **Phobos** se préparent à faire une sorte de petit concert histoire d'essayer de rameuter du monde et de faire sortir nos adversaires de l'auberge (avec une enseigne de "femme-poisson"). Le but de la manoeuvre est de les repérer pour qu'ensuite **Thalir** et **Quazor** les prennent en filature.
+La prestation de **Pinto** fonctionne bien, un attroupement se forme autour d'eux. **Phobos** arrête de taper du sabot parce qu'il est vraiment nul en rythmique. **Quazor** et **Thalir** finissent par repérer, sortant de l'auberge, nos quatre adversaires, qui se dirigent à leur tour vers le groupe de badauds qui encerclent **Pinto**. Il y a parmi eux :
+
+- Elfe armure bouclier
+- Mélange humain elfe robe armure bouclier
+- Une vieille femme en robe (mage)
+- Une gnome avec une crête de tresses rouges.
+
+Malheureusement, leur attention est attirée par **Thalir**, qui brille un peu au soleil à cause de son armure. **Quazor** s'éloigne de lui et se fond dans la foule pour ne pas se faire repérer à son tour.
+Mais ils se dispersent aussi dans la foule. La mage disparaît en un claquement de doigts, **Thalir** choisit de suivre l'elfe, qui se glisse dans une ruelle.
+**Thalir** croise son regard, puis le mec s'enfuit en courant. **Quazor** trottine pour essayer de le rattraper, mais le perd de vue. Trop lent ... **Thalir** retourne dans la foule pour essayer de trouver les autres.
+**Pinto** arrive à charmer deux personnes dans la foule, visiblement des riches (ça peut toujours servir).
+**Thalir** et **Quazor** ne trouvent plus les mecs, c'est mort. **Quazor** fait signe, et la prestation prend fin. Les gens sont contents, la foule se disperse petit à petit.
+On ne tire pas grand chose de plus à part qu'on a maintenant leurs visages et tenues en tête, mais on ne peut rien tirer de plus maintenant.
+
+On décide d'aller manger un bout (petit-déjeuner), puis de se rendre au château du duc d'Estrelan pour en apprendre plus sur la tentative d'assassinat qu'il a subie quelques jours plus tôt. On nous avait accusés mais au fond on ne sait pas du tout quels sont les détails de cette affaire.
+
+Fondation de la SACEM (Société d'Art et de Concerts de l'Exceptionnel Minotaure) pour organiser des concerts dans Milege ?
