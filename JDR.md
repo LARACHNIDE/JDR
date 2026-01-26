@@ -1062,7 +1062,7 @@ En observant le carnet du père **Rougier** qui parle de la lumière noire et ce
 
 Suite à tout ça, **Lemaitre** nous intime de ne pas juger trop vite les habitants de Karradin, nous donne une pièce pour le recontacter, nous donne un parchemin, puis quitte la pièce et disparaît. En ouvrant la porte derrière lui, **Pinto** distingue un aperçu de la caravane de **Lemaitre** dans laquelle il semble s'être téléporté. Le parchemin est un parchemin de compréhension universelle des langues.
 
-Il y a deux lettres sur le bureau. La première donne une adresse d'une auberge, avec 4 noms et des descriptions physiques sommaires des individus. Ce sont probablement les noms des participants des combats de l'Arène, envoyé par le duc en soum-soum. La deuxième lettre provient de quelqu'un d'autre (pas la même écriture). Dessus, il y a marqué "Tout porterait à croire que le duc de **Vébutie** en est à l'origine, c'est lui qui a le plus à perdre si les choses ne se passent pas comme il le souhaite". (duc de Vébutie = guerroyeur et méchant pas bô).
+Il y a deux lettres sur le bureau. La première donne une adresse d'une auberge, avec 4 noms et des descriptions physiques sommaires des individus. Ce sont probablement les noms des participants des combats de l'Arène, envoyé par le duc en soum-soum. La deuxième lettre provient de quelqu'un d'autre (pas la même écriture). Dessus, il y a marqué "Tout porterait à croire que le **duc d'Aiguille** en est à l'origine, c'est lui qui a le plus à perdre si les choses ne se passent pas comme il le souhaite". (duc d'Aiguille = guerroyeur et méchant pas bô, ~ chef des militaristes).
 
 ## XXVII - Le concert
 
@@ -1072,7 +1072,7 @@ La prestation de **Pinto** fonctionne bien, un attroupement se forme autour d'eu
 - Elfe armure bouclier
 - Mélange humain elfe robe armure bouclier
 - Une vieille femme en robe (mage)
-- Une gnome avec une crête de tresses rouges.
+- Une gnome (barbare/guerrière ?) avec une crête de tresses rouges.
 
 Malheureusement, leur attention est attirée par **Thalir**, qui brille un peu au soleil à cause de son armure. **Quazor** s'éloigne de lui et se fond dans la foule pour ne pas se faire repérer à son tour.
 Mais ils se dispersent aussi dans la foule. La mage disparaît en un claquement de doigts, **Thalir** choisit de suivre l'elfe, qui se glisse dans une ruelle.
@@ -1081,6 +1081,20 @@ Mais ils se dispersent aussi dans la foule. La mage disparaît en un claquement 
 **Thalir** et **Quazor** ne trouvent plus les mecs, c'est mort. **Quazor** fait signe, et la prestation prend fin. Les gens sont contents, la foule se disperse petit à petit.
 On ne tire pas grand chose de plus à part qu'on a maintenant leurs visages et tenues en tête, mais on ne peut rien tirer de plus maintenant.
 
-On décide d'aller manger un bout (petit-déjeuner), puis de se rendre au château du duc d'Estrelan pour en apprendre plus sur la tentative d'assassinat qu'il a subie quelques jours plus tôt. On nous avait accusés mais au fond on ne sait pas du tout quels sont les détails de cette affaire.
+On décide d'aller manger un bout (déjeuner), puis de se rendre au château du duc d'Estrelan pour en apprendre plus sur la tentative d'assassinat qu'il a subie quelques jours plus tôt. On nous avait accusés mais au fond on ne sait pas du tout quels sont les détails de cette affaire.
 
 Fondation de la SACEM (Société d'Art et de Concerts de l'Exceptionnel Minotaure) pour organiser des concerts dans Milege ?
+
+## XXVIII - Marc Page, Étienne Page et L'enquête
+
+**Pinto** se demande si le duc ne pourrait pas être quelqu'un de **Karradin**, parce que pourquoi pas, au fond ? Bon bref on se met en route vers le château du duc d'Estrelan. On se dirige directement vers son bureau. Surpris de nous voir arriver, il nous demande ce qu'on vient faire ici. On lui demande donc plus de détails sur la nuit de l'assassinat, parce que ce qu'il nous a envoyé nous semble un peu mince. Agacé, il nous dit que comme il n'était pas là lors de la tentative d'assassinat, il n'a pas plus d'infos. Il nous congédie froidement. On cherche donc à se mettre en relation avec un capitaine de la garde ou un responsable de la sécurité qui puisse nous aiguiller (au pire on demande à Marc (page) de nous indiquer comment nous y rendre). On demande donc à un garde de nous indiquer la caserne, qui est un baraquement à la sortie du château. Pas mal d'activité, on est escortés par un garde jusqu'au bureau d'un homme lapin très très moustachu, assez âgé, qui a une belle armure avec beaucoup de médailles : Capitaine **Coupereau**. Quand on lui demande des précisions sur les évènement, il sort une pile de rapports de son bureau.
+Nuit de mercredi : à 10h, un groupe d'intrus déclenche une fausse alarme, ce qui détourne l'attention de la patrouille vers les cuisines, il y décrit un homme-chouette et un homme-lapin. Il regarde suspicieusement **Quazor** et **Pinto** ...
+10h10 : un page (**Étienne**) réceptionne un colis pour le duc, et le livre dans sa chambre
+10h15 : le même page repère un incendie dans la chambre du duc, il donne l'alarme et l'incendie est maîtrisé à 10h22, mais l'incendie a fait de gros dégâts.
+Le colis aurait été remis par une jeune elfe qu'il n'a pas reconnue, et qui n'a pas été retrouvée non plus. Il nous remet un portrait robot : elfe, jeune, blonde.
+D'après un mage mandaté par la guilde des mages, une préparation alchimique aurait embrasé la pièce toute seule. Le duc était avec le **duc de Saltre** (homme-corbeau = kenku) à ce moment, donc il y a échappé. Ce duc-là est plutôt gentil.
+A priori la préparation n'est pas très compliquée. Trois alchimistes de la ville seraient capables de la faire a priori. Il nous donne les trois noms.
+Il nous donne son avis sur la situation : cruel de s'acharner sur Estrelan, même s'il a des rivaux, sa position est tout de mêm déjà affaiblie, donc ça semble étonnant. Les assassinats politiques ne sont jamais arrivés, c'est donc tout à fait inédit. Il confirme qu'Aiguille est un des rivaux principaux mais ne souhaite pas se prononcer sur la responsabilité.
+Il nous donne également les emplacements des autres ducs dans le château, si on souhaite les interroger aussi.
+
+On retourne voir le **duc d'Estrelan** pour interroger son page,**Étienne**. On l'emmène dans une pièce attenante à la chambre du duc pour l'interroger. Le soir de l'assassinat, une elfe a toqué à la porte en disant qu'elle avait un colis pour le duc. Il a pris ça pour un cadeau, ne s'est pas inquiété et l'a amené dans la chambre du duc. Au moment de le poser, il l'a posé un peu fort et a entendu du verre s'entrechoquer. A supposé que c'était du vin. quelque minutes plus tard, il a senti l'odeur du feu, a appelé la garde et voilà. Quand on lui parle de l'elfe qui lui a remis le colis, il semble commencer à bégayer et à rougir. Il se sent coupable d'avoir laissé passer le colis, n'est pas serein. Il a peur que la personne aille en prison, on lui dit que si ça se trouve elle ne le savait pas non plus, qu'on cherche juste à trouver le commanditaire. Il finit par lâcher le morceau : la personne en question n'est pas une elfe (il avait donné une fausse piste), c'est une gnome qui s'appelle **Lydie**, c'est une lingère qu'il connaît et qui sait qu'elle ne voulait aucun mal au duc. Penaud, il nous avoue tout ce qu'il sait, et nous demande de cacher à **Lydie** que c'est lui qui a poucave. On hésite et on lui dit qu'on verra si on peut garder ça sous silence.
