@@ -33,17 +33,23 @@ Arof
 
 ## Contexte
 
-![Gero](images/Gero.png)
+![Géro](images/Gero.png)
 
 L'action se déroule à Gérouan, royaume encerclé totalement par un mur de plusieurs kilomètres de hauteur.
-Le Dieu principal de cette contrée est **Gero**.
+Le Dieu principal de cette contrée est **Géro**.
 Notre histoire débute à Sermeille, dans le duché d'Estrelan.
 
 ![Le mur qui encercle Gérouan](images/Le_Mur.png)
 
 Le mur qui encercle Gérouan
 
-## Histoire
+## Lore des personnages
+
+### Phobos
+
+Classe : Fighter Eldritch Knight\
+Race : Minotaur\
+Passé : A eu des altercations avec des hordes de minotaures dans le passé qui ont tué sa famille. Tu veux montrer que les minotaures sont plus que des bêtes sauvages et veut faire le bien.
 
 ## Chapitre I - Faire ses preuves
 
@@ -109,8 +115,8 @@ Le lendemain, on fait le tour des marchands et des boutiques : le forgeron **Ber
 à côté de **Geniève** (elfe) à la boulangerie (four commun entre les deux échoppes).
 On va voir l'alchimiste puis dans la cathédrale pour enquêter sur le bâton inamovible.
 Un prêtre nous dit que ce n'est rien de plus qu'un bâton magique qui peut être bloqué ou non
-avec les boutons (Gero affirme que ce n'est rien de plus). (rien à voir avec les gemmes btw).
-On se quitte sur une bénédiction de **Gero**. On se bourre la gueule avec la 'boule de feu'.
+avec les boutons (Géro affirme que ce n'est rien de plus). (rien à voir avec les gemmes btw).
+On se quitte sur une bénédiction de **Géro**. On se bourre la gueule avec la 'boule de feu'.
 Le lendemain, on retrouve **Jean Villeroy** dans une grande cour pour le compte-rendu des missions.
 
 On nous annonce qu'on a bien rempli la mission et qu'on est engagés dans la garde ducale.
@@ -208,7 +214,7 @@ repartir vers l'église, **Pinto** en profite pour se familiariser avec l'appeau
 On poursuit vers l'Est, on retraverse le mur pour sortir du village et on arrive en vue de l'église
 du père **Rougier**, placée en haut d'une petite colline.
 On s'infiltre dans l'église, on y récupère un journal qui relate le quotidien du père. Au jour du cataclysme (le 15),
-rien n'est écrit. Ni dans les jours précédents. Son livre de prières est annoté. Le nom de **Gero** est raturé, le
+rien n'est écrit. Ni dans les jours précédents. Son livre de prières est annoté. Le nom de **Géro** est raturé, le
 symbole en forme de cercle aussi. Dans le journal, daté du 17, est écrit : 'La lumière est en moi, gloire au
 Noyau'.
 
@@ -225,8 +231,8 @@ Il nous a dit qu'il avait déposé plainte pour des histoires de pilleur de tomb
 restées sans retour. De temps en temps, il réalise qu'une des tombes a été ouverte. Il avait porté plainte
 auprès du capitaine Eugène Celtain mais que rien n'a été fait depuis.
 
-Il nous dit qu'il était un serviteur de **Gero** mais qu'il est maintenant un adorateur du Noyau, qu'il présente comme
-la paix ultime, une lumière au calme infini, qui nous appelle. Le jour du cataclysme, où il pensait que **Gero** l'avait
+Il nous dit qu'il était un serviteur de **Géro** mais qu'il est maintenant un adorateur du Noyau, qu'il présente comme
+la paix ultime, une lumière au calme infini, qui nous appelle. Le jour du cataclysme, où il pensait que **Géro** l'avait
 abandonné, une colonne est apparue dans le ciel, et la vérité lui est apparue. Les créatures zombies ont, selon lui,
 reçu un don du **Noyau**. Il ajoute que la forêt est bizarre, que des gardes y ont été mobilisés et qu'ils ne sont
 jamais revenus (paroles rapportées par les femmes des gardes à **Rougier**).
@@ -399,7 +405,7 @@ On sort de la ville, on se rend à la maison de Nestor pour la fouiller au cas o
 
 **Thalir** se concentre sur le Noyau. Il sent une sorte d'énergie maléfique qu'il se sent maintenant capable de rediriger, mais il ne sait pas comment l'expulser ou vraiment la conserver mais bon voilà c'est là quoi.
 
-**Pinto** se concentre sur la pierre ornée du blason de Sermeille. Il semble entendre des pas et des cloches. En tentant de siffloter "La Ballade de Gero", il semble que son sifflement soit absorbé par la pierre.
+**Pinto** se concentre sur la pierre ornée du blason de Sermeille. Il semble entendre des pas et des cloches. En tentant de siffloter "La Ballade de Géro", il semble que son sifflement soit absorbé par la pierre.
 
 Le père **Rougier** se met à parler à **Quazor** au travers de l'anneau récupéré sur le cadavre de Nestor. Il dit qu'il est "là" mais **Quazor** ne l'entend que dans sa tête. **Rougier** entend tout ce qu'il dit tant qu'il porte l'anneau. Lorsqu'il porte l'anneau, il se sent apaisé. Quand il l'enlève, le père **Rougier** ne peut plus communiquer.
 
@@ -413,7 +419,7 @@ Le père **Rougier** est étendu à terre, un carreau planté dans l'oeil, mort.
 On se retourne vers **Quazor**, qui explique que c'est bien sa voix qu'il entend, qui ne s'est pas rendu compte qu'il était mort. On réalise qu'il n'a plus son anneau, et pourtant il continue à nous parler, il parvient même à nous voir, il nous demande de respecter son corps et de ne pas lui voler d'objets.
 **Iber** retire son anneau pour voir si ça a un impact mais non, **Rougier** continue à parler à **Quazor**. Il précise d'ailleurs qu'il ne veut pas être enterré dans le cimetière, il préfère rester là.
 
-On ne parvient pas à en apprendre beaucoup plus via le père **Rougier**, donc on rentre dans l'église, dans laquelle il n'y a plus aucun symbole de **Gero**.
+On ne parvient pas à en apprendre beaucoup plus via le père **Rougier**, donc on rentre dans l'église, dans laquelle il n'y a plus aucun symbole de **Géro**.
 Austèrement décorée, il n'y a rien de particulier dedans qui éveille notre curiosité. On ressort de l'église dans le but de se diriger vers la Faille.
 
 En y arrivant, on trouve des tours de garde dans lesquelles il y a des arbres là où on s'attendrait à trouver des soldats. Un parterre de plantes quitte la Faille et remonte vers le Nord. Ce sont des plantes inconnues.
@@ -714,7 +720,7 @@ Mais l'air poussiéreux du tunnel fait éternuer **Thalir**, tandis que Pinto co
 
 ## XIV - Comme le pape lol / Milege (Farmer ?)
 
-Contexte : On est en fin d'aprem.
+Contexte : On est en fin d'après-midi.
 On est mal en point, essoufflés. On sécurise la pièce en en faisant le tour. On entend toujours les bruits de roulis, mais certains sont bloqués. Les rouages sont toujours empêtrés dans des lianes, ce qui les coince. La grosse pièce ronde au mur est entourée de grosses boules inertes, l'une est rouge et l'autre bleue, les autres semblent inertes. Derrière les plantes, on distingue une sorte de fresque cachée derrière.
 
 Le père **Rougier** dit à **Quazor** qu'il "sent le Noyau". **Thalir** s'approche du canon avec le Noyau, la gemme qui est dedans est de moins en moins brillante, et finit par exploser. Ils s'en sortent très bien, mais par contre tout autour d'eux, les trois quarts de la pièce sont emplis d'une forêt qui vient de surgir de nulle part. **Pinto** et **Thalir** courent vers **Phobos** et **Quazor** qui commençaient à se transformer petit à petit en plantards eux-mêmes.
@@ -767,7 +773,7 @@ On sort dans la rue, les gens nous regardent bizarrement parce qu'on est couvert
 On s'y dirige. Sur le chemin, on se nettoie dans une auge pour essayer de ressembler un peu à quelque chose. arrivés au château, les gardes nous laissent rentrer et nous disent qu'ils vont envoyer chercher le **duc d'Estrelan**. Au bout d'une dizaine de minutes, des pas se font sentir, et le **duc d'Estrelan** arrive vers nous, pressé et heureux de nous revoir ! Il nous amène dans ses bureaux. pour discuter. **Thalir** lui explique nos pérégrinations jusque-là.
 Il nous raconte aussi que les plantards, nommés "**Emessiens**" par les anciens, assiègent le royaume depuis un mois. Le duché d'Estrelan est tombé. Ils n'ont pas traversé le fleuve pour atteindre Milege, mais ont commencé à faire des avancées dans le duché de Vontaine. Ils n'ont pas su trouver de points faibles en particulier contre eux, excepté potentiellement le Noyau. Il réagit un peu bizarrement quand on évoque le texte 'Méléan' inscrit en runes sur la fresque. Il nous a aussi dit que normalement ils ne savent pas aller dans la structure gigantesque par laquelle nous sommes arrivés.
 
-Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe expansionniste : 2 : un duc et le **magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
+Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du Magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe expansionniste : 2 : un duc et le **Magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
 
 Il nous apprend aussi qu'au cours de leur retour vers Milege, ils se sont fait attaquer, et qu'**Iber** est mort dans l'embuscade. Il a également totalement perdu la trace de **Bizon**.
 
@@ -782,15 +788,15 @@ On nous arrange une suite pour quatre dans un hôtel de la ville, on y passe la 
 
 Avant le conseil, on se fait un petit point pour savoir ce qu'on choisit de dire ou pas au conseil. On choisit de ne pas parler du Noyau ni du fait qu'on soit arrivés par la gigantesque structure dans la ville.
 
-On s'apprête un peu et on se rend au château pour 9h. On rentre, on nous fait attendre. On voit de très belles pièces, avec des gravures, des boiseries ... Puis on nous installe dans une grande pièce avec 13 chaises autour d'une grande table circulaire. La 13eme chaise, un peu plus belle que les autres, semble mise à l'écart. On nous fait asseoir sur des bancs le long des murs, en attendant le début de la réunion, qui ne va évidemment pas commencer à l'heure. 9h rien... 9h25 quelqu'un passe la tête par erreur ... 9h35 un homme-corbeau (race des Kenku, **duc de Saltre**), bien habillé, rentre dans la pièce et va s'asseoir sur une des chaises. Au fur et à mesure, les autres personnes commencent à rentrer. Un Harrengon (homme-lapin comme **Lapontay**) duc de **Vontaine**, le **duc d'Estrelan** (un Loxodon), deuxième Harrengon **Vebutie**, un Tabaxi (homme-chat) **duc d'Aiguille** en uniforme d'apparat/militaire nous dédaigne du regard et va s'asseoir. Un humain raffiné **duc des Conflans**, à la belle moustache et bouclé, un autre humain **duc de Messat**, un homme grenouille **duc de Milege** du nom de **Grung**, et un autre homme-grenouille, le **pape** avec une coiffe, une longue coiffe, des symboles de Gero, habillé en blanc. Il est accompagné d'autres hommes habillés en bleu qui l'accompagnent. En armure complète, un petit gnome entre dans la pièce, avec une escorte de soldats armés jusqu'aux dents.
-En comptant, on réalise qu'il manque quelqu'un. En fait on réalise qu'un elfe à la longue cape violette est déjà assis à table. On ne l'avait pas vu rentrer apparemment. C'est probablement le **magistère**.
+On s'apprête un peu et on se rend au château pour 9h. On rentre, on nous fait attendre. On voit de très belles pièces, avec des gravures, des boiseries ... Puis on nous installe dans une grande pièce avec 13 chaises autour d'une grande table circulaire. La 13eme chaise, un peu plus belle que les autres, semble mise à l'écart. On nous fait asseoir sur des bancs le long des murs, en attendant le début de la réunion, qui ne va évidemment pas commencer à l'heure. 9h rien... 9h25 quelqu'un passe la tête par erreur ... 9h35 un homme-corbeau (race des Kenku, **duc de Saltre**), bien habillé, rentre dans la pièce et va s'asseoir sur une des chaises. Au fur et à mesure, les autres personnes commencent à rentrer. Un Harrengon (homme-lapin comme **Lapontay**) duc de **Vontaine**, le **duc d'Estrelan** (un Loxodon), deuxième Harrengon **Vebutie**, un Tabaxi (homme-chat) **duc d'Aiguille** en uniforme d'apparat/militaire nous dédaigne du regard et va s'asseoir. Un humain raffiné **duc des Conflans**, à la belle moustache et bouclé, un autre humain **duc de Messat**, un homme grenouille **duc de Milege** du nom de **Grung**, et un autre homme-grenouille, le **pape** avec une coiffe, une longue coiffe, des symboles de Géro, habillé en blanc. Il est accompagné d'autres hommes habillés en bleu qui l'accompagnent. En armure complète, un petit gnome entre dans la pièce, avec une escorte de soldats armés jusqu'aux dents.
+En comptant, on réalise qu'il manque quelqu'un. En fait on réalise qu'un elfe à la longue cape violette est déjà assis à table. On ne l'avait pas vu rentrer apparemment. C'est probablement le **Magistère**.
 La porte se ferme, la séance commence. Beaucoup de sujets qui ne nous concernent, des messes basses.
 
 A un moment vient le sujet de la guerre. Le **duc d'Estrelan** prend la parole pour tenter de convaincre ses confrères de la gravité des évènements. Il nous introduit comme ayant fait partie de la première ligne pour justifier notre présence. Le duc de **Vebutie** nous jette un regard dédaigneux. Le **duc de Saltre** nous demande d'expliquer ce que nous savons, ce que nous avons vu.
 
 **Pinto** s'avance, très intimidé, et commence à raconter nos aventures, ce qu'on a vu, comment les plantes se propagent sans relâche. Il évoque **Villeroy**, **Lapontay**, **Delhui**, qui sont tombés au combat.
-Le pape demande à en savoir plus sur les blasphèmes, on lui montre le livre blasphémé récupéré dans l'église du père Rougier de la Faille. L'un des ducs demande ce qu'on en a à faire des morts_vivants et des blasphèmes, il ne saisit pas le lien entre les deux. **Pinto** explique le coup de toute la garde de La Faille regroupés en dehors de la ville, l'immense lumière noire, leur transformation en plantards ou en morts-vivants. Cette lumière noire est bien reliée aux blasphèmes de Gero.
-Le duc de **Vebutie** est sceptique, il ne comprend pas pourquoi il faudrait envoyer des soldats pour ça. On lui réexplique que ce qui s'est passé à Sermeille peut arriver partout aussi. Le **duc de Saltre** demande au pape s'il voit quelque chose dans le livre du **père Rougier**. A priori rien de particulier, à part des blasphèmes, mais rien qui ne fasse le lien avec les **Emessiens**. Le Kenku (**duc de Saltre** ) enchaîne et demande s'il serait possible de négocier, il propose d'envoyer un émissaire. Celui des **Conflans** acquiesce. Le **magistère** hoche la tête. Le **duc d'Aiguille** est complètement contre, il critique les capacités militaires d'Estrelan et de Vontaine. Le **duc de Milege** est plutôt de notre côté. Le **duc de Vontaine** dit qu'il a du mal à les contenir. Celui de **Vebutie** le critique en disant qu'il éclatera les ennemis si jamais ils osent traverser la rivière. Le débat part en couilles. Le **duc d'Estrelan** annonce qu'il se présente au poste de président du conseil, et qu'il essaiera de convaincre les autres de la gravité des choses.
+Le pape demande à en savoir plus sur les blasphèmes, on lui montre le livre blasphémé récupéré dans l'église du père Rougier de la Faille. L'un des ducs demande ce qu'on en a à faire des morts_vivants et des blasphèmes, il ne saisit pas le lien entre les deux. **Pinto** explique le coup de toute la garde de La Faille regroupés en dehors de la ville, l'immense lumière noire, leur transformation en plantards ou en morts-vivants. Cette lumière noire est bien reliée aux blasphèmes de Géro.
+Le duc de **Vebutie** est sceptique, il ne comprend pas pourquoi il faudrait envoyer des soldats pour ça. On lui réexplique que ce qui s'est passé à Sermeille peut arriver partout aussi. Le **duc de Saltre** demande au pape s'il voit quelque chose dans le livre du **père Rougier**. A priori rien de particulier, à part des blasphèmes, mais rien qui ne fasse le lien avec les **Emessiens**. Le Kenku (**duc de Saltre** ) enchaîne et demande s'il serait possible de négocier, il propose d'envoyer un émissaire. Celui des **Conflans** acquiesce. Le **Magistère** hoche la tête. Le **duc d'Aiguille** est complètement contre, il critique les capacités militaires d'Estrelan et de Vontaine. Le **duc de Milege** est plutôt de notre côté. Le **duc de Vontaine** dit qu'il a du mal à les contenir. Celui de **Vebutie** le critique en disant qu'il éclatera les ennemis si jamais ils osent traverser la rivière. Le débat part en couilles. Le **duc d'Estrelan** annonce qu'il se présente au poste de président du conseil, et qu'il essaiera de convaincre les autres de la gravité des choses.
 
 **Pinto** indique au **duc d'Estrelan** qu'il a une preuve supplémentaire à apporter au conseil. Il tient un parchemin d'une main tremblante et commence à le lire : "L’expérience touche à sa fin. Il est grand temps que
 nous regagnions ce qui nous est dû, notre vengeance est proche". Les ducs l'écoutent, prennent note de ça mais aucun consensus n'est atteint suite à cela. La réunion se termine, on sort avec le **duc d'Estrelan**. Il nous dit qu'on n'aurait pas dû évoquer le Noyau, et que les **Emessiens** n'ont rien à voir avec des morts-vivants. Il nous intime de trouver un moyen d'augmenter la puissance du Noyau. Sinon, il lui faudra gagner le siège de président du conseil pour pouvoir déclencher des actions. Il explique que ce sont le **duc de Saltre** et le **duc d'Aiguille** qui sont ses opposants. On a ça comme alliances : Estrelan/Vontaine/Milege VS Aiguille/Messat/Vebutie VS Conflans/Saltre. On discute émoluments avec le duc, il nous promeut sergents, puis on sort du château.
@@ -798,7 +804,7 @@ nous regagnions ce qui nous est dû, notre vengeance est proche". Les ducs l'éc
 On ressort du château, on se demande un peu ce qu'on va pouvoir faire par la suite quand un page vient nous voir et nous informe que le pape souhaite nous convier à un repas organisé le lendemain soir à la cathédrale. On accepte l'invitation.
 
 On va essayer d'en apprendre plus sur la grande structure en allant à la bibliothèque. L'aubergiste nous indique qu'elle est dans le quartier des mages. On s'y rend. On arrive dans un quartier assez vaste, avec des espaces verts, des grands bâtiments. C'est une sorte d'université. **Pinto** demande à un étudiant où se trouve la bibliothèque, il indique un haut bâtiment avec un toit rouge, une belle porte en bois. On arrive dans la section "historique" sur la construction de Milege. Il nous dit que la structure a toujours été là, personne ne sait comment rentrer, même par magie, malgré les nombreuses expéditions qui ont eu lieu. Il ne semble pas convaincu qu'un quelconque livre ne nous serait utile ici . Il nous parle de la bibliothèque privée des mages, mais personne n'y a accès (n'étant pas mage).
-Au moment de partir, il nous rappelle que la structure est parfaitement au centre du royaume, et que certains l'appellent la maison de Gero...
+Au moment de partir, il nous rappelle que la structure est parfaitement au centre du royaume, et que certains l'appellent la maison de Géro...
 
 On remonte dans la structure pour tout explorer de nouveau, histoire d'être sûrs de ne rien rater là-haut. On remonte et on tourne dans le sens horaire cette fois. On finit par arriver sur une sorte d'esplanade, avec une immense porte dans la structure. On y voit un orifice (sorte de serrure comme pour les autres qu'on avait vues). **Pinto** sort la clé qu'il avait gardée, et essaye de l'introduire dans la serrure. La porte s'ouvre. Une grande allée avec des arches et des globes lumineux apparaît devant nous, on s'avance. Intersection avec les lumières qui vont à droite, le couloir en face et à gauche sont éteints. On suit les lumières à droite, celles derrière nous s'éteignent au fur et à mesure. Intersection encore : gauche avec lumières, droite sombre. On va à gauche. Une porte s'ouvre d'avant nous et nous amène dans une grande salle qui ressemble à celle de Sermeille (salle de TP avec un autel au centre, un énorme symbole).
 
@@ -847,7 +853,7 @@ Il suppose que cela pourrait être le **duc d'Aiguille** qui pourrait essayer de
 
 On rentre à l'auberge pour nous préparer à trouver des infos sur des milieux un peu occultes : on cherche à trouver l'origine des tatouages. **Quazor** se dirige donc vers l'aubernier/le tabergiste pour essayer de choper des informations sur ce genre de milieu un peu occulte. Il nous conseille donc de nous rendre  à l'adresse qu'il va nous indiquer dans la basse-ville en empruntant le tramway.
 
-On se dirige donc vers le tramway, il a une vibe un peu geroesque, avec le tram qui passe en hauteur (20m de haut). Aucune source d'énergie apparente. On paye 2PA pour rentrer, on monte un grand escalier pour accéder à la plateforme et on monte dans le tram, un bon gros pépère de 7-8 mètres de haut et 50m de long. On quitte donc le Quartier d'Érichou et le tramway repart.
+On se dirige donc vers le tramway, il a une vibe un peu géroesque, avec le tram qui passe en hauteur (20m de haut). Aucune source d'énergie apparente. On paye 2PA pour rentrer, on monte un grand escalier pour accéder à la plateforme et on monte dans le tram, un bon gros pépère de 7-8 mètres de haut et 50m de long. On quitte donc le Quartier d'Érichou et le tramway repart.
 
 Arrivés au quartier de la Basse Ville, on descend et on se met en marche vers le Dé d'Or, qui est l'adresse indiquée par l'aubernier. La Basse Ville est plus sombre, sale, les gens sont plus taiseux, ont l'air menaçants ou sales.
 
@@ -989,7 +995,7 @@ Sa théorie est que le **père Rougier** aurait fusionné avec l'automaton, ou e
 
 ## XXIII - Habemus papam
 
-**Pinto** est en syncope totale devant toutes ces révélations. Soit disant Géro ne peut pas faire de miracles 'néfastes'. Le pape confirme que le temple de Gero de Milege, du fait de sa dégradation, pourrait être responsable de notre perte dans les couloirs du temps entre notre départ de Milege et notre arrivée à Sermeille. Il ajoute que chacun des duchés contient au moins un site de cette nature, sur lesquels ils ont bâti u site religieux (cathédrale, église ..). A priori, Gero était là avant toute chose à Gérouan.
+**Pinto** est en syncope totale devant toutes ces révélations. Soit disant Géro ne peut pas faire de miracles 'néfastes'. Le pape confirme que le temple de Géro de Milege, du fait de sa dégradation, pourrait être responsable de notre perte dans les couloirs du temps entre notre départ de Milege et notre arrivée à Sermeille. Il ajoute que chacun des duchés contient au moins un site de cette nature, sur lesquels ils ont bâti u site religieux (cathédrale, église ..). A priori, Géro était là avant toute chose à Gérouan.
 Le pape ne connaît pas Méléan, Velmo, Karradin ou Malzar, bien que le nom lui parle un peu. On lui apprend l'existence de ces autres royaumes, ce qui peut faire sens vis-à-vis du mot 'portail' dont parle le père **Rougier** dans ses visions.
 Finalement, on explique au pape toute l'histoire du Noyau, de notre tentative de l'utiliser pour amplifier les pouvoirs de Géro, et on lui demande s'il connaît un mage qui pourrait nous aider à canaliser cette énergie. Il nous parle cependant des trains qui tournent autour de la ville, dont l'énergie provient de ce qu'il appelle la magie des anciens, qui passerait a priori par des cristaux. Peut-être qu'un de ces cristaux pourrait être utilisé pour canaliser l'énergie du Noyau ou pour débloquer le portail que l'on a tenté d'activer dans la tour de Milege.
 A priori on a beaucoup de trucs à faire maintenant pour aller plus loin, à commencer par ces histoires de cristaux. On prend un tram, et on cherche une certaine forme d'énergie, mais on ne voit rien de spécial. On rentre dedans. Les lampes à l'intérieur sont un peu spéciales, elles sont reliées à des tubes incrustés dans le plafond, et on voit quelques cristaux qui semblent les alimenter.
@@ -998,17 +1004,17 @@ On rentre à l'auberge, où on retrouve l'aubernier, inquiet de nous voir débar
 
 Au réveil, on entend des gens crier par la fenêtre, un vendeur de journaux crie à la volée 'Vontaine en danger !'. **Pinto** vole jusqu'à lui, lui achète le journal et revient jusqu'à nous. Le journal raconte que Vontaine a été attaqué, et que les envahisseurs marchent sur la capitale du duché et que celle-ci est en grave danger. TIN TIN TIIIIN !
 
-## XXIV - Le magistère et l'arène
+## XXIV - Le Magistère et l'arène
 
-Après moult délibérations sur comment aborder le magistère, on finit par sortir pour aller voir le magistère afin d'obtenir des infos sur comment obtenir de l'énergie pour alimenter le Noyau, tout en faisant passer ça pour une arme défensive qui nous aiderait à se protéger contre les envahisseurs qui ont attaqué Vontaine.
+Après moult délibérations sur comment aborder le Magistère, on finit par sortir pour aller voir le Magistère afin d'obtenir des infos sur comment obtenir de l'énergie pour alimenter le Noyau, tout en faisant passer ça pour une arme défensive qui nous aiderait à se protéger contre les envahisseurs qui ont attaqué Vontaine.
 
 Arrivés à l'académie des mages, on se dirige vers la tour qui abrite le Magistère, on nous conduit vers une grande pièce recouverte de bois, avec une bibliothèque à la Trinity College. Le jeune garde qui nous escorte nous amène finalement dans une pièce circulaire, avec des caractères runiques au sol. Une fois entrés, il marmonne des incantations, un flash de lumière nous éblouit et nous voilà maintenant face à un magnifique bureau, avec une chandelier, une baie virée offrant une vue dégagée sur la ville. Le **Magistère** est à son bureau (elfe blond à la peau blanche). Il nous accueille chaleureusement en se rapprochant de lui.
 
 De base, pour faire de la magie, il faut un transformateur, un amplificateur et/ou un modificateur. Ce sont des catégories d'objets qui permettent d'altérer la magie de l'artefact qu'on manipule.
 Puisque le Magistère nous demande plus de détails pour qu'il puisse nous aider, **Pinto** finit par rentrer plus dans les détails de ce qu'est le Noyau (sans trop en dire non plus et sans prononcer le mot 'Noyau'), afin de s'en servir pour repousser les envahisseurs.
-Le magistère, prêt à nous aider pour défendre Gérouan, nous demande 10k PO pour nous louer un amplificateur. Pour le modificateur, il doit penser réfléchir à travailler sur l'orgue de la ville, voire de le rendre portable pour espérer l'utiliser à Vontaine, et y arriver avant que les envahisseurs ne prennent la ville.
+Le Magistère, prêt à nous aider pour défendre Gérouan, nous demande 10k PO pour nous louer un amplificateur. Pour le modificateur, il doit penser réfléchir à travailler sur l'orgue de la ville, voire de le rendre portable pour espérer l'utiliser à Vontaine, et y arriver avant que les envahisseurs ne prennent la ville.
 
-Après l'avoir remercié pour son aide, nous repartons. Le page **Thibault** qui nous a menés jusqu'au Magistère discute encore un peu avec nous, il nous raconte qu'il est le major de promo et que c'est pour ça qu'il a accès aux cours particuliers du Magistère.*
+Après l'avoir remercié pour son aide, nous repartons. Le page **Thibault** qui nous a menés jusqu'au Magistère discute encore un peu avec nous, il nous raconte qu'il est le major de promo et que c'est pour ça qu'il a accès aux cours particuliers du **Magistère**.
 
 <img src="images\milege_v2.png" width="500">
 
@@ -1027,7 +1033,7 @@ On va donc voir le **duc d'Estrelan** pour lui parler de cette histoire de 10k P
 
 Par ailleurs, le duc nous annonce que **Vontaine** est en fâcheuse posture, que la ville subit un siège et qu'un recrutement a lieu pour participer à sa défense. Il nous demande ce que nous souhaiterions faire. **Thalir** annonce que nous sommes à ses ordres et que nous ferons ce qu'il nous ordonne. Le duc préfère qu'on reste à Milege pour participer au tournoi. De plus, il nous annonce qu'il y a du nouveau sur les tentatives d'assassinat que nous avons subies, et nous sommes prêts à participer à la suite de l'enquête. Il nous fera parvenir des documents en toute confidentialité, et nous propose d'aller habiter ailleurs d'ici au tournoi pour être plus tranquilles et éviter les potentielles embuscades. Il nous glisse l'adresse de ce lieu sur un petit papier et nous le glisse sans rien dire (DE PEUR QU'IL Y AIT DES ESPIONS DANS LE COIN TOI-MÊME TU SAIS).
 
-On monte un stratagème pour vérifier qu'on n'est pas suivis, puis en voyant que non, on finit par se diriger vers l’ascenseur qui nous fait monter au temple de Gero. **Pinto** lance la pièce qui permet de contacter **Lemaitre** pour essayer de lui parler de la guerre, de **Vontaine** ... Une fois lancée en l'air, la pièce retombe et disparaît avant même de toucher terre, sans un bruit. Mais rien de plus ne se passe ... Même un 'Detect Magic' n'y fait rien ... **Pinto** est dépité mais tant pis.
+On monte un stratagème pour vérifier qu'on n'est pas suivis, puis en voyant que non, on finit par se diriger vers l’ascenseur qui nous fait monter au temple de Géro. **Pinto** lance la pièce qui permet de contacter **Lemaitre** pour essayer de lui parler de la guerre, de **Vontaine** ... Une fois lancée en l'air, la pièce retombe et disparaît avant même de toucher terre, sans un bruit. Mais rien de plus ne se passe ... Même un 'Detect Magic' n'y fait rien ... **Pinto** est dépité mais tant pis.
 
 On s'organise des duels histoire de s'entraîner pour le tournoi à venir.
 
@@ -1045,7 +1051,7 @@ Après un petit repos des familles pour se remettre d’aplomb, on se met en dir
 
 Il est temps de prendre de ses nouvelles, de savoir comment va le monde et tout et tout. **Pinto** engage la conversation, raconte ce que nous savons à propos de la guerre, et bien sûr de **Géro** aussi. **Pinto** parle de l'automaton Géro, du palais, des piliers qui permettent de voyager dans le temps et l'espace.
 
-Il nous dit qu'il ne peut pas parler de tout car il est lui-même soumis à des contraintes. Il nous demande de lui en dire un maximum pour savoir ce qu'il est en mesure de nous dire ou non. On lui parle de **Rougier** qui semble fusionner avec l'automaton, et on cherche à savoir si c'est dangereux. Il pense que les impacts resteront modérés, et quoi qu'il arrive dans le bon intérêt de Gero, car il s'agit des 'directives' de l'automaton. Pour l'instant il n'a pas plus d'informations à ce sujet.
+Il nous dit qu'il ne peut pas parler de tout car il est lui-même soumis à des contraintes. Il nous demande de lui en dire un maximum pour savoir ce qu'il est en mesure de nous dire ou non. On lui parle de **Rougier** qui semble fusionner avec l'automaton, et on cherche à savoir si c'est dangereux. Il pense que les impacts resteront modérés, et quoi qu'il arrive dans le bon intérêt de Géro, car il s'agit des 'directives' de l'automaton. Pour l'instant il n'a pas plus d'informations à ce sujet.
 
 A priori, il serait possible de réutiliser les 'relais de maintenance' (c'est le nom des tours) pour de nouveau se téléporter. Mais il devait être endommagé car on n'aurait pas dû prendre autant de temps.
 
@@ -1092,7 +1098,7 @@ Nuit de mercredi : à 10h, un groupe d'intrus déclenche une fausse alarme, ce q
 10h10 : un page (**Étienne**) réceptionne un colis pour le duc, et le livre dans sa chambre
 10h15 : le même page repère un incendie dans la chambre du duc, il donne l'alarme et l'incendie est maîtrisé à 10h22, mais l'incendie a fait de gros dégâts.
 Le colis aurait été remis par une jeune elfe qu'il n'a pas reconnue, et qui n'a pas été retrouvée non plus. Il nous remet un portrait robot : elfe, jeune, blonde.
-D'après un mage mandaté par la guilde des mages, une préparation alchimique aurait embrasé la pièce toute seule. Le duc était avec le **duc de Saltre** (homme-corbeau = Kenku) à ce moment, donc il y a échappé. Ce duc-là est plutôt gentil.
+D'après un mage mandaté par le duc auprès de la guilde des mages, une préparation alchimique aurait embrasé la pièce toute seule. Le duc était avec le **duc de Saltre** (homme-corbeau = Kenku) à ce moment, donc il y a échappé. Ce duc-là est plutôt gentil.
 A priori la préparation n'est pas très compliquée. Trois alchimistes de la ville seraient capables de la faire a priori. Il nous donne les trois noms.
 Il nous donne son avis sur la situation : cruel de s'acharner sur Estrelan, même s'il a des rivaux, sa position est tout de même déjà affaiblie, donc ça semble étonnant. Les assassinats politiques ne sont jamais arrivés, c'est donc tout à fait inédit. Il confirme qu'Aiguille est un des rivaux principaux mais ne souhaite pas se prononcer sur la responsabilité.
 Il nous donne également les emplacements des autres ducs dans le château, si on souhaite les interroger aussi.
@@ -1109,3 +1115,21 @@ Il est dépité mais suppose que c'est juste parce qu'elle avait l'habitude d'al
 On décide d'aller voir les alchimistes pour en savoir plus sur la substance et sur la possibilité de se transformer en doppelganger (s'ils ont les infos), s'il y a eu des achats par un individu suspect récemment ...
 
 Premier alchimiste, le plus proche du château. Il y a des flacons, des plantes, des étuves en cuivre ... Il y a une dizaine de clients dans la boutique. **Phobos** et **Quazor** se rapprochent du comptoir. Un vieil homme avec une grande barbe (Mr. **Tubelin**)nous souhaite la bienvenue et nous demande ce qu'on souhaite. **Quazor** explique qu'on cherche une mixture qui pourrait s'embraser spontanément. Il évoque la nitro ou bien le phosphore qui peuvent s'embraser lors d'un choc ou avec l'air. Il comprend qu'on parle de l'incendie qui a eu lieu chez le duc. Pas d'explosion entendue par le page. La mixture qui s'enflamme au bout d'un temps contrôlé semble très compliqué. Il évoque la possibilité d'avoir deux fioles, l'une qui se mélangerait avec le première lors de l'ouverture du colis entraînerait le début de la combustion. Il évoque la possibilité d'utiliser de la jambuciane et un accélérant fait de peridote et de flaubuxine pour faire un tel mélange incendiaire. Il propose de créer le mélange et de le retrouver en fn de soirée pour tester tout ça.
+
+## XXIX - Les alchimistes
+
+On décide ensuite de nous rendre vers le prochain alchimiste qui nous a été indiqué. Il s'agit d'un atelier proche de l'université, avec des apprentis qui s'exercent au métier d'alchimiste. Il n'y a pas particulièrement de comptoir car ce n'est pas une boutique comme pour le premier. Une sorte de "maître" commence à répondre à nos questions, mais il refuse de nous laisser consulter son registre. En lui décrivant la solution, il reconnaît le "Feu de l'Alchimiste", qui est effectivement un mélange qui prend feu au contact de l'air. Il estime que se procurer les ingrédients n'est pas si compliqué, et les quantités pas si incroyables. Le plus dur consiste plutôt à se procurer le bon matériel qui permet de maintenir les ingrédients séparés jusqu'au moment de la déflagration. Les "feux de l'alchimiste" sont assez sensibles, mais ils savent en fabriquer ici, ils en ont notamment envoyé aux armées de **Vontaine** il y a quelques semaines. Ca pourrait être la provenance de "l'arme du crime".
+
+Comme on est proche de la bibliothèque, on s'y rend également pour chercher des informations à propos des change-formes/changelins, pour savoir si c'est une espèce commune ou non dans Géro. A priori non ce n'est pas du tout une espèce connue du grand public. On se renseigne sur les différentes races qui vivent sur Gérouan, mais rien de très probant.
+
+On va ensuite voir **Thibaut**, le page du Magistère, pour demander audience. Il accepte de nous recevoir. **Pinto** lui explique l'objet de nos recherches. Il nous dit que la notion de changelin ne lui dit absolument rien, et qu'on doit perdre notre temps. Il nous parle ensuite de la capacité d'utiliser un sort de déguisement pour prendre l'apparence de quelqu'un d'autre. Mais cela ne change pas la voix, la corpulence, la taille, donc assez limité mais pourquoi pas. Mais compliqué quand même.
+Sinon, du point de vue du projet de l'orgue portatif, il est en train d'étudier le projet activement avec des amis menuisiers. Pour le modérateur, besoin des 10k PO de toute façon.
+
+On revient à la boutique de **Mr. Tubelin**, il nous fait passer dans l'arrière-boutique, où on découvre son atelier d'alchimiste. Il y a du matériel et des plantes un peu partout, une odeur chimique flotte dans les airs. Il nous fait ensuite une démonstration de ce qu'est le Feu de l'alchimiste, en mélangeant des quantités infimes d'un liquide et de deux poudres, qui se met aussitôt à faire des étincelles, puis une boule de feu en surgit et disparaît aussi vite qu'elle est apparue, dans un bruit de flammes et une forte vague de chaleur. D'après son estimation, avec une quantité de solution de la taille d'une bouteille, comme ce qui a été remis au duc, tout le château aurait même pû s'embraser. Quand on lui demande si l'ouverture du colis aurait pû renfermer un mécanisme permettant de mélanger les réactifs, il nous parle de l'expérience de la larme de verre. Il nous montre alors ce que c'est : une goutte de verre torsadé, dont le corps est extrêmement résistant aux chocs. Mais il suffit de briser sa pointe pour que l'intégralité de la larme de verre explose. Un tel dispositif aurait pu être utilisé dans le colis.
+
+<img src="images\larme_de_verre.jpg" width="500">
+
+Après toutes ces découvertes, on décide de rentrer à l'auberge pour se coucher et prendre des forces pour le tournoi du surlendemain. Sur le chemin, **Phobos** se sent observé, mais en savoir plus. On va plutôt boire un coup à l'auberge. Sur place, un jeune homme vient nous voir pour nous dire que des gens l'ont payé pour nous dire qu'on est attendus dehors. **Pinto** lui lance 1 PO pour leur dire de venir nous voir à l'intérieur. Il revient nous voir après une minute pour nous dire qu'il nous a traité de lâches et qu'il nous attend à l'arrière de l'auberge. Pour ne pas prendre trop de risques, **Pinto** va donc se rendre invisible et commencer à voler à l'extérieur de l'auberge, pour essayer de voir qui peut bien nous chercher des noises comme ça, parbleu !
+Dans la ruelle derrière l'auberge, **Pinto** voit une elfe en armure, à côté d'une gnome avec une crête de tresse rouge. Ce sont nos futurs adversaires de l'arène, ceux que nous avions déjà cherchés devant l'autre auberge la veille. Il cherche à repérer également leurs deux autres acolytes, peut-être cachés dans les environs, et repère une femme un peu âgée en robe à quelques pas de là. Le dernier (un demi-elfe avec une masse) n'est pas visible.
+
+En toute connaissance de cause, on accepte de sortir les rencontrer pour voir ce qu'ils nous veulent.
