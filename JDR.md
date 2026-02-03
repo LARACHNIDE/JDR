@@ -49,7 +49,10 @@ Le mur qui encercle Gérouan
 
 Classe : Fighter Eldritch Knight\
 Race : Minotaur\
+Contrée d'origine : Messat
 Passé : A eu des altercations avec des hordes de minotaures dans le passé qui ont tué sa famille. Tu veux montrer que les minotaures sont plus que des bêtes sauvages et veut faire le bien.
+
+### TODO : Compléter pour les autres
 
 ## Chapitre I - Faire ses preuves
 
@@ -1022,7 +1025,7 @@ On se rend désormais vers l'Arène pour en apprendre plus sur le tournoi. on no
 Les qualifications se font en 4v4, les phases finales sont du 1v1 par équipe (une élimination est définitive, les adversaires peuvent changer entre deux combats successifs).
 On y entre pour apprécier le spectacle. Au centre de l'arène, un minotaure a des rubans accrochés à ses cornes, et un dizaine "d'adversaires" essayent d'attraper un des rubans. Quand il les évite ou les envoie au tapis, une clameur s'élève de la foule et scande "**Hubert** ! **Hubert** !". Idem lorsque l'un des prétendants arrive à agripper un des rubans.
 On repère les loges VIP, mais personne que nous ne connaissions.
-**Pinto** remarque deux personnes qui semblent dénoter de l'aspect général des participants de l'arène. Ils sont en armure, à la peau très sombre qui a un aspect 'terreux", et des cheveux très clairs, qui ressemblent à **Thalir**. **Pinto** nous en fait part, et **Thalir** reconnaît un de ses princes rivaux, **Thamkir**, accompagné de son oncle/mentor **Vemlir** qui est aussi un des rivaux de **Thalir**. **Thalir** nous affirme qu'il est probablement plus dans la 'force brute'.
+**Pinto** remarque deux personnes qui semblent dénoter de l'aspect général des participants de l'arène. Ils sont en armure, à la peau très sombre qui a un aspect 'terreux", et des cheveux très clairs, qui ressemblent à **Thalir**. **Pinto** nous en fait part, et **Thalir** reconnaît un prince rival, **Thamkir**, son cousin, accompagné de son oncle/mentor **Vemlir** qui est lui aussi un des rivaux de **Thalir**. **Thalir** nous affirme qu'il est probablement plus dans la 'force brute'.
 **Hubert** est finalement déclaré gagnant du combat, le spectacle est fini.
 
 On rentre à l'auberge. Il faudra retourner voir le duc d'Estrelan pour lui parler des 10k PO requis par le Magistère, puis aller s'entraîner (dans la forêt où on a déversé le contenu du sac à rallonge ?) pour reprendre un petit entraînement au combat.
@@ -1133,3 +1136,23 @@ Après toutes ces découvertes, on décide de rentrer à l'auberge pour se couch
 Dans la ruelle derrière l'auberge, **Pinto** voit une elfe en armure, à côté d'une gnome avec une crête de tresse rouge. Ce sont nos futurs adversaires de l'arène, ceux que nous avions déjà cherchés devant l'autre auberge la veille. Il cherche à repérer également leurs deux autres acolytes, peut-être cachés dans les environs, et repère une femme un peu âgée en robe à quelques pas de là. Le dernier (un demi-elfe avec une masse) n'est pas visible.
 
 En toute connaissance de cause, on accepte de sortir les rencontrer pour voir ce qu'ils nous veulent.
+
+## XXX - Les pleutres et l'alchimiste disparu
+
+Nous sortons donc de l'auberge, on contourne le bâtiment et nos deux (prochains) adversaires surgissent au détour d'une ruelle. Ils nous invectivent gentiment, demandent pourquoi on les a suivis l'autre jour, proposent de régler ce différend en combat là maintenant out de suite. On leur répond gentiment que bon voilà ils sont bien gentils mais on peut faire ça lundi dans les règles de l'art. **Thalir** propose même d'aller boire un coup tous ensemble. Mais la gnomette (qui semble être leur cheffe), soupe-au-lait, refuse et ils s'en vont un peu bredouilles et frustrés. L'elfe nous menace d'un geste au moment de partir. Sur ce, nous retournons boire une bière comme si rien ne s'était passé.
+
+**Pinto** se lance dans un petit concert improvisé dans la salle de l'auberge. Les gens semblent de plus en plus intéressés par ce qu'il fait, ils se retournent et écoutent. Pour le final, **Pinto** se lance dans un éloge de l'aubergiste. Acclamé par toute la salle qui en redemande, il appelle **Phobos** à le rejoindre. Encouragé par l'assemblée, il se lève et le rejoint. "Comme ce matin, mais en mieux ?", demande **Pinto** à **Phobos**. Le duo se lance, **Pinto** au luth, **Phobos** tapant du pied pour faire un rythme endiablé. A un moment donné, **Pinto** lance son chapeau à **Quazor**, qui le récupère en un geste magistral. **Quazor** se joint aux deux compères pour les accompagner en faisant les choeurs, tant bien que mal. Toute la salle reprend en choeur avec lui. **Thalir** se joint au trio, invoque son double de sable et commence à faire une sorte de danse en duo avec. Malheureusement, il met du sable partout, une petite fille se met à pleurer, les gens les plus proches se mettent à tousser violemment. L'ambiance retombe d'un coup, on salue timidement et on monte se coucher.
+
+Le lendemain, on décide d'aller voir le dernier alchimiste dans la Basse-Ville.
+En arrivant, la porte est fermée, on ne voit pas grand chose même en mettant sa tête aux fenêtres. Les lieux semblent abandonnés, quelques objets traînent encore au sol. **Pinto** repère une fenêtre ouverte à un étage, il rentre, accompagné par **Thalir**. Ils ouvrent à leurs compères restés dans la rue. La boutique est vraiment vide, quelques feuilles de papier traînent au sol, dans la chambre à l'étage il reste des affaires comme si les occupants avaient dû partir précipitamment. On fouille le rez-de-chaussée et l'étage, mais rien de probant malgré tous nos efforts.
+
+**Phobos** va voir la cordonnière Kenku dans la boutique d'à-côté pour savoir si elle sait quelque chose. Elle dit qu'elle n'avait pas trop remarqué son absence, qu'il était assez antipathique et sinistre donc elle ne lui connaît pas de relatifs non plus. Il s'agit de **Bertrand Salarius**. Elle estime son absence à 10 jours, deux semaines. Idem dans la boutique de l'autre côté de la maison de l'alchimiste, personne ne sait trop ce qu'il est devenu. On nous dit qu'il s'agit d'un vieil Harrengon avec le poil très blanc, le dos voûté, le poil collant, entouré d'une odeur étrange. On nous dit qu'il avait aussi une clientèle un peu ... suspecte, mais rien qui ne sorte du lot non plus. La boutique à côté est celle d'un artisan qui taille le bois. **Pinto** fouille la boutique et trouve quatre figurines qui nous ressemblent un peu, et décide de les acheter et de les ajouter à son jeu d'échecs.
+
+Bredouilles, on se dirige vers la garde pour savoir s'ils ont des informations à son sujet, éventuellement. Le capitaine **Coupereau** nous reçoit mais il ne connaît rien de ce monsieur **Salarius**, son nom ne lui dit rien et a priori il n'a pas de 'casier judiciaire' connu. On se rend aussi au poste de capitainerie du quartier, où on explique aussi qu'on cherche **Salarius** au sergent. Ce dernier nous affirme que son nom ne lui dit rien de particulier, mais lui non plus n'est au courant de rien à son égard.
+
+On repart bredouilles, et on décide de faire des activités chacun de son côté pour finir tranquillement la demi-journée. **Pinto** va à la bibliothèque, **Phobos** se rend dans la forêt à côté de Milege pour voir ce que la mare d'huile est devenue après qu'on l'ait sortie du sac à rallonge. **Quazor** fait des échauffements pour se maintenir en forme pour l'arène prévue le lendemain. **Thalir** va chercher à se renseigner sur l'état de la guerre en cours à **Vontaine**.
+
+On se retrouve le soir dans l'auberge. **Thalir** nous apprend qu'une garnison a été envoyée en renforts à **Vontaine**, mais que sans un président, aucune action ne sera suffisamment  concrète pour changer le cours de la guerre. On est donc dans l'attente de la fameuse élection qui aura lieu le mercredi pour que des choses concrètes se précisent.
+L'aubergiste nous dit qu'on a reçu un mot, qu'il nous remet. Dessus, il est écrit "Demain, vous devez perdre." Le mot est signé par **Eric**.
+
+TIN TIN TIIIIN !
