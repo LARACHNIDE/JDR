@@ -776,7 +776,7 @@ On sort dans la rue, les gens nous regardent bizarrement parce qu'on est couvert
 On s'y dirige. Sur le chemin, on se nettoie dans une auge pour essayer de ressembler un peu à quelque chose. arrivés au château, les gardes nous laissent rentrer et nous disent qu'ils vont envoyer chercher le **duc d'Estrelan**. Au bout d'une dizaine de minutes, des pas se font sentir, et le **duc d'Estrelan** arrive vers nous, pressé et heureux de nous revoir ! Il nous amène dans ses bureaux. pour discuter. **Thalir** lui explique nos pérégrinations jusque-là.
 Il nous raconte aussi que les plantards, nommés "**Emessiens**" par les anciens, assiègent le royaume depuis un mois. Le duché d'Estrelan est tombé. Ils n'ont pas traversé le fleuve pour atteindre Milege, mais ont commencé à faire des avancées dans le duché de Vontaine. Ils n'ont pas su trouver de points faibles en particulier contre eux, excepté potentiellement le Noyau. Il réagit un peu bizarrement quand on évoque le texte 'Méléan' inscrit en runes sur la fresque. Il nous a aussi dit que normalement ils ne savent pas aller dans la structure gigantesque par laquelle nous sommes arrivés.
 
-Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du Magistère, du commandant des armées et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le commandant. Le dernier groupe expansionniste : 2 : un duc et le **Magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
+Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du Magistère, du **Commandant des armées** et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le **Commandant**. Le dernier groupe expansionniste : 2 : un duc et le **Magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
 
 Il nous apprend aussi qu'au cours de leur retour vers Milege, ils se sont fait attaquer, et qu'**Iber** est mort dans l'embuscade. Il a également totalement perdu la trace de **Bizon**.
 
@@ -897,7 +897,7 @@ Au sortir du combat, un mob parvient à s'enfuir par une trappe dans le fond de 
 
 ## XX - Sous la trappe
 
-Pendant qu'on descend, on entend des cris précipités, des objets qui sont poussés, déplacés, les gens en contrebas se préparent à notre arrivée. Le sol est en terre battue, il y a des tonneaux, des caisses, et une sorte de monte-charge. Face à nous, un passage est entièrement obstrué par des caisses, des tonneaux ... **Phobos** et **Quazor** commencent à dégager le passage obstrué, tandis que **Pinto** et **Thalir** ouvrent une porte sur le côté, où il y a un vieil homme qui dort.
+Pendant qu'on descend, on entend des cris précipités, des objets qui sont poussés, déplacés, les gens en contrebas se préparent à notre arrivée. Le sol est en terre battue, il y a des tonneaux, des caisses, et une sorte de monte-charge. Face à nous, un passage est entièrement obstrué par des caisses, des tonneaux ... **Phobos** et **Quazor** commencent à dégager le passage obstrué, tandis que **Pinto** et **Thalir** ouvrent une porte sur le côté, où il y a un homme mûr qui dort.
 
 <table>
 <tr>
@@ -910,7 +910,7 @@ Pendant qu'on descend, on entend des cris précipités, des objets qui sont pous
 </tr>
 <table>
 
-**Pinto** menace le vieil homme qui dort, essaye de savoir qui il est, ce qu'il fait là, ce qui se passe. Il dit s'appeler **Eric**, il avoue qu'il fait de la contrebande avec ses camarades, que son chef s'appelle **La Main**. Il donne à **Pinto** une clé.
+**Pinto** menace le dormeur, essaye de savoir qui il est, ce qu'il fait là, ce qui se passe. Il dit s'appeler **Eric**, il avoue qu'il fait de la contrebande avec ses camarades, que son chef s'appelle **La Main**. Il donne à **Pinto** une clé.
 **Phobos** et **Quazor** sont commencent à déblayer la barricade mais sont bloqués par un archer et une épée magique qui les empêchent de continuer. Ils rejoignent leurs compères dans l'autre pièce.
 **Pinto** s'engouffre dans un petit couloir dans lequel flotte une odeur nauséabonde, suivi par tout le monde. Arrivés à une intersection, on passe à côté de la fosse à purin, et on continue dans le couloir. Puis vient une pièce de vie avec tables et chaises, puis une porte. Elle est fermée, mais **Pinto** l'ouvre grâce à la clé donnée par **Eric**. Un combat se lance.
 
@@ -1156,3 +1156,16 @@ On se retrouve le soir dans l'auberge. **Thalir** nous apprend qu'une garnison a
 L'aubergiste nous dit qu'on a reçu un mot, qu'il nous remet. Dessus, il est écrit "Demain, vous devez perdre." Le mot est signé par **Eric**.
 
 TIN TIN TIIIIN !
+
+## XXXI - Qui sème le vent récolte les templates
+
+On se questionne sur le mot qu'**Éric** nous a fait parvenir. Le mot aurait été remis par une vieille femme (donc pas **Eric** directement). On est plus ou moins d'accord pour dire que vue que c'est aps assez clair, on ne va pas tenir compte de ce mot pour l'instant. Il est donc l'heure d'aller se coucher.
+
+Au petit matin, on se lève et on se rend vers l'Arène. Il y a déjà du monde sur place, des stands de bouffe qui s'installent. On passe par l'entrée des combattants. Une jeune femme nous reconnaît, enregistre nos équipements magiques (armure de **Thalir**, flûte de **Pinto**, les runes de l'arme de **Quazor**, le bâton inamovible pour **Phobos**).
+Elle nous explique le format des combats: du 4v4 d'abord, puis les phases finales se font en 1v1 par équipe en relai. Les vestiaires, enchantés, nous rendent notre santé entre chaque combat. Chaque équipe débute son combat à une extrémité de l'arène. Pas de combats à mort mais les accidents peuvent toujours arriver. Si qualification pour la finale, alors on récupère toutes nos capacités avant la finale. Entre deux et trois matchs pour la première phase. On se rend au vestiaire 12, et on commence à attendre que le tournoi commence et que notre tour vienne.
+
+Au bout d'une heure, on entend des cris, le bruit d'un commentateur, le tournoi semble avoir commencé. Peu de temps après, on vient nous chercher; La porte A qui nous a été assignée est une grande grille au travers de laquelle on voit l'arène. Le commentateur nous appelle, la grille s'ouvre, on entre dans l'arène sous les cris et les acclamations du public en folie. L'arène est blindée de monde. Sur notre gauche, il y a une tribune avec huit sièges, où trônent les 8 ducs, et derrière eux le pape, le Magistère et le **Commandant**. En-dessous d'eux, un elfe parle dans une sorte de talisman. C'est le présentateur. Il annonce l'équipe d'Aiguille, la grille en face de nous s'ouvre, et on retrouve nos fieffés adversaires de l'autre jour : **Alexandre** le demi-elfe avec son bouclier/épée, **Marguerite** la vieille dame, **Éléanor** la clerc et **Océane** la gnome avec ses tresses, qui fume, ses yeux deviennent rouges.
+
+Le combat se lance ! Y a des templates partout c'est un en-fer
+
+Glorieuse victoire de nous 
