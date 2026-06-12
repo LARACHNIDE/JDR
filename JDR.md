@@ -49,8 +49,15 @@ Le mur qui encercle Gérouan
 
 Classe : Fighter Eldritch Knight\
 Race : Minotaur\
-Contrée d'origine : Messat
-Passé : A eu des altercations avec des hordes de minotaures dans le passé qui ont tué sa famille. Tu veux montrer que les minotaures sont plus que des bêtes sauvages et veut faire le bien.
+Contrée d'origine : Messat\
+Passé : A eu des altercations avec des hordes de minotaures dans le passé qui ont tué sa famille. Veut montrer que les minotaures sont plus que des bêtes sauvages et veut faire le bien.
+
+### Pinto
+
+Classe : Bard College of Glamour\
+Race : Hiboulin\
+Contrée d'origine : Estrelan\
+Passé : A grandi dans un monastère, partagé entre sa passion du chant et de la musique et sa ferveur religieuse pour Gero. Curieux et assoiffé d'aventures!
 
 ### TODO : Compléter pour les autres
 
@@ -1096,7 +1103,7 @@ Fondation de la SACEM (Société d'Art et de Concerts de l'Exceptionnel Minotaur
 
 ## XXVIII - Marc Page, Étienne Page et L'enquête
 
-**Pinto** se demande si le duc ne pourrait pas être quelqu'un de **Karradin**, parce que pourquoi pas, au fond ? Bon bref on se met en route vers le château du duc d'Estrelan. On se dirige directement vers son bureau. Surpris de nous voir arriver, il nous demande ce qu'on vient faire ici. On lui demande donc plus de détails sur la nuit de l'assassinat, parce que ce qu'il nous a envoyé nous semble un peu mince. Agacé, il nous dit que comme il n'était pas là lors de la tentative d'assassinat, il n'a pas plus d'infos. Il nous congédie froidement. On cherche donc à se mettre en relation avec un capitaine de la garde ou un responsable de la sécurité qui puisse nous aiguiller (au pire on demande à Marc (page) de nous indiquer comment nous y rendre). On demande donc à un garde de nous indiquer la caserne, qui est un baraquement à la sortie du château. Pas mal d'activité, on est escortés par un garde jusqu'au bureau d'un homme lapin très très moustachu, assez âgé, qui a une belle armure avec beaucoup de médailles : Capitaine **Coupereau**. Quand on lui demande des précisions sur les évènement, il sort une pile de rapports de son bureau.
+**Pinto** se demande si le duc ne pourrait pas être quelqu'un de **Karradin**, parce que pourquoi pas, au fond ? Bon bref on se met en route vers le château du duc d'Estrelan. On se dirige directement vers son bureau. Surpris de nous voir arriver, il nous demande ce qu'on vient faire ici. On lui demande donc plus de détails sur la nuit de l'assassinat, parce que ce qu'il nous a envoyé nous semble un peu mince. Agacé, il nous dit que comme il n'était pas là lors de la tentative d'assassinat, il n'a pas plus d'infos. Il nous congédie froidement. On cherche donc à se mettre en relation avec un capitaine de la garde ou un responsable de la sécurité qui puisse nous aiguiller (au pire on demande à Marc (page) de nous indiquer comment nous y rendre). On demande donc à un garde de nous indiquer la caserne, qui est un baraquement à la sortie du château. Pas mal d'activité, on est escortés par un garde jusqu'au bureau d'un homme-lapin très très moustachu, assez âgé, qui a une belle armure avec beaucoup de médailles : Capitaine **Coupereau**. Quand on lui demande des précisions sur les évènement, il sort une pile de rapports de son bureau.
 Nuit de mercredi : à 10h, un groupe d'intrus déclenche une fausse alarme, ce qui détourne l'attention de la patrouille vers les cuisines, il y décrit un homme-chouette et un homme-lapin. Il regarde suspicieusement **Quazor** et **Pinto** ...
 10h10 : un page (**Étienne**) réceptionne un colis pour le duc, et le livre dans sa chambre
 10h15 : le même page repère un incendie dans la chambre du duc, il donne l'alarme et l'incendie est maîtrisé à 10h22, mais l'incendie a fait de gros dégâts.
@@ -1132,7 +1139,7 @@ On revient à la boutique de **Mr. Tubelin**, il nous fait passer dans l'arrièr
 
 <img src="images\larme_de_verre.jpg" width="500">
 
-Après toutes ces découvertes, on décide de rentrer à l'auberge pour se coucher et prendre des forces pour le tournoi du surlendemain. Sur le chemin, **Phobos** se sent observé, mais en savoir plus. On va plutôt boire un coup à l'auberge. Sur place, un jeune homme vient nous voir pour nous dire que des gens l'ont payé pour nous dire qu'on est attendus dehors. **Pinto** lui lance 1 PO pour leur dire de venir nous voir à l'intérieur. Il revient nous voir après une minute pour nous dire qu'il nous a traité de lâches et qu'il nous attend à l'arrière de l'auberge. Pour ne pas prendre trop de risques, **Pinto** va donc se rendre invisible et commencer à voler à l'extérieur de l'auberge, pour essayer de voir qui peut bien nous chercher des noises comme ça, parbleu !
+Après toutes ces découvertes, on décide de rentrer à l'auberge pour se coucher et prendre des forces pour le tournoi du surlendemain. Sur le chemin, **Phobos** se sent observé, mais sans en savoir plus. On va plutôt boire un coup à l'auberge. Sur place, un jeune homme vient nous voir pour nous dire que des gens l'ont payé pour nous dire qu'on est attendus dehors. **Pinto** lui lance 1 PO pour leur dire de venir nous voir à l'intérieur. Il revient nous voir après une minute pour nous dire qu'il nous a traité de lâches et qu'il nous attend à l'arrière de l'auberge. Pour ne pas prendre trop de risques, **Pinto** va donc se rendre invisible et commencer à voler à l'extérieur de l'auberge, pour essayer de voir qui peut bien nous chercher des noises comme ça, parbleu !
 Dans la ruelle derrière l'auberge, **Pinto** voit une elfe en armure, à côté d'une gnome avec une crête de tresse rouge. Ce sont nos futurs adversaires de l'arène, ceux que nous avions déjà cherchés devant l'autre auberge la veille. Il cherche à repérer également leurs deux autres acolytes, peut-être cachés dans les environs, et repère une femme un peu âgée en robe à quelques pas de là. Le dernier (un demi-elfe avec une masse) n'est pas visible.
 
 En toute connaissance de cause, on accepte de sortir les rencontrer pour voir ce qu'ils nous veulent.
@@ -1141,7 +1148,7 @@ En toute connaissance de cause, on accepte de sortir les rencontrer pour voir ce
 
 Nous sortons donc de l'auberge, on contourne le bâtiment et nos deux (prochains) adversaires surgissent au détour d'une ruelle. Ils nous invectivent gentiment, demandent pourquoi on les a suivis l'autre jour, proposent de régler ce différend en combat là maintenant out de suite. On leur répond gentiment que bon voilà ils sont bien gentils mais on peut faire ça lundi dans les règles de l'art. **Thalir** propose même d'aller boire un coup tous ensemble. Mais la gnomette (qui semble être leur cheffe), soupe-au-lait, refuse et ils s'en vont un peu bredouilles et frustrés. L'elfe nous menace d'un geste au moment de partir. Sur ce, nous retournons boire une bière comme si rien ne s'était passé.
 
-**Pinto** se lance dans un petit concert improvisé dans la salle de l'auberge. Les gens semblent de plus en plus intéressés par ce qu'il fait, ils se retournent et écoutent. Pour le final, **Pinto** se lance dans un éloge de l'aubergiste. Acclamé par toute la salle qui en redemande, il appelle **Phobos** à le rejoindre. Encouragé par l'assemblée, il se lève et le rejoint. "Comme ce matin, mais en mieux ?", demande **Pinto** à **Phobos**. Le duo se lance, **Pinto** au luth, **Phobos** tapant du pied pour faire un rythme endiablé. A un moment donné, **Pinto** lance son chapeau à **Quazor**, qui le récupère en un geste magistral. **Quazor** se joint aux deux compères pour les accompagner en faisant les choeurs, tant bien que mal. Toute la salle reprend en choeur avec lui. **Thalir** se joint au trio, invoque son double de sable et commence à faire une sorte de danse en duo avec. Malheureusement, il met du sable partout, une petite fille se met à pleurer, les gens les plus proches se mettent à tousser violemment. L'ambiance retombe d'un coup, on salue timidement et on monte se coucher.
+**Pinto** se lance dans un petit concert improvisé dans la salle de l'auberge. Les gens semblent de plus en plus intéressés par ce qu'il fait, ils se retournent et écoutent. Pour le final, **Pinto** se lance dans un éloge de l'aubergiste. Acclamé par toute la salle qui en redemande, il appelle **Phobos** à le rejoindre. Encouragé par l'assemblée, il se lève et le rejoint. "Comme ce matin, mais en mieux ?", demande **Pinto** à **Phobos**. Le duo se lance, **Pinto** au luth, **Phobos** tapant du pied pour faire un rythme endiablé. A un moment donné, **Pinto** lance son chapeau à **Quazor**, qui le récupère en un geste magistral. **Quazor** se joint alors aux deux compères pour les accompagner en faisant les choeurs, tant bien que mal. Toute la salle reprend en choeur avec lui. **Thalir** se joint au trio, invoque son double de sable et commence à faire une sorte de danse en duo avec. Malheureusement, il met du sable partout, une petite fille se met à pleurer, les gens les plus proches se mettent à tousser violemment. L'ambiance retombe d'un coup, on salue timidement et on monte se coucher.
 
 Le lendemain, on décide d'aller voir le dernier alchimiste dans la Basse-Ville.
 En arrivant, la porte est fermée, on ne voit pas grand chose même en mettant sa tête aux fenêtres. Les lieux semblent abandonnés, quelques objets traînent encore au sol. **Pinto** repère une fenêtre ouverte à un étage, il rentre, accompagné par **Thalir**. Ils ouvrent à leurs compères restés dans la rue. La boutique est vraiment vide, quelques feuilles de papier traînent au sol, dans la chambre à l'étage il reste des affaires comme si les occupants avaient dû partir précipitamment. On fouille le rez-de-chaussée et l'étage, mais rien de probant malgré tous nos efforts.
@@ -1150,7 +1157,7 @@ En arrivant, la porte est fermée, on ne voit pas grand chose même en mettant s
 
 Bredouilles, on se dirige vers la garde pour savoir s'ils ont des informations à son sujet, éventuellement. Le capitaine **Coupereau** nous reçoit mais il ne connaît rien de ce monsieur **Salarius**, son nom ne lui dit rien et a priori il n'a pas de 'casier judiciaire' connu. On se rend aussi au poste de capitainerie du quartier, où on explique aussi qu'on cherche **Salarius** au sergent. Ce dernier nous affirme que son nom ne lui dit rien de particulier, mais lui non plus n'est au courant de rien à son égard.
 
-On repart bredouilles, et on décide de faire des activités chacun de son côté pour finir tranquillement la demi-journée. **Pinto** va à la bibliothèque, **Phobos** se rend dans la forêt à côté de Milege pour voir ce que la mare d'huile est devenue après qu'on l'ait sortie du sac à rallonge. **Quazor** fait des échauffements pour se maintenir en forme pour l'arène prévue le lendemain. **Thalir** va chercher à se renseigner sur l'état de la guerre en cours à **Vontaine**.
+On repart bredouilles, et on décide de faire des activités chacun de son côté pour finir tranquillement la demi-journée. **Pinto** va à la bibliothèque, **Phobos** se rend dans la forêt à côté de Milege pour voir ce que la mare d'huile est devenue après qu'on l'ait sortie du sac à rallonge. C'est toujours une grosse zone de boue huileuse, aux reflets iridescents. **Quazor** fait des échauffements pour se maintenir en forme pour l'arène prévue le lendemain. **Thalir** va chercher à se renseigner sur l'état de la guerre en cours à **Vontaine**.
 
 On se retrouve le soir dans l'auberge. **Thalir** nous apprend qu'une garnison a été envoyée en renforts à **Vontaine**, mais que sans un président, aucune action ne sera suffisamment  concrète pour changer le cours de la guerre. On est donc dans l'attente de la fameuse élection qui aura lieu le mercredi pour que des choses concrètes se précisent.
 L'aubergiste nous dit qu'on a reçu un mot, qu'il nous remet. Dessus, il est écrit "Demain, vous devez perdre." Le mot est signé par **Eric**.
@@ -1159,13 +1166,29 @@ TIN TIN TIIIIN !
 
 ## XXXI - Qui sème le vent récolte les templates
 
-On se questionne sur le mot qu'**Éric** nous a fait parvenir. Le mot aurait été remis par une vieille femme (donc pas **Eric** directement). On est plus ou moins d'accord pour dire que vue que c'est aps assez clair, on ne va pas tenir compte de ce mot pour l'instant. Il est donc l'heure d'aller se coucher.
+On se questionne sur le mot qu'**Éric** nous a fait parvenir. Le mot aurait été remis par une vieille femme (donc pas **Eric** directement). On est plus ou moins d'accord pour dire que vue que c'est pas assez clair, on ne va pas tenir compte de ce mot pour l'instant. Il est donc l'heure d'aller se coucher.
 
 Au petit matin, on se lève et on se rend vers l'Arène. Il y a déjà du monde sur place, des stands de bouffe qui s'installent. On passe par l'entrée des combattants. Une jeune femme nous reconnaît, enregistre nos équipements magiques (armure de **Thalir**, flûte de **Pinto**, les runes de l'arme de **Quazor**, le bâton inamovible pour **Phobos**).
 Elle nous explique le format des combats: du 4v4 d'abord, puis les phases finales se font en 1v1 par équipe en relai. Les vestiaires, enchantés, nous rendent notre santé entre chaque combat. Chaque équipe débute son combat à une extrémité de l'arène. Pas de combats à mort mais les accidents peuvent toujours arriver. Si qualification pour la finale, alors on récupère toutes nos capacités avant la finale. Entre deux et trois matchs pour la première phase. On se rend au vestiaire 12, et on commence à attendre que le tournoi commence et que notre tour vienne.
 
-Au bout d'une heure, on entend des cris, le bruit d'un commentateur, le tournoi semble avoir commencé. Peu de temps après, on vient nous chercher; La porte A qui nous a été assignée est une grande grille au travers de laquelle on voit l'arène. Le commentateur nous appelle, la grille s'ouvre, on entre dans l'arène sous les cris et les acclamations du public en folie. L'arène est blindée de monde. Sur notre gauche, il y a une tribune avec huit sièges, où trônent les 8 ducs, et derrière eux le pape, le Magistère et le **Commandant**. En-dessous d'eux, un elfe parle dans une sorte de talisman. C'est le présentateur. Il annonce l'équipe d'Aiguille, la grille en face de nous s'ouvre, et on retrouve nos fieffés adversaires de l'autre jour : **Alexandre** le demi-elfe avec son bouclier/épée, **Marguerite** la vieille dame, **Éléanor** la clerc et **Océane** la gnome avec ses tresses, qui fume, ses yeux deviennent rouges.
+Au bout d'une heure, on entend des cris, le bruit d'un commentateur, le tournoi semble avoir commencé. Peu de temps après, on vient nous chercher. La porte A qui nous a été assignée est en fait une grande grille au travers de laquelle on voit l'arène. Le commentateur nous appelle, la herse se relève et on entre dans l'arène sous les cris et les acclamations du public en folie. L'arène est blindée de monde. Sur notre gauche, il y a une tribune avec huit sièges, où trônent les 8 ducs, et derrière eux le pape, le Magistère et le **Commandant**. En-dessous d'eux, un elfe parle dans une sorte de talisman. C'est le présentateur. Il annonce l'équipe d'Aiguille, la grille en face de nous s'ouvre à son tour, et on retrouve nos fieffés adversaires de l'autre jour : **Alexandre** le demi-elfe avec son bouclier/épée, **Marguerite** la vieille dame, **Éléanor** la clerc et **Océane** la gnome avec ses tresses, qui fume, ses yeux deviennent rouges.
 
 Le combat se lance ! Y a des templates partout c'est un en-fer
 
-Glorieuse victoire de nous 
+Glorieuse victoire de nous.
+
+## XXXII - L'arène est grande mais le roi est gros
+
+Suite à notre victoire, on retourne aux vestiaires. On entend de nouveau des cris, des hourras, des bruits de combats, des explosions ... Notre prochain combat arrive déjà ! On re-rentre dans l'arène face à l'équipe de Milege, composée d'un petit homme blafard, moustachu, avec une robe à capuche et un bâton dans les mains. Le second est un elfe à barbe, à cheveux roux, à arc et à carquois. Vient ensuite un autre elfe, vêtu de cuir, qui ressemble beaucoup au premier, muni de deux dagues. Enfin, notre dernier adversaire est un homme-corbeau aux vêtements bariolés, avec une flûte de pan.
+
+Le combat se lance, Arof oublie un détail, puis non, puis si quand même un peu. Puis il lance des dés pendant une minute non-stop sans qu'on sache ce qu'il se passe... Phobos part en courant pour chier dans un coin pendant que les autres se battent fièrement et gagnent le combat.
+
+Suite à cette deuxième victoire, on nous annonce que notre prochain combat aura lieu dans l'après-midi. On décide d'assister à la fin du dernier combat qui aura lieu le matin. Dans l'arène, 3 personnes au sol, un dernier encore debout. Face à lui, l'équipe de **Thamkir** au complet, immaculés, fringants dans leurs armures étincelantes. Le 'champion' de cette équipe, muni d'un énorme marteau, invoque Géro puis balaye son dernier adversaire, sous les hourras de la foule. C'est donc l'équipe de **Vebutie** qui se qualifie pour se battre face à nous en finale.
+
+**Thalir** repère son oncle **Vemlir** dans la foule et tente d'aller lui parler, mais échoue.
+
+Pour la finale : 1v1, dès qu'un 'meurt', on switch. Droit de switch au début de combat mais pas en plein milieu.
+
+On se prépare pour la finale, aménagée dans un ring au sein de l'arène.
+
+<img src="images\arene_finale.png" width="500">
