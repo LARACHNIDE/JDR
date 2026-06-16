@@ -1192,3 +1192,9 @@ Pour la finale : 1v1, dès qu'un 'meurt', on switch. Droit de switch au début d
 On se prépare pour la finale, aménagée dans un ring au sein de l'arène.
 
 <img src="images\arene_finale.png" width="500">
+
+## XXXIII - On est en finaaaale, on est en finaaale ! On est, on est, on est en finale !
+
+Thalir VS Luc => Victoire Thalir in extremis, ggwp
+Phobos VS Antmoine => Victoire d'Antmoine annulée par arbitre pour overreact (abus de la déflexion d'attaque en réaction)
+Pinto VS Frédéric (mais c'est un guerrier) => Défaite valeureuse de Pinto
