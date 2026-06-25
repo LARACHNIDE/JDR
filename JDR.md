@@ -1198,3 +1198,7 @@ On se prépare pour la finale, aménagée dans un ring au sein de l'arène.
 Thalir VS Luc => Victoire Thalir in extremis, ggwp
 Phobos VS Antmoine => Victoire d'Antmoine annulée par arbitre pour overreact (abus de la déflexion d'attaque en réaction)
 Pinto VS Frédéric (mais c'est un guerrier) => Défaite valeureuse de Pinto
+
+## XXXIV - Le comeback de Phobos
+
+1 PV mdr
