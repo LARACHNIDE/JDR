@@ -1202,3 +1202,25 @@ Pinto VS Frédéric (mais c'est un guerrier) => Défaite valeureuse de Pinto
 ## XXXIV - Le comeback de Phobos
 
 1 PV mdr
+
+## XXXV - Le cheval c'est trop génial
+
+**Quazor** VS **Thamkir** => Victoire de **Quazor**
+Combat final **Phobos** VS l'ex-adversaire de Pinto => p'tit coup d'arc, p'tit coup d'hache et bim c'est la victoire !
+
+Le présentateur, **Alceste Lonvain** nous donne le micro pour dire quelques mots. Puis il passe la parole au duc d'Estrelan.
+Ce dernier explique que nous sommes ceux qui avons prévenu en premier de l'invasion des plantards, du fait qu'on lui a sauvé la vie
+et tout. Il harangue un peu la foule, puis repasse le micro au présentateur, qui annonce qu'on gagne 2000 PO et un cheval chacun.
+Au passage, **Alceste** indique à **Pinto** que si jamais il cherche du boulot, il pourrait l'aider.
+**Thalir** repère son oncle **Vemlir** et son cousin **Thamkir** dans un coin, il va les voir. Il rappelle à **Thamkir** la loi
+de leur maison, où chacun doit faire ses preuves en dehors du clan. Comme il a battu en combat un prétendant à la succession,
+il fait donc partie de la faction de **Thalir**. **Vemlir** approuve cela, et confirme qu'ils s'aligneront sur **Thalir** à
+l'avenir.
+En sortant de l'arène, on prend le tramway (oh chouette !) pour aller vers les écuries pour récupérer notre cheval. Des gens se retournent
+sur notre passage parce qu'on a quand même trop la classe et aussi parce qu'on est complètement cassés de partout et pleins de sable et de sang.
+En suivant les crottins, sur le côté du palais, on repère les enclos des écuries. On va voir la responsable de l'écurie, une vieille gnome vêtue
+de cuir, portant un fouet. **Pinto** lui amène la lettre indiquant notre récompense, elle nous conduit vers les bêtes.
+Chacun choisit son cheval, bienvenue à Tepit Ponerre le goat, Palomino, Nagui et Bastien-kun !
+
+On retourne à l'auberge pour nous requinquer, puis on se dirige vers le Dé d'Or pour jouer un petit peu au casino.
+Premier verre offert par Pinto : un double prune qui réchauffe les entrailles, puis nous nous dirigeons vers un jeu de Dé.
