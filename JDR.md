@@ -783,7 +783,7 @@ On sort dans la rue, les gens nous regardent bizarrement parce qu'on est couvert
 On s'y dirige. Sur le chemin, on se nettoie dans une auge pour essayer de ressembler un peu à quelque chose. arrivés au château, les gardes nous laissent rentrer et nous disent qu'ils vont envoyer chercher le **duc d'Estrelan**. Au bout d'une dizaine de minutes, des pas se font sentir, et le **duc d'Estrelan** arrive vers nous, pressé et heureux de nous revoir ! Il nous amène dans ses bureaux. pour discuter. **Thalir** lui explique nos pérégrinations jusque-là.
 Il nous raconte aussi que les plantards, nommés "**Emessiens**" par les anciens, assiègent le royaume depuis un mois. Le duché d'Estrelan est tombé. Ils n'ont pas traversé le fleuve pour atteindre Milege, mais ont commencé à faire des avancées dans le duché de Vontaine. Ils n'ont pas su trouver de points faibles en particulier contre eux, excepté potentiellement le Noyau. Il réagit un peu bizarrement quand on évoque le texte 'Méléan' inscrit en runes sur la fresque. Il nous a aussi dit que normalement ils ne savent pas aller dans la structure gigantesque par laquelle nous sommes arrivés.
 
-Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du Magistère, du **Commandant des armées** et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le **Commandant**. Le dernier groupe expansionniste : 2 : un duc et le **Magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de Vontaine et de Milege mais c'est tout, il ne se sent pas favorisé dans ces élections.
+Politiquement, il y a 8 ducs, dont un est élu régulièrement pour devenir président du conseil, constitué du pape, du Magistère, du **Commandant des armées** et des 8 ducs. Les élections approchent et la situation est tendue. Il se présente pour imposer une loi martiale pour mieux organiser les troupes et ne pas trop se disperser. Il y a trois groupes d'influence principaux : un groupe conservateur qui souhaite maintenir les choses telles quelles : 6 dont le **duc d'Estrelan** et le pape (plutôt aligné sur le duc généralement). Ensuite un groupe militariste : 3 dont le **Commandant**. Le dernier groupe expansionniste : 2 : un duc et le **Magistère** (le dirigeant de la guilde des mages), plutôt ouverts sur l'extérieur. Le duc a le soutien de **Vontaine** et de **Milege** mais c'est tout, il ne se sent pas favorisé dans ces élections.
 
 Il nous apprend aussi qu'au cours de leur retour vers Milege, ils se sont fait attaquer, et qu'**Iber** est mort dans l'embuscade. Il a également totalement perdu la trace de **Bizon**.
 
@@ -810,6 +810,20 @@ Le duc de **Vebutie** est sceptique, il ne comprend pas pourquoi il faudrait env
 
 **Pinto** indique au **duc d'Estrelan** qu'il a une preuve supplémentaire à apporter au conseil. Il tient un parchemin d'une main tremblante et commence à le lire : "L’expérience touche à sa fin. Il est grand temps que
 nous regagnions ce qui nous est dû, notre vengeance est proche". Les ducs l'écoutent, prennent note de ça mais aucun consensus n'est atteint suite à cela. La réunion se termine, on sort avec le **duc d'Estrelan**. Il nous dit qu'on n'aurait pas dû évoquer le Noyau, et que les **Emessiens** n'ont rien à voir avec des morts-vivants. Il nous intime de trouver un moyen d'augmenter la puissance du Noyau. Sinon, il lui faudra gagner le siège de président du conseil pour pouvoir déclencher des actions. Il explique que ce sont le **duc de Saltre** et le **duc d'Aiguille** qui sont ses opposants. On a ça comme alliances : Estrelan/Vontaine/Milege VS Aiguille/Messat/Vebutie VS Conflans/Saltre. On discute émoluments avec le duc, il nous promeut sergents, puis on sort du château.
+
+Résumé final des ducs et de leurs factions :
+
+Duc de Saltre - Kenku - Conservateur, négociation, “Peut-être qu’on peut négocier ?”
+Duc de Vontaine - Harrengon, Conservateur, pro guerre. Pro-Estrelan
+Duc d’Estrelan -Loxodon,  Conservateur, guerre, Elephant
+Duc de Vebutie - Harrengon, Militariste, non-sujet - “Qu’ils viennent !” - Pro-Aiguille
+Duc d’Aiguille - Tabaxi - Militariste, non-sujet - “Vous êtes nuls et ridicules”
+Duc Conflans - Humain  - Sortir, négociation - “Savoir ce qu’ils veulent”. Raffiné, humain avec une belle moustache bouclée.
+Duc de Messat - Humain - Conservateur, pas mon sujet. Pro-Aiguille
+Duc de Milege - Grung - Conservateur, concerné. Pro-Estrelan
+Pape - Grung - Conservateur, guerre.
+Magistère - Elf - Pro-négociation  - “Savoir ce qu’ils veulent”
+Commandant - Gnome - guerre
 
 On ressort du château, on se demande un peu ce qu'on va pouvoir faire par la suite quand un page vient nous voir et nous informe que le pape souhaite nous convier à un repas organisé le lendemain soir à la cathédrale. On accepte l'invitation.
 
@@ -1171,7 +1185,7 @@ On se questionne sur le mot qu'**Éric** nous a fait parvenir. Le mot aurait ét
 Au petit matin, on se lève et on se rend vers l'Arène. Il y a déjà du monde sur place, des stands de bouffe qui s'installent. On passe par l'entrée des combattants. Une jeune femme nous reconnaît, enregistre nos équipements magiques (armure de **Thalir**, flûte de **Pinto**, les runes de l'arme de **Quazor**, le bâton inamovible pour **Phobos**).
 Elle nous explique le format des combats: du 4v4 d'abord, puis les phases finales se font en 1v1 par équipe en relai. Les vestiaires, enchantés, nous rendent notre santé entre chaque combat. Chaque équipe débute son combat à une extrémité de l'arène. Pas de combats à mort mais les accidents peuvent toujours arriver. Si qualification pour la finale, alors on récupère toutes nos capacités avant la finale. Entre deux et trois matchs pour la première phase. On se rend au vestiaire 12, et on commence à attendre que le tournoi commence et que notre tour vienne.
 
-Au bout d'une heure, on entend des cris, le bruit d'un commentateur, le tournoi semble avoir commencé. Peu de temps après, on vient nous chercher. La porte A qui nous a été assignée est en fait une grande grille au travers de laquelle on voit l'arène. Le commentateur nous appelle, la herse se relève et on entre dans l'arène sous les cris et les acclamations du public en folie. L'arène est blindée de monde. Sur notre gauche, il y a une tribune avec huit sièges, où trônent les 8 ducs, et derrière eux le pape, le Magistère et le **Commandant**. En-dessous d'eux, un elfe parle dans une sorte de talisman. C'est le présentateur. Il annonce l'équipe d'Aiguille, la grille en face de nous s'ouvre à son tour, et on retrouve nos fieffés adversaires de l'autre jour : **Alexandre** le demi-elfe avec son bouclier/épée, **Marguerite** la vieille dame, **Éléanor** la clerc et **Océane** la gnome avec ses tresses, qui fume, ses yeux deviennent rouges.
+Au bout d'une heure, on entend des cris, le bruit d'un commentateur, le tournoi semble avoir commencé. Peu de temps après, on vient nous chercher. La porte A qui nous a été assignée est en fait une grande grille au travers de laquelle on voit l'arène. Le commentateur nous appelle, la herse se relève et on entre dans l'arène sous les cris et les acclamations du public en folie. L'arène est blindée de monde. Sur notre gauche, il y a une tribune avec huit sièges, où trônent les 8 ducs, et derrière eux le pape, le Magistère et le **Commandant**. En-dessous d'eux, un elfe parle dans une sorte de talisman. C'est le présentateur. Il annonce l'équipe d'**Aiguille**, la grille en face de nous s'ouvre à son tour, et on retrouve nos fieffés adversaires de l'autre jour : **Alexandre** le demi-elfe avec son bouclier/épée, **Marguerite** la vieille dame, **Éléanor** la clerc et **Océane** la gnome avec ses tresses, qui fume, ses yeux deviennent rouges.
 
 Le combat se lance ! Y a des templates partout c'est un en-fer
 
@@ -1179,7 +1193,7 @@ Glorieuse victoire de nous.
 
 ## XXXII - L'arène est grande mais le roi est gros
 
-Suite à notre victoire, on retourne aux vestiaires. On entend de nouveau des cris, des hourras, des bruits de combats, des explosions ... Notre prochain combat arrive déjà ! On re-rentre dans l'arène face à l'équipe de Milege, composée d'un petit homme blafard, moustachu, avec une robe à capuche et un bâton dans les mains. Le second est un elfe à barbe, à cheveux roux, à arc et à carquois. Vient ensuite un autre elfe, vêtu de cuir, qui ressemble beaucoup au premier, muni de deux dagues. Enfin, notre dernier adversaire est un homme-corbeau aux vêtements bariolés, avec une flûte de pan.
+Suite à notre victoire, on retourne aux vestiaires. On entend de nouveau des cris, des hourras, des bruits de combats, des explosions ... Notre prochain combat arrive déjà ! On re-rentre dans l'arène face à l'équipe de **Milege**, composée d'un petit homme blafard, moustachu, avec une robe à capuche et un bâton dans les mains. Le second est un elfe à barbe, à cheveux roux, à arc et à carquois. Vient ensuite un autre elfe, vêtu de cuir, qui ressemble beaucoup au premier, muni de deux dagues. Enfin, notre dernier adversaire est un homme-corbeau aux vêtements bariolés, avec une flûte de pan.
 
 Le combat se lance, Arof oublie un détail, puis non, puis si quand même un peu. Puis il lance des dés pendant une minute non-stop sans qu'on sache ce qu'il se passe... Phobos part en courant pour chier dans un coin pendant que les autres se battent fièrement et gagnent le combat.
 
@@ -1224,3 +1238,74 @@ Chacun choisit son cheval, bienvenue à Tepit Ponerre le goat, Palomino, Nagui e
 
 On retourne à l'auberge pour nous requinquer, puis on se dirige vers le Dé d'Or pour jouer un petit peu au casino.
 Premier verre offert par Pinto : un double prune qui réchauffe les entrailles, puis nous nous dirigeons vers un jeu de Dé.
+
+On joue au jeu du 10000 au casino => petite session de jeu IRL du coup
+
+## XXXVI - La tournée des ducs
+
+Le lendemain, **Pinto** va acheter le journal et, tout fier, se vante d'être sur la une auprès du vendeur de journaux, puis retourne
+savourer cette découverte auprès de tous les autres. En descendant dans le hall de l'auberge, l'aubergiste nous tend une petite lettre,
+frappée du sceau d'Estrelan. C'est le duc, qui nous félicite pour notre victoire, et nous demande de le rejoindre le plus tôt
+possible. Bon bah petit-dej et c'est parti !
+Une fois arrivés, le duc nous reçoit immédiatement. Il nous remercie de nouveau pour le léger gain de popularité que cela lui octroie.
+Un nouveau sujet le tracasse et il nous demande si on connaît un certain **Eric**. Il nous annonce qu'il s'agissait d'un espion du
+**duc d'Aiguille** (pas de preuves mais de fortes suspicions) et qu'il l'a fait exécuter sans qu'il n'ait avoué quoi que ce soit d'intéressant.
+Il nous recommande de continuer l'enquête, et notamment de parvenir à interroger les autres ducs avant la tenue de l'élection, puis nous
+remercie. En sortant, il affiche un petit air satisfait ?
+
+On doit donc essayer de rechercher des informations sur l'assassinat du duc d'Estrelan. On veut obtenir un audience auprès de chacun d'entre eux,
+avec le pitch suivant : on vient se présenter auprès des ducs pour les saluer, suite à notre victoire dans l'arène de la veille. Par ailleurs,
+on rappelle que l'on est à la recherche d'informations suite à la tentative d'assassinat du **duc d'Estrelan**, et que notre piste principale
+est la larme de verre. On demande donc à chaque duc s'il ne connaîtrait pas un artisan particulièrement doué qui serait capable de produire
+un tel objet, ce qui nous permettrait de nous aiguiller vers un potentiel coupable.
+
+Rappel des ducs et de leurs factions :
+
+Duc de Saltre - Kenku - Conservateur, négociation, “Peut-être qu’on peut négocier ?”
+Duc de Vontaine - Harrengon, Conservateur, pro guerre. Pro-Estrelan
+Duc d’Estrelan -Loxodon,  Conservateur, guerre, Elephant
+Duc de Vebutie - Harrengon, Militariste, non-sujet - “Qu’ils viennent !” - Pro-Aiguille
+Duc d’Aiguille - Tabaxi - Militariste, non-sujet - “Vous êtes nuls et ridicules”
+Duc Conflans - Humain  - Sortir, négociation - “Savoir ce qu’ils veulent”. Raffiné, humain avec une belle moustache bouclée.
+Duc de Messat - Humain - Conservateur, pas mon sujet. Pro-Aiguille
+Duc de Milege - Grung - Conservateur, concerné. Pro-Estrelan
+Pape - Grung - Conservateur, guerre.
+Magistère - Elf - Pro-négociation  - “Savoir ce qu’ils veulent”
+Commandant - Gnome - guerre
+
+**Duc de Vébutie** (Harrengon homme-lapin assez occupé, penché sur des cartes de Gérouan): Pas d'infos, nous redirige vers le **duc d'Aiguille** qui
+lui a confié être perturbé par cette tentative. Quand **Thalir** lui montre la larme de verre, il est d'abord intrigué puis moqueur devant notre "stratégie d'interrogatoire".
+**Duc d'Aiguille** (Tabaxi homme-panthère très vindicatif, agacé par notre présence). Dès que **Pinto** évoque le sujet, il s'agace. Il accuse Estrelan
+d'être un mou, qui n'a plus de duché, qui annonce qu'il va l'écraser aux élections. Pour lui, il n'y aucun intérêt de tuer le duc d'Estrelan. Jusqu'à la semaine
+dernière et avant l'arène, Estrelan n'était pas assez "dangereux" pour qu'il ait "besoin" de l'assassiner. Il nous annonce alors que de son point de vue,
+il y a des chances que ce soit la faute du **duc de Saltre**, car il fait donc partie de la même faction que le **duc d'Estrelan** et qu'il profiterait de sa mort
+pour reprendre le flambeau politiquement, et donc tenter de se faire élire à la place du calife.
+
+On va donc voir le **duc de Conflans** (humain très distingué) qui est assez neutre vis-à-vis des deux ducs "ennemis" (?) et à qui on décide de demander s'il a
+connaissance de potentielles tensions entre le duc d'Estrelan et d'autres ducs, pour savoir si le **duc de Saltre** aurait pu faire quelque chose. Et il nous
+confirme bien que leurs relations se sont fortement dégradées récemment, et que leurs querelles impactent négativement la faction des conservateurs. Il nous
+confie qu'à cause de ça, il pense voter pour **Aiguille**. Il remet cependant en question le fait que le **duc de Saltre** puisse passer à l'action. Il confirme
+que les ducs d'Estrelan et de Saltre sont très opposés sur le sujet de la guerre. Estrelan est pro-guerre, tandis que le duc de Saltre, lui, prône le dialogue avec
+les envahisseurs. Cela fragilise la faction, et donc la popularité du duc d'Aiguille en profite.
+
+On enchaîne avec le **duc de Saltre**. A part le duc d'Aiguille qu'il nous indique en tout premier lieu, il se sent vexé par les insinuations de l'interrogatoire
+auquel il est soumis. Il nous explique pourquoi il est pro-dialogue et non pro-guerre car ce serait pour lui lancer une guerre totale contre un ennemi qu'on ne
+connaît pas, alors qu'il y a trop d'inconnues, et qu'il y a probablement une marge de manoeuvre que l'on peut essayer d'obtenir. **Pinto** le questionne sur
+le comportement du duc d'Estrelan. Il nous répond qu'il le trouve intraitable, intransigeant et difficile à vivre depuis quelques semaines, en tout cas depuis
+son arrivée à Milege. Le timing de l'assassinat, par rapport au calendrier politique, n'est, à son avis, pas une coïncidence. Il ne pense pas que ça puisse être
+un assassinat orchestré par le duc-même car cela n'aurait pas beaucoup d'intérêt. Finalement, on lui montre la larme de verre pour savoir si ça lui évoque
+quelque chose, mais non.
+
+**Duc de Messat**: soupçonne Aiguille, décide de ne pas le soutenir lors des élections à cause de cette tentative d'assassinat. Il n'a pas de preuves pour autant,
+mais ne souhaite pas prendre le risque de voter pour Aiguille, car ça serait prendre trop de risques pour le royaume. Il affirme qu'il aime voir le duc changé,
+car il le trouve plus déterminé qu'avant. La larme de verre ne lui évoque rien de plus.
+
+**Duc de Vontaine**: absent car dans sa ville qui est assiégée.
+
+**Duc de Milege**: Très jeune, fils du **duc de Milege** précédent qui était président du conseil avant lui. On le salue, on lui refait le topo. Croît en la culpabilité
+du duc d'Aiguille, par pure logique. On lui ressort aussi la larme batavique, il a l'air surpris et amusé: il connaît le principe de la larme car son cousin travaille le
+verre donc il sait bien comment ça marche, mais ça ne mène à rien de plus.
+
+Rapport au duc : les intentions de vote sont plutôt en sa faveur. Concernant Aiguille qui pense que ça viendrait de Saltre :Estrelan n'y avait pas pensé et reconnaît
+que c'est un fin stratège, donc sa théorie pourrait faire sens. Il songe à écarter Saltre pour ne pas prendre de risque. En plus, il nous annonce que le Magistere
+a fini sa machine, et qu'il compte l'annoncer demain en début de journée.
