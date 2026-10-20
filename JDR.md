@@ -1008,7 +1008,7 @@ On va voir le duc maintenant, pour lui parler du Noyau et du Grand Tournoi. Il c
 
 On finit de faire le tour des églises pour rencontrer les gens qui ont eu des visions. Globalement tout le monde raconte la même chose, on apprend deux nouveaux mots qui ont été entendus pendant les visions : 'portail' et 'clé'. Ils ont tous constaté une amplification de leurs miracles.
 
-Liste des mots entendus : Velmo, portail, clé, énergie, puissance, activé/activer, artefact
+Liste des mots entendus : Clé, énergie, puissance, activé/activer, artefact
 
 On se rend à la cathédrale pour demander une audience. Le pape accepte de nous recevoir dès maintenant.
 On lui raconte ce qu'on a entendu à propos des visions. On explique que ce qu'ils pensent être Géro est en fait le **père Rougier**. On lui raconte toute l'histoire, en particulier notre téléportation, notre arrivée dans la grande tour de Milege, la vision du père Rougier.
@@ -1259,6 +1259,7 @@ on rappelle que l'on est à la recherche d'informations suite à la tentative d'
 est la larme de verre. On demande donc à chaque duc s'il ne connaîtrait pas un artisan particulièrement doué qui serait capable de produire
 un tel objet, ce qui nous permettrait de nous aiguiller vers un potentiel coupable.
 
+<blockquote>
 Rappel des ducs et de leurs factions :
 
 Duc de Saltre - Kenku - Conservateur, négociation, “Peut-être qu’on peut négocier ?”
@@ -1305,7 +1306,61 @@ car il le trouve plus déterminé qu'avant. La larme de verre ne lui évoque rie
 **Duc de Milege**: Très jeune, fils du **duc de Milege** précédent qui était président du conseil avant lui. On le salue, on lui refait le topo. Croît en la culpabilité
 du duc d'Aiguille, par pure logique. On lui ressort aussi la larme batavique, il a l'air surpris et amusé: il connaît le principe de la larme car son cousin travaille le
 verre donc il sait bien comment ça marche, mais ça ne mène à rien de plus.
+</blockquote>
 
-Rapport au duc : les intentions de vote sont plutôt en sa faveur. Concernant Aiguille qui pense que ça viendrait de Saltre :Estrelan n'y avait pas pensé et reconnaît
-que c'est un fin stratège, donc sa théorie pourrait faire sens. Il songe à écarter Saltre pour ne pas prendre de risque. En plus, il nous annonce que le Magistere
+Rapport au duc : les intentions de vote sont plutôt en sa faveur. Concernant Aiguille qui pense que ça viendrait de Saltre : Estrelan n'y avait pas pensé et reconnaît
+que c'est un fin stratège, donc sa théorie pourrait faire sens. Il songe à écarter Saltre pour ne pas prendre de risque. En plus, il nous annonce que le Magistère
 a fini sa machine, et qu'il compte l'annoncer demain en début de journée.
+
+## XXXVII - Nous + Randoms VS La Machine
+
+Pas de level up, cheh pour toi Pinto
+
+Le lendemain, l'élection  des ducs a lieu, chacun de nous va donc voter, puis la journée se déroule tranquillement en attendant le décompte officiel qui aura lieu dans l'après-midi.
+Tout le monde se rend donc devant le château, où une grande esplanade a été préparée. Les ducs sont présents, bien évidemment, ainsi qu'une foule dense. Vers les deux heures de l'après-midi, après que les dernières cloches aient sonné, un page annonce les résultats : le duc d'Estrelan remporte l'élection. L'hymne d'Estrelan est joué, et la foule acclame le duc s'Estrelan qui prend place sur scène. Il nous fait signe de nous tenir derrière lui, (comme sa garde rapprochée ?). Il commence son discours, assurant qu'il fera de son mieux pour protéger Gero de la menace extérieure. Pour cela, il annonce demander les efforts de tous les duchés pour faire face à l'invasion en cours (conscription, impôts). Il souhaite également augmenter la sécurité dans toutes les villes. Il décrète l'instauration de la loi martiale et il prend également les pleins-pouvoirs (temporairement), en attendant que la crise soit résolue. Par ailleurs, un couvre-feu est décrété pour éviter les troubles au maximum. Applaudissements plus timides de la part de la foule.
+
+Le discours prend fin. Certains ducs, escortés par les gardes, râlent un peu. Puis il se tourne vers nous, et nous demande de le suivre pour discuter de quelque chose d'important. Auréolés de notre nouveau statut (oui Asta je l'ai noté !), nous le suivons à l'intérieur du château.
+Tout d'abord il nous remercie pour toute l'aide que nous lui avions apportée au cours de nos péripéties. Puis il nous dit qu'il pense qu'on peut faire quelque chose de plus important que de suivre le **Magistère**. Il nous demande de lui redire ce qu'on a vu dans la Structure
+On se rappelle des mots qu'on avait entendus, d'une question de puissance, d'un puits de sable qui absorbait la magie des objets. Il annonce qu'en posant un artefact ayant beaucoup de puissance, il y aurait sans doute une possibilité de faire quelque chose (?).
+On se remémore l'histoire des cristaux du métro qui fournissent de l'énergie, donc on se dit bien qu'il y aurait moyen de bidouiller quelque chose désormais. Le duc annonce qu'il va faire arrêter un métro de la ville, pour qu'on en extraie un cristal, et qu'on puisse mener à bien notre expérience. L'entrevue avec le duc prend fin.
+
+Au bout d'un petit moment, tandis qu'on attend dans la cour, une petite troupe (un Kenku **Melchior**, 5 soldats et une elfe en toge) nous rejoint, l'elfe **Geneviève** nous présente le cristal qu'elle tient entre ses mains. Le sergent **Melchior** possède, lui, le Noyau, dans une besace. On les emmène vers la structure, via l'ascenseur dissimulé qui nous a amené à **Milege** la toute première fois.
+
+Arrivés devant la grande porte de la structure, la porte s'ouvre toute seule, d'elle-même (pas besoin de clé comme la première fois ... bizarre ?). Les lumières du couloir s'allument petit à petit, comme la première fois. On suit donc les lumières, qui nous font partir vers la droite, et jusqu'à la porte de la pièce avec le puits de sable. Là encore, la porte de la pièce s'ouvre toute seule, sans nécessiter la clé. **Geneviève** pose le cristal sur le sable, il se met à vibrer, et à s'enfoncer petit à petit dans le sable, puis s'immmobilise. Blanc de quelques secondes. Puis on entend un bruit formidable de rouages et d'engrenages qui s'enclenchent. Les lumières de la pièce s'allument totalement, et un hologramme de corbeau sort du sable (on reconnaît le **père Rougier**, il nous annonce être content qu'on soit parvenu à utiliser ses indices, et nous demande de le rejoindre dans la pièce principale).
+
+On se rend donc vers la pièce principale. Sur le chemin, les lumières nous guident de nouveau dans un grand nombre de couloirs pendant une vingtaine de minutes, jusqu'à arriver devant une porte qui, cette fois, ne s'ouvre pas ! Heureusement, **Pinto** a son rouleau de PQ à portée de main (aka la clé), qu'il insère dans la serrure. A cet instant, les lumières clignotent en rouge, tandis qu'une alarme retentit à nos oreilles. On ne sait pas trop quoi faire. Retirer la clé ne change rien, approcher le Noyau de la porte non plus, mais rien. **Geneviève** accepte de sortir le Noyau de son coffret et de le coller à la porte, mais rien ne se passe rien non plus. Dans le même temps, on entend des bruits métalliques se rapprocher de plus en plus. On se met donc en formation de combat, au moment même où, au détour d'un couloir, on voit arriver d'immenses armures mécaniques, blanchâtres, hautes de 6m de haut, se rapprocher au détour d'un couloir.
+
+<img src="images\bataille_structure.png" width="500">
+
+<img src="images\bataille_structure_2.png" width="500">
+
+PUTAIN IL TANKE SA MERE LE GROS GARDIEN LA
+
+On finit quand même par le faire s'écrouler dans un immense fracas ! Dans son dos, une plaque en métal est entrouverte.
+EN l'ouvrant, **Pinto** repère une sorte de clé qui ressemble à la clé de la structure (celle qui a déclenché l'alarme), ainsi qu'un cristal qui semblé dépourvu de sa magie. L'intérieur de la machine est remplie d'une sorte de poussière que **Thalir** récupère dans l'espoir d'en faire quelque chose (un autre soldat ?).
+
+**Pinto** insère la nouvelle clé dans la serrure, l'alarme s'arrête, les lumières se rallument, la porte s'ouvre.
+Une grande pièce circulaire s'ouvre à nous, on distingue des rouages et des mécanismes qui s'activent un peu partout aux murs. Des fresques sur les murs nous évoquent des fresques déjà vues par le passé. Il y a également un cristal dont la puissance semble vaciller, sa lumière scintille, sur un autel.
+
+Un des soldats nous quitte pour aller faire un sergent, sur ordre de **Melchior**.
+
+On s'approche du cristal, on ressent une sorte de crépitement dans l'air; On constate qu'il a exactement la même forme et taille que le Noyau, mais d'un blanc laiteux. Il semble en "mauvais état". Rapprocher le cristal vidé de la machine d'avant ne fait rien.
+
+**Pinto** appelle le **père Rougier**, dont la forme apparaît soudainement devant nous. Il nous entend, peut dialoguer avec nous. Il nous explique que les mécanismes de défense sont endommagés, en l'occurrence la défense contre Emessia. POur le réparer, il évoque le cristal de Velmo. Il faut donc qu'on se rende à Velmo pour récupérer son cristal.
+
+Pendant qu'on dialogue avec le **père Rougier**, l'érudite **Geneviève** récupère le Noyau de la poche du sergent, et le père Rougier acquiesce, mais précise qu'il semble altéré. **Geneviève** perd patience, et se rapproche du Noyau blanc. Bien que **Pinto** cherche à l'interrompre, des sortes de filaments/volutes noirs quittent le Noyau noir pour atteindre le Noyau blanc. Alors que cela se passe, **Pinto** sent son sac à dos chauffer et vibrer. Il l'ouvre, et repère tout de suite que la pierre de communication grise (celle qui était un peu abîmée) vibre et luit. Au moment où il l'effleure, il se retrouve coupé du  monde. Du point de vue extérieur, il tombe à genoux. Pour **Pinto**, il se retrouve privé de ses sens, plus aucun ressenti. Puis d'un coup, une grande lumière qui grandit et s'étend, qui devient vert et lumineux. Un sentiment de félicité l'envahit, il se sent heureux, réconforté. Le point de lumière qui grandissait finit par se stabiliser, pendant une durée qui semble impossible à mesurer. Des tâches rouges commencent à apparaître, à ce moment **Pinto** ressent 5 points de douleur atroce qui semblent le perforer. Il lutte pendant un temps infini, parvient à repousser la douleur en lui, jusqu'à ce que les tâches de lumière s'effacent, n'en laissant plus que deux. Les visions disparaissent, il ressent de nouveau son corps, et parvient à distinguer, comme une sensation en son for intérieur "Aide-moi ..."
+
+Puis **Pinto** recouvre ses sens, tout ça n'a duré que trois secondes pour nous autres, de l'extérieur. Il semble doucement émerger d'un rêve, finit par nous expliquer ce qu'il vient de lui arriver. La pierre de communication qu'il tient dans sa main est maintenant inerte. **Geneviève** recommence à se déplacer vers le Noyau blanc. **Quazor** se précipite pour l'arrêter. Elle insiste. Le duc d'Estrelan apparaît alors face à nous, puis se transforme. Il perd ses défenses ... et **Iber** apparaît ! "Alors, vous je vous avais manqué ?"
+
+
+
+
+
+
+
+
+
+
+
+
+
