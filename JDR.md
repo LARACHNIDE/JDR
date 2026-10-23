@@ -1312,7 +1312,7 @@ Rapport au duc : les intentions de vote sont plutôt en sa faveur. Concernant Ai
 que c'est un fin stratège, donc sa théorie pourrait faire sens. Il songe à écarter Saltre pour ne pas prendre de risque. En plus, il nous annonce que le Magistère
 a fini sa machine, et qu'il compte l'annoncer demain en début de journée.
 
-## XXXVII - Nous + Randoms VS La Machine
+## XXXVII - Nous against the Machine
 
 Pas de level up, cheh pour toi Pinto
 
@@ -1352,15 +1352,102 @@ Pendant qu'on dialogue avec le **père Rougier**, l'érudite **Geneviève** réc
 
 Puis **Pinto** recouvre ses sens, tout ça n'a duré que trois secondes pour nous autres, de l'extérieur. Il semble doucement émerger d'un rêve, finit par nous expliquer ce qu'il vient de lui arriver. La pierre de communication qu'il tient dans sa main est maintenant inerte. **Geneviève** recommence à se déplacer vers le Noyau blanc. **Quazor** se précipite pour l'arrêter. Elle insiste. Le duc d'Estrelan apparaît alors face à nous, puis se transforme. Il perd ses défenses ... et **Iber** apparaît ! "Alors, vous je vous avais manqué ?"
 
+Au même moment, **Pinto** lance la pièce de communication avec **Lemaitre** en l'air.
 
+## XXXVIII - Révélations (Twilight chapitre 4)
 
+TOut confus, on lui demande ce qu'il fait là.
+Il explique que si on met le Noyau dans la machine, c'est la libération de toutes les races de ce monde, la possibilité de sortir de murs, il prédit un temps d'abondance, de richesse infinie. Il annonce que les Emessiens vont aussi disparaître, et c'est ça qui est beau, selon ses mots. Il nous indique de regarder les fresques aux murs. **Phobos** s'exécute. **Iber** confirme qu'il a bien tué le duc, car c'était le seul moyen de gagner du pouvoir et de sauver un maximum de monde.
+Les fresques reprennent le symbole qu'on avait vu il y a longtemps
 
+<table>
+<td>
+<img src="images\le_donut.png" width="500">
+</td>
+</tr>
+<table>
 
+Mais il y a aussi des êtres supplémentaires représentés un peu partout : des humanoides, des Kenku, des hommes léopards, des hommes chouettes, grenouilles, des géants, de nains, etc ... Il y a aussi les cristaux (centre bleu), Malzar gris, Velmo vert, Karradin gris, Gerouan gris. On rappelle que celui de Velmo était rouge à la base, et est maintenant vert. Méléan au centre, qui doit représenter toute la "planète". Gris semble être inactif, vert actif, quid de rouge ?
+**Iber** explique que tous les royaumes sont des prisons géantes, dont un geôlier, Emessia, nous empêche de sortir, mais essaye aussi d'y rentrer. Karradin a été envahi il y a quelques années, comme Gerouan l'est actuellement. Il prédit des millions de mort, le désespoir, etc ... **Pinto** propose d'aller à Velmo, mais **Iber** explique qu'il y est allé mais qu'on ne les a pas laissé entrer. Donc il explique que les Karradinois à l'extérieur sont des réfugiés qui fuient leur royaume, et que le duc d'Estrelan va donc ordonner de les accueillir.
 
+Chaque royaume possède une orbe comme ça qui repousse les Emessiens, mais qu'elles faiblissent avec le temps. Il faut donc la réparer avec le Noyau, qui est l'ancien de Karradin, altéré avec de la nécromancie, d'où l'accident qui s'est produit à la Faille. C'était ça, l'expérience dont on a entendu parler au tout début de notre aventure.
 
+Il réalise que le passage de Velmo de rouge à vert est peut-être dû à notre voyage au travers d'un téléporteur lors de notre arrivée à Milege.
 
+**Iber** explique qu'utiliser cette technique permettre de tuer Emessia, qui est un individu unique, et qui n'est pas innocent. De cette manière, tous les habitants des royaumes pourront alors sortir hors les murs de chacun des royaumes, et s'étendre sur toute la planète.
 
+**Pinto** explique qu'il n'a pas confiance, il essaye de palabrer pour retarder le "rituel", cherche à lui faire confiance. Gros moment de doute collectif, **Quazor** propose d'utiliser le parchemin de vérité pour s'assurer qu'il n'essaye pas de nous la jouer à l'envers et qu'il est sincère dans ce qu'il nous raconte. **Iber** accepte de se prêter au "jeu". **Quazor** demande si son véritable but, c'est de bien le "bonheur" du plus grand monde; Pour répondre à ça, **Iber** nous demande ce qu'il en est de Méléan. Dans la fresque, il y a des minotaures et des gobelins qui semblent être liés à Méléan. Ce sont deux races "déchues", en marge de la société. Comment est-ce possible ? En fait, on est à Méléan depuis le début, et pas à Gérouan. En fait, Gérouan est déjà tombé, et tous ses habitants (nous) ont envahi Méléan et ont détruit ses anciennes civilisations (minotaures et gobelins) pour s'installer à leur place. Cela explique les ruines qu'on a déjà croisées.
 
+Donc il n'y a plus que deux royaumes actifs : Méléan et Velmo, et Méléan est en train de tomber. **Iber** explique que lui avait trouvé une carte, qui indiquait qu'il se trouvait à Méléan. Surpris de voir tout le monde l'appeler Gérouan, il a compris ce qu'il s'est passé par le passé, à savoir qu'une invasion/migration de royaume a déjà eu lieu par le passé.
 
+**Pinto** revoit sa vision tourmentée qu'il a eu juste avant, et en déduit que c'est probablement un signal d'Emessia, qui l'enjoignait à la laisser "entrer" dans les royaumes.
 
+Au final, nous sommes convaincus par ses explications, alors **Iber** se rapproche du centre de la salle avec le Noyau.
 
+Au même moment, **Lemaitre** fait une entrée calme et digne dans la pièce. **Iber** et ses sbires prennent peur et sortent leurs armes, pris de panique devant la puissance de **Lemaitre** uqi , par sa seule présence, fait vacioller les lumières de la pièce.
+
+En rentrant, il annonce vouloir nous proposer une autre alternative pour résoudre nos problèmes. D'un geste de la main, il ouvre la porte qui nous faisait face, au bout de la pièce. Un grand couloir, puis une autre porte. **Lemaitre** la fait s'ouvrir d'un geste. On pénètre alors dans une immense pièce, comme un gigantesque tunnel voûté, au bout duquel on distingue ... le ciel. Dans la pièce, d'immenses formes sont alignées, ressemblant à des bateaux oblongs.
+
+<table>
+<td>
+<img src="images\tunnel_voute.png" width="500">
+</td>
+</tr>
+<table>
+
+**Lemaitre** annonce qu'on ne vient pas de cette planète, et qu'on est arrivés sur ces vaisseaux. Il propose qu'on reparte et qu'on quitte la planète grâce à ces vaisseaux. Malheureusement, ils ne peuvent pas contenir autant de gens qu'on le voudrait, car il estime leur capacité à environ 100k personnes (alors que plusieurs millions de gens résident à Méléan/Gérouan). Donc on ne pourra pas sauver tout le monde, quoi qu'il arrive.
+
+On estime que ce n'est pas assez, donc pas suffisant, et qu'on préfère encore essayer la solution d'**Iber**. **Pinto** émet encore des réserves, et demande à **Iber** de montrer son vrai visage. Il se transforme et nous découvrons **Jolak** !
+
+Nous retournons tous dans la première pièce, où **Jolak** rapproche alors le Noyau de Karradin vers celui de Méléan. Des volutes d'énergie semblent s'achanger entre eux.
+
+Une voix s'élève doucement, disant "Ah mon ami, qu'avez_vous fait ?"
+
+**Jolak** remplace soudainement le Noyau de Méléan par celui de **Karradin**, et prend une pose étrange, comme s'il invoquait quelque chose.
+
+**Pinto** sent la pierre de communication qu'il tenait dans la main se mettre à chauffer et à trembler. Il se retrouve de nouveau plongé dans son océan de douleur intense, il hurle comme si dex milliards d'existences s'éteignaient en lui au même instant. Il semble ressentir le centre de son être, autour duquel la douleur se resserre. Tandis qu'il lutte contre cette invasion de douleur et de feu, il se concentre pour placer un partie de lui-même dans une coque protectrice, qu'il veut mettre à l'abri de la douleur. Dans ce magma de douleur, il entend "Aide-le", puis reprend ses esprits.
+
+Les sbires d'**Iber**, eux, se prennent dans les bras, sont extatiques.
+
+**Pinton** reprend peu à peu ses esprits, il ressasse ce qu'il a vécu et croît tenir un être fragile entre ses mains (dans la pierre), comme s'il était devenu le gardien d'Emessia sous la forme d'un nouveau-né.
+
+**Iber** "Les amis, on l'a fait, c'est incroyable".
+
+Perplexe, on lui demande si ça a vraiment marché. Il sort une pierre de communication, de laquelle sort des hurlements de joie criant "ça a marché !". Il est en communication avec ses amis de l'extérieur de Méléan/Velmo, à qui il annonce qu'ils pourront bientôt rentrer dans le royaume et s'y installer, que le règne d'Emessia a pris fin.
+
+**Lemaitre**, les yeux humides, annonce qu'on a été investis d'une dernière mission, et qu'il serait fier et heureux qu'on la réussisse. **Pinto** lui indique la pierre qu'il tient entre ses plumes, **Lemaitre** acquiesce, et nous souhaite de lui trouver une "maison". Il nous remet également un disque fait dans le même matériau que les murs de la structure, qu'il nous remet et nous dit d'aller dans le hangar le plus à droite, et nous souhaite bonne chance. Il nous quitte, ensuite, marchant calmement. Il passe le pas de la porte, qui se referme brusquement, puis se réouvre aussi vite. **Lemaitre** a disparu.
+
+<table>
+<td>
+<img src="images\médaillon.png" width="500">
+</td>
+</tr>
+<table>
+
+**Pinto** nous explique alors ce qu'il a vécu avec la pierre, ainsi que la mission dont il a été investie.
+
+On rentre dans le hangar, vers la droite, comme **Lemaitre** nous l'a indiqué; On arrive finalement dans un han gar plus petit; le disque que **Lemaitre** a remis se met à briller, **Pinto** se "concentre" dessus, et une porte s'ouvre dans un petit vaisseau de ce hangar. Il est possible de se concentrer pour ouvrir et fermer cette porte tant qu'on tient le médaillon dans sa main. L'intérieur fait penser aux tramways de Milege, avec des matériaux inhabituels. On y entre, on explore, on y découvre une sorte de poste de commandement, dans lequel une forme semble n'attendre rien d'autre qu'on y insère le médaillon. Ce qu'on fait. Les "voiles" du vaisseau s'étirent, s'allongent, se déploient.
+
+<table>
+<td>
+<img src="images\vaisseau.png" width="500">
+</td>
+</tr>
+<table>
+
+**Quazor** retire brusquement le disque, les ailes se replient. On est très curieux d'en utiliser plus tard.
+
+FFW des prochains jours :
+Le **duc d'Estrelan/Iber/Jolak** explique un peu ce qui s'est passé au peuple par rapport aux Karradinois qui vont arriver dans le royaume car accueillis, le duc de Saltre est mort dans sa chambre, l'accueil des nouveaux arrivants se fait. Admettons qu'on s'assure que tout sera fait pour que Méléan/Gérouan soit "entre de bonnes mains".
+
+On retourne voir une dernière fois **Jolak**/**Iber**/**duc d'Estrelan**. Il souhaite nous remercier pour tout ce qu'on a fait et veut nous remercier en érigeant une statue en notre honneur. Il nous félicite une nouvelle fois pour nos exploits, et nous souhaite bonne chance pour la suite. **Quazor** demande une faveur : dégager **Gestor** du Dé d'or. Faveur accordée. **Pinto** demande une nouvelle pierre de communication pour pouvoir rester en contact avec lui. On se souhaite mutuellement bon courage pour la suite, puis nous prenons finalement congé.
+
+Quelques jours plus tard, on est fin prêts à partir. On monte alors dans le vaisseau, on "l'allume", une sorte de carte de Gérouan/Méléan apparaît, sur laquelle on peut pointer des destinations. En interagissant, avec, le vaisseau soulève du sol, s'envole et passe par la baie. On se rend à Sermeille. Il n'y a plus de traces de végétation, la ville semble se remettre des ses blessures. On se rend ensuite à la Faille pour y voir les réfugiés. On y voit une immense procession, des campements de fortune. On repère de loin aussi le mont dans lequel on avait trouvé les géants. On repère aussi toute la zone abîmée et flétrie par l'avancée d'Emessia dans les terres.
+
+Enfin, on relève le nez du vaisseau jusqu'à monter, et petit à petit, on distingue le sommet du mur, puis on le dépasse. On voit enfin, pour la première fois, l'autre côté du mur. On y distingue un immense paysage vallonné mais quasiment désertique, balayé par des vents sablonneux. Il y a malgré tout des cours d'eau marécageux ou boueux. C'est un paysage de désolation qui s'offre à nous, mais nous ne désespérons pas d'y voir refleurir la vie un jour.
+
+En dézoomant la carte, on arrive jusqu'à une carte de la planète, où l'on distingue les autres royaumes. L'aventure s'ouvre à nous. **Pinto** nous guide en se fiant à ce qu'il ressent de la pierre-Emessia. Au bout de plusieurs heures de voyage, un pic rocheux isolé se profile à l'horizon. Au fur et à mesure qu'on s'en rapproche, on réalise qu'il s'agit d'un arbre gigantesque, mais entièrement asséché. On descend jusque dans ses racines cyclopéennes (Scadutree Base !?!). Au bout de plusieurs kilomètres de descente, on arrive dans une zone où il y a une sorte de grosse noix au milieu d'un grand espace désolé. Au moment où **Pinto** la touche, la pierre qu'il tient dans sa main s'effrite et s'émiette dans un souffle de contentement. On charge la noix ans le vaisseau.
+
+On dézoome encore la carte, on y distingue alors des lunes, des étoiles, une galaxie entière, vers laquelle nous voguerons vers de nouvelles aventures !
+
+**THE END**
